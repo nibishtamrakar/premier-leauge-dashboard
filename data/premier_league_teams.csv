@@ -1,0 +1,2281 @@
+Season,Date,Team,Opponent,Venue,GoalsFor,GoalsAgainst,Shots,ShotsOnTarget,Outcome,Points,GoalDifference
+2023-2024,2023-08-11,Burnley,Man City,Home,0,3,6,1,Loss,0,-3
+2023-2024,2023-08-11,Man City,Burnley,Away,3,0,17,8,Win,3,3
+2023-2024,2023-08-12,Arsenal,Nott'm Forest,Home,2,1,15,7,Win,3,1
+2023-2024,2023-08-12,Aston Villa,Newcastle,Away,1,5,16,6,Loss,0,-4
+2023-2024,2023-08-12,Bournemouth,West Ham,Home,1,1,14,5,Draw,1,0
+2023-2024,2023-08-12,Brighton,Luton,Home,4,1,27,12,Win,3,3
+2023-2024,2023-08-12,Crystal Palace,Sheffield United,Away,1,0,24,8,Win,3,1
+2023-2024,2023-08-12,Everton,Fulham,Home,0,1,19,9,Loss,0,-1
+2023-2024,2023-08-12,Fulham,Everton,Away,1,0,9,2,Win,3,1
+2023-2024,2023-08-12,Luton,Brighton,Away,1,4,9,3,Loss,0,-3
+2023-2024,2023-08-12,Newcastle,Aston Villa,Home,5,1,17,13,Win,3,4
+2023-2024,2023-08-12,Nott'm Forest,Arsenal,Away,1,2,6,2,Loss,0,-1
+2023-2024,2023-08-12,Sheffield United,Crystal Palace,Home,0,1,8,1,Loss,0,-1
+2023-2024,2023-08-12,West Ham,Bournemouth,Away,1,1,16,3,Draw,1,0
+2023-2024,2023-08-13,Brentford,Tottenham,Home,2,2,11,6,Draw,1,0
+2023-2024,2023-08-13,Chelsea,Liverpool,Home,1,1,10,4,Draw,1,0
+2023-2024,2023-08-13,Liverpool,Chelsea,Away,1,1,13,1,Draw,1,0
+2023-2024,2023-08-13,Tottenham,Brentford,Away,2,2,18,6,Draw,1,0
+2023-2024,2023-08-14,Man United,Wolves,Home,1,0,15,3,Win,3,1
+2023-2024,2023-08-14,Wolves,Man United,Away,0,1,23,6,Loss,0,-1
+2023-2024,2023-08-18,Nott'm Forest,Sheffield United,Home,2,1,16,4,Win,3,1
+2023-2024,2023-08-18,Sheffield United,Nott'm Forest,Away,1,2,7,3,Loss,0,-1
+2023-2024,2023-08-19,Bournemouth,Liverpool,Away,1,3,13,5,Loss,0,-2
+2023-2024,2023-08-19,Brentford,Fulham,Away,3,0,17,8,Win,3,3
+2023-2024,2023-08-19,Brighton,Wolves,Away,4,1,16,8,Win,3,3
+2023-2024,2023-08-19,Fulham,Brentford,Home,0,3,10,2,Loss,0,-3
+2023-2024,2023-08-19,Liverpool,Bournemouth,Home,3,1,26,10,Win,3,2
+2023-2024,2023-08-19,Man City,Newcastle,Home,1,0,14,4,Win,3,1
+2023-2024,2023-08-19,Man United,Tottenham,Away,0,2,22,6,Loss,0,-2
+2023-2024,2023-08-19,Newcastle,Man City,Away,0,1,7,1,Loss,0,-1
+2023-2024,2023-08-19,Tottenham,Man United,Home,2,0,17,6,Win,3,2
+2023-2024,2023-08-19,Wolves,Brighton,Home,1,4,16,5,Loss,0,-3
+2023-2024,2023-08-20,Aston Villa,Everton,Home,4,0,13,7,Win,3,4
+2023-2024,2023-08-20,Chelsea,West Ham,Away,1,3,17,4,Loss,0,-2
+2023-2024,2023-08-20,Everton,Aston Villa,Away,0,4,9,2,Loss,0,-4
+2023-2024,2023-08-20,West Ham,Chelsea,Home,3,1,12,6,Win,3,2
+2023-2024,2023-08-21,Arsenal,Crystal Palace,Away,1,0,14,3,Win,3,1
+2023-2024,2023-08-21,Crystal Palace,Arsenal,Home,0,1,14,2,Loss,0,-1
+2023-2024,2023-08-25,Chelsea,Luton,Home,3,0,19,8,Win,3,3
+2023-2024,2023-08-25,Luton,Chelsea,Away,0,3,11,1,Loss,0,-3
+2023-2024,2023-08-26,Arsenal,Fulham,Home,2,2,19,11,Draw,1,0
+2023-2024,2023-08-26,Bournemouth,Tottenham,Home,0,2,11,3,Loss,0,-2
+2023-2024,2023-08-26,Brentford,Crystal Palace,Home,1,1,12,1,Draw,1,0
+2023-2024,2023-08-26,Brighton,West Ham,Home,1,3,25,10,Loss,0,-2
+2023-2024,2023-08-26,Crystal Palace,Brentford,Away,1,1,15,5,Draw,1,0
+2023-2024,2023-08-26,Everton,Wolves,Home,0,1,15,7,Loss,0,-1
+2023-2024,2023-08-26,Fulham,Arsenal,Away,2,2,8,3,Draw,1,0
+2023-2024,2023-08-26,Man United,Nott'm Forest,Home,3,2,18,9,Win,3,1
+2023-2024,2023-08-26,Nott'm Forest,Man United,Away,2,3,9,4,Loss,0,-1
+2023-2024,2023-08-26,Tottenham,Bournemouth,Away,2,0,17,6,Win,3,2
+2023-2024,2023-08-26,West Ham,Brighton,Away,3,1,12,3,Win,3,2
+2023-2024,2023-08-26,Wolves,Everton,Away,1,0,11,2,Win,3,1
+2023-2024,2023-08-27,Aston Villa,Burnley,Away,3,1,16,6,Win,3,2
+2023-2024,2023-08-27,Burnley,Aston Villa,Home,1,3,9,2,Loss,0,-2
+2023-2024,2023-08-27,Liverpool,Newcastle,Away,2,1,9,4,Win,3,1
+2023-2024,2023-08-27,Man City,Sheffield United,Away,2,1,30,9,Win,3,1
+2023-2024,2023-08-27,Newcastle,Liverpool,Home,1,2,23,8,Loss,0,-1
+2023-2024,2023-08-27,Sheffield United,Man City,Home,1,2,6,2,Loss,0,-1
+2023-2024,2023-09-01,Luton,West Ham,Home,1,2,16,1,Loss,0,-1
+2023-2024,2023-09-01,West Ham,Luton,Away,2,1,9,3,Win,3,1
+2023-2024,2023-09-02,Bournemouth,Brentford,Away,2,2,12,5,Draw,1,0
+2023-2024,2023-09-02,Brentford,Bournemouth,Home,2,2,21,7,Draw,1,0
+2023-2024,2023-09-02,Brighton,Newcastle,Home,3,1,15,6,Win,3,2
+2023-2024,2023-09-02,Burnley,Tottenham,Home,2,5,16,4,Loss,0,-3
+2023-2024,2023-09-02,Chelsea,Nott'm Forest,Home,0,1,21,2,Loss,0,-1
+2023-2024,2023-09-02,Everton,Sheffield United,Away,2,2,16,6,Draw,1,0
+2023-2024,2023-09-02,Fulham,Man City,Away,1,5,6,4,Loss,0,-4
+2023-2024,2023-09-02,Man City,Fulham,Home,5,1,7,5,Win,3,4
+2023-2024,2023-09-02,Newcastle,Brighton,Away,1,3,9,2,Loss,0,-2
+2023-2024,2023-09-02,Nott'm Forest,Chelsea,Away,1,0,7,3,Win,3,1
+2023-2024,2023-09-02,Sheffield United,Everton,Home,2,2,13,8,Draw,1,0
+2023-2024,2023-09-02,Tottenham,Burnley,Away,5,2,20,10,Win,3,3
+2023-2024,2023-09-03,Arsenal,Man United,Home,3,1,17,5,Win,3,2
+2023-2024,2023-09-03,Aston Villa,Liverpool,Away,0,3,9,3,Loss,0,-3
+2023-2024,2023-09-03,Crystal Palace,Wolves,Home,3,2,16,11,Win,3,1
+2023-2024,2023-09-03,Liverpool,Aston Villa,Home,3,0,17,4,Win,3,3
+2023-2024,2023-09-03,Man United,Arsenal,Away,1,3,10,2,Loss,0,-2
+2023-2024,2023-09-03,Wolves,Crystal Palace,Away,2,3,12,4,Loss,0,-1
+2023-2024,2023-09-16,Aston Villa,Crystal Palace,Home,3,1,16,5,Win,3,2
+2023-2024,2023-09-16,Brentford,Newcastle,Away,0,1,11,2,Loss,0,-1
+2023-2024,2023-09-16,Brighton,Man United,Away,3,1,10,8,Win,3,2
+2023-2024,2023-09-16,Crystal Palace,Aston Villa,Away,1,3,6,3,Loss,0,-2
+2023-2024,2023-09-16,Fulham,Luton,Home,1,0,13,2,Win,3,1
+2023-2024,2023-09-16,Liverpool,Wolves,Away,3,1,16,6,Win,3,2
+2023-2024,2023-09-16,Luton,Fulham,Away,0,1,7,2,Loss,0,-1
+2023-2024,2023-09-16,Man City,West Ham,Away,3,1,29,15,Win,3,2
+2023-2024,2023-09-16,Man United,Brighton,Home,1,3,14,4,Loss,0,-2
+2023-2024,2023-09-16,Newcastle,Brentford,Home,1,0,9,2,Win,3,1
+2023-2024,2023-09-16,Sheffield United,Tottenham,Away,1,2,7,5,Loss,0,-1
+2023-2024,2023-09-16,Tottenham,Sheffield United,Home,2,1,28,10,Win,3,1
+2023-2024,2023-09-16,West Ham,Man City,Home,1,3,6,3,Loss,0,-2
+2023-2024,2023-09-16,Wolves,Liverpool,Home,1,3,11,2,Loss,0,-2
+2023-2024,2023-09-17,Arsenal,Everton,Away,1,0,13,4,Win,3,1
+2023-2024,2023-09-17,Bournemouth,Chelsea,Home,0,0,13,4,Draw,1,0
+2023-2024,2023-09-17,Chelsea,Bournemouth,Away,0,0,14,6,Draw,1,0
+2023-2024,2023-09-17,Everton,Arsenal,Home,0,1,8,1,Loss,0,-1
+2023-2024,2023-09-18,Burnley,Nott'm Forest,Away,1,1,10,3,Draw,1,0
+2023-2024,2023-09-18,Nott'm Forest,Burnley,Home,1,1,14,4,Draw,1,0
+2023-2024,2023-09-23,Brentford,Everton,Home,1,3,12,2,Loss,0,-2
+2023-2024,2023-09-23,Burnley,Man United,Home,0,1,12,4,Loss,0,-1
+2023-2024,2023-09-23,Crystal Palace,Fulham,Home,0,0,7,3,Draw,1,0
+2023-2024,2023-09-23,Everton,Brentford,Away,3,1,18,6,Win,3,2
+2023-2024,2023-09-23,Fulham,Crystal Palace,Away,0,0,10,5,Draw,1,0
+2023-2024,2023-09-23,Luton,Wolves,Home,1,1,20,4,Draw,1,0
+2023-2024,2023-09-23,Man City,Nott'm Forest,Home,2,0,7,4,Win,3,2
+2023-2024,2023-09-23,Man United,Burnley,Away,1,0,11,4,Win,3,1
+2023-2024,2023-09-23,Nott'm Forest,Man City,Away,0,2,10,3,Loss,0,-2
+2023-2024,2023-09-23,Wolves,Luton,Away,1,1,3,3,Draw,1,0
+2023-2024,2023-09-24,Arsenal,Tottenham,Home,2,2,13,6,Draw,1,0
+2023-2024,2023-09-24,Aston Villa,Chelsea,Away,1,0,15,7,Win,3,1
+2023-2024,2023-09-24,Bournemouth,Brighton,Away,1,3,12,4,Loss,0,-2
+2023-2024,2023-09-24,Brighton,Bournemouth,Home,3,1,13,4,Win,3,2
+2023-2024,2023-09-24,Chelsea,Aston Villa,Home,0,1,10,4,Loss,0,-1
+2023-2024,2023-09-24,Liverpool,West Ham,Home,3,1,22,7,Win,3,2
+2023-2024,2023-09-24,Newcastle,Sheffield United,Away,8,0,22,15,Win,3,8
+2023-2024,2023-09-24,Sheffield United,Newcastle,Home,0,8,9,1,Loss,0,-8
+2023-2024,2023-09-24,Tottenham,Arsenal,Away,2,2,13,5,Draw,1,0
+2023-2024,2023-09-24,West Ham,Liverpool,Away,1,3,11,4,Loss,0,-2
+2023-2024,2023-09-30,Arsenal,Bournemouth,Away,4,0,15,8,Win,3,4
+2023-2024,2023-09-30,Aston Villa,Brighton,Home,6,1,19,9,Win,3,5
+2023-2024,2023-09-30,Bournemouth,Arsenal,Home,0,4,8,1,Loss,0,-4
+2023-2024,2023-09-30,Brighton,Aston Villa,Away,1,6,11,3,Loss,0,-5
+2023-2024,2023-09-30,Burnley,Newcastle,Away,0,2,8,2,Loss,0,-2
+2023-2024,2023-09-30,Crystal Palace,Man United,Away,1,0,8,2,Win,3,1
+2023-2024,2023-09-30,Everton,Luton,Home,1,2,23,5,Loss,0,-1
+2023-2024,2023-09-30,Liverpool,Tottenham,Away,1,2,12,4,Loss,0,-1
+2023-2024,2023-09-30,Luton,Everton,Away,2,1,9,2,Win,3,1
+2023-2024,2023-09-30,Man City,Wolves,Away,1,2,23,8,Loss,0,-1
+2023-2024,2023-09-30,Man United,Crystal Palace,Home,0,1,19,4,Loss,0,-1
+2023-2024,2023-09-30,Newcastle,Burnley,Home,2,0,20,8,Win,3,2
+2023-2024,2023-09-30,Sheffield United,West Ham,Away,0,2,16,2,Loss,0,-2
+2023-2024,2023-09-30,Tottenham,Liverpool,Home,2,1,24,8,Win,3,1
+2023-2024,2023-09-30,West Ham,Sheffield United,Home,2,0,20,9,Win,3,2
+2023-2024,2023-09-30,Wolves,Man City,Home,2,1,3,1,Win,3,1
+2023-2024,2023-10-01,Brentford,Nott'm Forest,Away,1,1,18,5,Draw,1,0
+2023-2024,2023-10-01,Nott'm Forest,Brentford,Home,1,1,6,1,Draw,1,0
+2023-2024,2023-10-02,Chelsea,Fulham,Away,2,0,11,4,Win,3,2
+2023-2024,2023-10-02,Fulham,Chelsea,Home,0,2,10,3,Loss,0,-2
+2023-2024,2023-10-03,Burnley,Luton,Away,2,1,14,4,Win,3,1
+2023-2024,2023-10-03,Luton,Burnley,Home,1,2,18,3,Loss,0,-1
+2023-2024,2023-10-07,Bournemouth,Everton,Away,0,3,11,4,Loss,0,-3
+2023-2024,2023-10-07,Brentford,Man United,Away,1,2,11,3,Loss,0,-1
+2023-2024,2023-10-07,Burnley,Chelsea,Home,1,4,10,3,Loss,0,-3
+2023-2024,2023-10-07,Chelsea,Burnley,Away,4,1,9,5,Win,3,3
+2023-2024,2023-10-07,Crystal Palace,Nott'm Forest,Home,0,0,8,2,Draw,1,0
+2023-2024,2023-10-07,Everton,Bournemouth,Home,3,0,25,8,Win,3,3
+2023-2024,2023-10-07,Fulham,Sheffield United,Home,3,1,20,6,Win,3,2
+2023-2024,2023-10-07,Luton,Tottenham,Home,0,1,12,2,Loss,0,-1
+2023-2024,2023-10-07,Man United,Brentford,Home,2,1,21,8,Win,3,1
+2023-2024,2023-10-07,Nott'm Forest,Crystal Palace,Away,0,0,16,5,Draw,1,0
+2023-2024,2023-10-07,Sheffield United,Fulham,Away,1,3,5,2,Loss,0,-2
+2023-2024,2023-10-07,Tottenham,Luton,Away,1,0,15,4,Win,3,1
+2023-2024,2023-10-08,Arsenal,Man City,Home,1,0,12,2,Win,3,1
+2023-2024,2023-10-08,Aston Villa,Wolves,Away,1,1,18,4,Draw,1,0
+2023-2024,2023-10-08,Brighton,Liverpool,Home,2,2,14,3,Draw,1,0
+2023-2024,2023-10-08,Liverpool,Brighton,Away,2,2,14,4,Draw,1,0
+2023-2024,2023-10-08,Man City,Arsenal,Away,0,1,4,1,Loss,0,-1
+2023-2024,2023-10-08,Newcastle,West Ham,Away,2,2,10,3,Draw,1,0
+2023-2024,2023-10-08,West Ham,Newcastle,Home,2,2,5,3,Draw,1,0
+2023-2024,2023-10-08,Wolves,Aston Villa,Home,1,1,8,3,Draw,1,0
+2023-2024,2023-10-21,Arsenal,Chelsea,Away,2,2,13,3,Draw,1,0
+2023-2024,2023-10-21,Bournemouth,Wolves,Home,1,2,7,4,Loss,0,-1
+2023-2024,2023-10-21,Brentford,Burnley,Home,3,0,23,10,Win,3,3
+2023-2024,2023-10-21,Brighton,Man City,Away,1,2,5,3,Loss,0,-1
+2023-2024,2023-10-21,Burnley,Brentford,Away,0,3,6,1,Loss,0,-3
+2023-2024,2023-10-21,Chelsea,Arsenal,Home,2,2,11,5,Draw,1,0
+2023-2024,2023-10-21,Crystal Palace,Newcastle,Away,0,4,17,3,Loss,0,-4
+2023-2024,2023-10-21,Everton,Liverpool,Away,0,2,6,1,Loss,0,-2
+2023-2024,2023-10-21,Liverpool,Everton,Home,2,0,26,6,Win,3,2
+2023-2024,2023-10-21,Luton,Nott'm Forest,Away,2,2,13,4,Draw,1,0
+2023-2024,2023-10-21,Man City,Brighton,Home,2,1,10,6,Win,3,1
+2023-2024,2023-10-21,Man United,Sheffield United,Away,2,1,14,5,Win,3,1
+2023-2024,2023-10-21,Newcastle,Crystal Palace,Home,4,0,10,7,Win,3,4
+2023-2024,2023-10-21,Nott'm Forest,Luton,Home,2,2,19,8,Draw,1,0
+2023-2024,2023-10-21,Sheffield United,Man United,Home,1,2,12,6,Loss,0,-1
+2023-2024,2023-10-21,Wolves,Bournemouth,Away,2,1,20,7,Win,3,1
+2023-2024,2023-10-22,Aston Villa,West Ham,Home,4,1,15,7,Win,3,3
+2023-2024,2023-10-22,West Ham,Aston Villa,Away,1,4,14,4,Loss,0,-3
+2023-2024,2023-10-23,Fulham,Tottenham,Away,0,2,10,3,Loss,0,-2
+2023-2024,2023-10-23,Tottenham,Fulham,Home,2,0,15,5,Win,3,2
+2023-2024,2023-10-27,Crystal Palace,Tottenham,Home,1,2,13,3,Loss,0,-1
+2023-2024,2023-10-27,Tottenham,Crystal Palace,Away,2,1,10,1,Win,3,1
+2023-2024,2023-10-28,Arsenal,Sheffield United,Home,5,0,13,8,Win,3,5
+2023-2024,2023-10-28,Bournemouth,Burnley,Home,2,1,13,6,Win,3,1
+2023-2024,2023-10-28,Brentford,Chelsea,Away,2,0,7,5,Win,3,2
+2023-2024,2023-10-28,Burnley,Bournemouth,Away,1,2,6,3,Loss,0,-1
+2023-2024,2023-10-28,Chelsea,Brentford,Home,0,2,17,2,Loss,0,-2
+2023-2024,2023-10-28,Newcastle,Wolves,Away,2,2,13,5,Draw,1,0
+2023-2024,2023-10-28,Sheffield United,Arsenal,Away,0,5,2,0,Loss,0,-5
+2023-2024,2023-10-28,Wolves,Newcastle,Home,2,2,11,6,Draw,1,0
+2023-2024,2023-10-29,Aston Villa,Luton,Home,3,1,17,6,Win,3,2
+2023-2024,2023-10-29,Brighton,Fulham,Home,1,1,18,7,Draw,1,0
+2023-2024,2023-10-29,Everton,West Ham,Away,1,0,10,4,Win,3,1
+2023-2024,2023-10-29,Fulham,Brighton,Away,1,1,10,5,Draw,1,0
+2023-2024,2023-10-29,Liverpool,Nott'm Forest,Home,3,0,21,8,Win,3,3
+2023-2024,2023-10-29,Luton,Aston Villa,Away,1,3,7,1,Loss,0,-2
+2023-2024,2023-10-29,Man City,Man United,Away,3,0,21,10,Win,3,3
+2023-2024,2023-10-29,Man United,Man City,Home,0,3,7,3,Loss,0,-3
+2023-2024,2023-10-29,Nott'm Forest,Liverpool,Away,0,3,9,1,Loss,0,-3
+2023-2024,2023-10-29,West Ham,Everton,Home,0,1,12,2,Loss,0,-1
+2023-2024,2023-11-04,Arsenal,Newcastle,Away,0,1,14,1,Loss,0,-1
+2023-2024,2023-11-04,Bournemouth,Man City,Away,1,6,5,1,Loss,0,-5
+2023-2024,2023-11-04,Brentford,West Ham,Home,3,2,16,4,Win,3,1
+2023-2024,2023-11-04,Brighton,Everton,Away,1,1,7,2,Draw,1,0
+2023-2024,2023-11-04,Burnley,Crystal Palace,Home,0,2,17,5,Loss,0,-2
+2023-2024,2023-11-04,Crystal Palace,Burnley,Away,2,0,4,3,Win,3,2
+2023-2024,2023-11-04,Everton,Brighton,Home,1,1,10,4,Draw,1,0
+2023-2024,2023-11-04,Fulham,Man United,Home,0,1,18,3,Loss,0,-1
+2023-2024,2023-11-04,Man City,Bournemouth,Home,6,1,21,8,Win,3,5
+2023-2024,2023-11-04,Man United,Fulham,Away,1,0,12,5,Win,3,1
+2023-2024,2023-11-04,Newcastle,Arsenal,Home,1,0,9,2,Win,3,1
+2023-2024,2023-11-04,Sheffield United,Wolves,Home,2,1,11,2,Win,3,1
+2023-2024,2023-11-04,West Ham,Brentford,Away,2,3,12,2,Loss,0,-1
+2023-2024,2023-11-04,Wolves,Sheffield United,Away,1,2,10,3,Loss,0,-1
+2023-2024,2023-11-05,Aston Villa,Nott'm Forest,Away,0,2,13,3,Loss,0,-2
+2023-2024,2023-11-05,Liverpool,Luton,Away,1,1,24,6,Draw,1,0
+2023-2024,2023-11-05,Luton,Liverpool,Home,1,1,8,5,Draw,1,0
+2023-2024,2023-11-05,Nott'm Forest,Aston Villa,Home,2,0,5,3,Win,3,2
+2023-2024,2023-11-06,Chelsea,Tottenham,Away,4,1,17,8,Win,3,3
+2023-2024,2023-11-06,Tottenham,Chelsea,Home,1,4,8,5,Loss,0,-3
+2023-2024,2023-11-11,Arsenal,Burnley,Home,3,1,16,6,Win,3,2
+2023-2024,2023-11-11,Bournemouth,Newcastle,Home,2,0,19,10,Win,3,2
+2023-2024,2023-11-11,Burnley,Arsenal,Away,1,3,8,5,Loss,0,-2
+2023-2024,2023-11-11,Crystal Palace,Everton,Home,2,3,13,4,Loss,0,-1
+2023-2024,2023-11-11,Everton,Crystal Palace,Away,3,2,8,4,Win,3,1
+2023-2024,2023-11-11,Luton,Man United,Away,0,1,10,4,Loss,0,-1
+2023-2024,2023-11-11,Man United,Luton,Home,1,0,15,4,Win,3,1
+2023-2024,2023-11-11,Newcastle,Bournemouth,Away,0,2,8,5,Loss,0,-2
+2023-2024,2023-11-11,Tottenham,Wolves,Away,1,2,6,2,Loss,0,-1
+2023-2024,2023-11-11,Wolves,Tottenham,Home,2,1,17,4,Win,3,1
+2023-2024,2023-11-12,Aston Villa,Fulham,Home,3,1,12,6,Win,3,2
+2023-2024,2023-11-12,Brentford,Liverpool,Away,0,3,16,3,Loss,0,-3
+2023-2024,2023-11-12,Brighton,Sheffield United,Home,1,1,11,6,Draw,1,0
+2023-2024,2023-11-12,Chelsea,Man City,Home,4,4,17,9,Draw,1,0
+2023-2024,2023-11-12,Fulham,Aston Villa,Away,1,3,9,5,Loss,0,-2
+2023-2024,2023-11-12,Liverpool,Brentford,Home,3,0,17,10,Win,3,3
+2023-2024,2023-11-12,Man City,Chelsea,Away,4,4,15,10,Draw,1,0
+2023-2024,2023-11-12,Nott'm Forest,West Ham,Away,2,3,10,5,Loss,0,-1
+2023-2024,2023-11-12,Sheffield United,Brighton,Away,1,1,9,1,Draw,1,0
+2023-2024,2023-11-12,West Ham,Nott'm Forest,Home,3,2,16,6,Win,3,1
+2023-2024,2023-11-25,Arsenal,Brentford,Away,1,0,15,4,Win,3,1
+2023-2024,2023-11-25,Bournemouth,Sheffield United,Away,3,1,23,11,Win,3,2
+2023-2024,2023-11-25,Brentford,Arsenal,Home,0,1,9,3,Loss,0,-1
+2023-2024,2023-11-25,Brighton,Nott'm Forest,Away,3,2,11,5,Win,3,1
+2023-2024,2023-11-25,Burnley,West Ham,Home,1,2,11,5,Loss,0,-1
+2023-2024,2023-11-25,Chelsea,Newcastle,Away,1,4,7,4,Loss,0,-3
+2023-2024,2023-11-25,Crystal Palace,Luton,Away,1,2,16,8,Loss,0,-1
+2023-2024,2023-11-25,Liverpool,Man City,Away,1,1,8,3,Draw,1,0
+2023-2024,2023-11-25,Luton,Crystal Palace,Home,2,1,8,3,Win,3,1
+2023-2024,2023-11-25,Man City,Liverpool,Home,1,1,16,5,Draw,1,0
+2023-2024,2023-11-25,Newcastle,Chelsea,Home,4,1,14,5,Win,3,3
+2023-2024,2023-11-25,Nott'm Forest,Brighton,Home,2,3,18,5,Loss,0,-1
+2023-2024,2023-11-25,Sheffield United,Bournemouth,Home,1,3,10,2,Loss,0,-2
+2023-2024,2023-11-25,West Ham,Burnley,Away,2,1,11,3,Win,3,1
+2023-2024,2023-11-26,Aston Villa,Tottenham,Away,2,1,15,5,Win,3,1
+2023-2024,2023-11-26,Everton,Man United,Home,0,3,24,6,Loss,0,-3
+2023-2024,2023-11-26,Man United,Everton,Away,3,0,9,4,Win,3,3
+2023-2024,2023-11-26,Tottenham,Aston Villa,Home,1,2,18,8,Loss,0,-1
+2023-2024,2023-11-27,Fulham,Wolves,Home,3,2,12,6,Win,3,1
+2023-2024,2023-11-27,Wolves,Fulham,Away,2,3,10,6,Loss,0,-1
+2023-2024,2023-12-02,Arsenal,Wolves,Home,2,1,19,6,Win,3,1
+2023-2024,2023-12-02,Brentford,Luton,Home,3,1,27,6,Win,3,2
+2023-2024,2023-12-02,Burnley,Sheffield United,Home,5,0,19,7,Win,3,5
+2023-2024,2023-12-02,Everton,Nott'm Forest,Away,1,0,12,3,Win,3,1
+2023-2024,2023-12-02,Luton,Brentford,Away,1,3,7,1,Loss,0,-2
+2023-2024,2023-12-02,Man United,Newcastle,Away,0,1,8,1,Loss,0,-1
+2023-2024,2023-12-02,Newcastle,Man United,Home,1,0,22,4,Win,3,1
+2023-2024,2023-12-02,Nott'm Forest,Everton,Home,0,1,13,2,Loss,0,-1
+2023-2024,2023-12-02,Sheffield United,Burnley,Away,0,5,6,3,Loss,0,-5
+2023-2024,2023-12-02,Wolves,Arsenal,Away,1,2,6,3,Loss,0,-1
+2023-2024,2023-12-03,Aston Villa,Bournemouth,Away,2,2,11,3,Draw,1,0
+2023-2024,2023-12-03,Bournemouth,Aston Villa,Home,2,2,15,7,Draw,1,0
+2023-2024,2023-12-03,Brighton,Chelsea,Away,2,3,18,9,Loss,0,-1
+2023-2024,2023-12-03,Chelsea,Brighton,Home,3,2,8,5,Win,3,1
+2023-2024,2023-12-03,Crystal Palace,West Ham,Away,1,1,9,2,Draw,1,0
+2023-2024,2023-12-03,Fulham,Liverpool,Away,3,4,9,5,Loss,0,-1
+2023-2024,2023-12-03,Liverpool,Fulham,Home,4,3,26,12,Win,3,1
+2023-2024,2023-12-03,Man City,Tottenham,Home,3,3,18,4,Draw,1,0
+2023-2024,2023-12-03,Tottenham,Man City,Away,3,3,8,4,Draw,1,0
+2023-2024,2023-12-03,West Ham,Crystal Palace,Home,1,1,9,3,Draw,1,0
+2023-2024,2023-12-05,Arsenal,Luton,Away,4,3,23,9,Win,3,1
+2023-2024,2023-12-05,Burnley,Wolves,Away,0,1,12,3,Loss,0,-1
+2023-2024,2023-12-05,Luton,Arsenal,Home,3,4,6,4,Loss,0,-1
+2023-2024,2023-12-05,Wolves,Burnley,Home,1,0,7,4,Win,3,1
+2023-2024,2023-12-06,Aston Villa,Man City,Home,1,0,22,7,Win,3,1
+2023-2024,2023-12-06,Bournemouth,Crystal Palace,Away,2,0,11,4,Win,3,2
+2023-2024,2023-12-06,Brentford,Brighton,Away,1,2,8,2,Loss,0,-1
+2023-2024,2023-12-06,Brighton,Brentford,Home,2,1,18,7,Win,3,1
+2023-2024,2023-12-06,Chelsea,Man United,Away,1,2,13,3,Loss,0,-1
+2023-2024,2023-12-06,Crystal Palace,Bournemouth,Home,0,2,16,3,Loss,0,-2
+2023-2024,2023-12-06,Fulham,Nott'm Forest,Home,5,0,14,6,Win,3,5
+2023-2024,2023-12-06,Liverpool,Sheffield United,Away,2,0,15,8,Win,3,2
+2023-2024,2023-12-06,Man City,Aston Villa,Away,0,1,2,2,Loss,0,-1
+2023-2024,2023-12-06,Man United,Chelsea,Home,2,1,28,9,Win,3,1
+2023-2024,2023-12-06,Nott'm Forest,Fulham,Away,0,5,4,1,Loss,0,-5
+2023-2024,2023-12-06,Sheffield United,Liverpool,Home,0,2,6,1,Loss,0,-2
+2023-2024,2023-12-07,Everton,Newcastle,Home,3,0,21,6,Win,3,3
+2023-2024,2023-12-07,Newcastle,Everton,Away,0,3,13,3,Loss,0,-3
+2023-2024,2023-12-07,Tottenham,West Ham,Home,1,2,23,7,Loss,0,-1
+2023-2024,2023-12-07,West Ham,Tottenham,Away,2,1,11,5,Win,3,1
+2023-2024,2023-12-09,Arsenal,Aston Villa,Away,0,1,12,5,Loss,0,-1
+2023-2024,2023-12-09,Aston Villa,Arsenal,Home,1,0,10,3,Win,3,1
+2023-2024,2023-12-09,Bournemouth,Man United,Away,3,0,10,4,Win,3,3
+2023-2024,2023-12-09,Brentford,Sheffield United,Away,0,1,10,4,Loss,0,-1
+2023-2024,2023-12-09,Brighton,Burnley,Home,1,1,29,11,Draw,1,0
+2023-2024,2023-12-09,Burnley,Brighton,Away,1,1,6,3,Draw,1,0
+2023-2024,2023-12-09,Crystal Palace,Liverpool,Home,1,2,8,4,Loss,0,-1
+2023-2024,2023-12-09,Liverpool,Crystal Palace,Away,2,1,14,2,Win,3,1
+2023-2024,2023-12-09,Man United,Bournemouth,Home,0,3,20,3,Loss,0,-3
+2023-2024,2023-12-09,Nott'm Forest,Wolves,Away,1,1,8,2,Draw,1,0
+2023-2024,2023-12-09,Sheffield United,Brentford,Home,1,0,9,4,Win,3,1
+2023-2024,2023-12-09,Wolves,Nott'm Forest,Home,1,1,10,4,Draw,1,0
+2023-2024,2023-12-10,Chelsea,Everton,Away,0,2,16,4,Loss,0,-2
+2023-2024,2023-12-10,Everton,Chelsea,Home,2,0,9,5,Win,3,2
+2023-2024,2023-12-10,Fulham,West Ham,Home,5,0,14,8,Win,3,5
+2023-2024,2023-12-10,Luton,Man City,Home,1,2,4,2,Loss,0,-1
+2023-2024,2023-12-10,Man City,Luton,Away,2,1,18,6,Win,3,1
+2023-2024,2023-12-10,Newcastle,Tottenham,Away,1,4,9,3,Loss,0,-3
+2023-2024,2023-12-10,Tottenham,Newcastle,Home,4,1,23,12,Win,3,3
+2023-2024,2023-12-10,West Ham,Fulham,Away,0,5,9,5,Loss,0,-5
+2023-2024,2023-12-15,Nott'm Forest,Tottenham,Home,0,2,15,1,Loss,0,-2
+2023-2024,2023-12-15,Tottenham,Nott'm Forest,Away,2,0,12,6,Win,3,2
+2023-2024,2023-12-16,Burnley,Everton,Home,0,2,14,2,Loss,0,-2
+2023-2024,2023-12-16,Chelsea,Sheffield United,Home,2,0,15,6,Win,3,2
+2023-2024,2023-12-16,Crystal Palace,Man City,Away,2,2,5,2,Draw,1,0
+2023-2024,2023-12-16,Everton,Burnley,Away,2,0,9,6,Win,3,2
+2023-2024,2023-12-16,Fulham,Newcastle,Away,0,3,6,4,Loss,0,-3
+2023-2024,2023-12-16,Man City,Crystal Palace,Home,2,2,19,9,Draw,1,0
+2023-2024,2023-12-16,Newcastle,Fulham,Home,3,0,27,10,Win,3,3
+2023-2024,2023-12-16,Sheffield United,Chelsea,Away,0,2,6,1,Loss,0,-2
+2023-2024,2023-12-17,Arsenal,Brighton,Home,2,0,26,9,Win,3,2
+2023-2024,2023-12-17,Aston Villa,Brentford,Away,2,1,15,5,Win,3,1
+2023-2024,2023-12-17,Brentford,Aston Villa,Home,1,2,4,3,Loss,0,-1
+2023-2024,2023-12-17,Brighton,Arsenal,Away,0,2,6,1,Loss,0,-2
+2023-2024,2023-12-17,Liverpool,Man United,Home,0,0,34,8,Draw,1,0
+2023-2024,2023-12-17,Man United,Liverpool,Away,0,0,6,1,Draw,1,0
+2023-2024,2023-12-17,West Ham,Wolves,Home,3,0,13,4,Win,3,3
+2023-2024,2023-12-17,Wolves,West Ham,Away,0,3,14,3,Loss,0,-3
+2023-2024,2023-12-21,Brighton,Crystal Palace,Away,1,1,18,6,Draw,1,0
+2023-2024,2023-12-21,Crystal Palace,Brighton,Home,1,1,11,3,Draw,1,0
+2023-2024,2023-12-22,Aston Villa,Sheffield United,Home,1,1,12,4,Draw,1,0
+2023-2024,2023-12-22,Sheffield United,Aston Villa,Away,1,1,5,2,Draw,1,0
+2023-2024,2023-12-23,Arsenal,Liverpool,Away,1,1,13,2,Draw,1,0
+2023-2024,2023-12-23,Bournemouth,Nott'm Forest,Away,3,2,18,7,Win,3,1
+2023-2024,2023-12-23,Burnley,Fulham,Away,2,0,7,2,Win,3,2
+2023-2024,2023-12-23,Everton,Tottenham,Away,1,2,18,8,Loss,0,-1
+2023-2024,2023-12-23,Fulham,Burnley,Home,0,2,19,5,Loss,0,-2
+2023-2024,2023-12-23,Liverpool,Arsenal,Home,1,1,13,3,Draw,1,0
+2023-2024,2023-12-23,Luton,Newcastle,Home,1,0,16,5,Win,3,1
+2023-2024,2023-12-23,Man United,West Ham,Away,0,2,11,3,Loss,0,-2
+2023-2024,2023-12-23,Newcastle,Luton,Away,0,1,15,2,Loss,0,-1
+2023-2024,2023-12-23,Nott'm Forest,Bournemouth,Home,2,3,11,5,Loss,0,-1
+2023-2024,2023-12-23,Tottenham,Everton,Home,2,1,13,6,Win,3,1
+2023-2024,2023-12-23,West Ham,Man United,Home,2,0,12,5,Win,3,2
+2023-2024,2023-12-24,Chelsea,Wolves,Away,1,2,16,5,Loss,0,-1
+2023-2024,2023-12-24,Wolves,Chelsea,Home,2,1,14,6,Win,3,1
+2023-2024,2023-12-26,Aston Villa,Man United,Away,2,3,10,4,Loss,0,-1
+2023-2024,2023-12-26,Bournemouth,Fulham,Home,3,0,16,4,Win,3,3
+2023-2024,2023-12-26,Burnley,Liverpool,Home,0,2,9,0,Loss,0,-2
+2023-2024,2023-12-26,Fulham,Bournemouth,Away,0,3,8,3,Loss,0,-3
+2023-2024,2023-12-26,Liverpool,Burnley,Away,2,0,19,10,Win,3,2
+2023-2024,2023-12-26,Luton,Sheffield United,Away,3,2,12,4,Win,3,1
+2023-2024,2023-12-26,Man United,Aston Villa,Home,3,2,13,7,Win,3,1
+2023-2024,2023-12-26,Newcastle,Nott'm Forest,Home,1,3,19,7,Loss,0,-2
+2023-2024,2023-12-26,Nott'm Forest,Newcastle,Away,3,1,15,6,Win,3,2
+2023-2024,2023-12-26,Sheffield United,Luton,Home,2,3,21,6,Loss,0,-1
+2023-2024,2023-12-27,Brentford,Wolves,Home,1,4,14,4,Loss,0,-3
+2023-2024,2023-12-27,Chelsea,Crystal Palace,Home,2,1,9,4,Win,3,1
+2023-2024,2023-12-27,Crystal Palace,Chelsea,Away,1,2,13,5,Loss,0,-1
+2023-2024,2023-12-27,Everton,Man City,Home,1,3,7,2,Loss,0,-2
+2023-2024,2023-12-27,Man City,Everton,Away,3,1,23,9,Win,3,2
+2023-2024,2023-12-27,Wolves,Brentford,Away,4,1,11,5,Win,3,3
+2023-2024,2023-12-28,Arsenal,West Ham,Home,0,2,30,8,Loss,0,-2
+2023-2024,2023-12-28,Brighton,Tottenham,Home,4,2,15,9,Win,3,2
+2023-2024,2023-12-28,Tottenham,Brighton,Away,2,4,19,3,Loss,0,-2
+2023-2024,2023-12-28,West Ham,Arsenal,Away,2,0,6,3,Win,3,2
+2023-2024,2023-12-30,Aston Villa,Burnley,Home,3,2,19,7,Win,3,1
+2023-2024,2023-12-30,Brentford,Crystal Palace,Away,1,3,9,4,Loss,0,-2
+2023-2024,2023-12-30,Burnley,Aston Villa,Away,2,3,9,5,Loss,0,-1
+2023-2024,2023-12-30,Chelsea,Luton,Away,3,2,12,8,Win,3,1
+2023-2024,2023-12-30,Crystal Palace,Brentford,Home,3,1,13,6,Win,3,2
+2023-2024,2023-12-30,Everton,Wolves,Away,0,3,10,0,Loss,0,-3
+2023-2024,2023-12-30,Luton,Chelsea,Home,2,3,15,6,Loss,0,-1
+2023-2024,2023-12-30,Man City,Sheffield United,Home,2,0,18,4,Win,3,2
+2023-2024,2023-12-30,Man United,Nott'm Forest,Away,1,2,10,5,Loss,0,-1
+2023-2024,2023-12-30,Nott'm Forest,Man United,Home,2,1,8,2,Win,3,1
+2023-2024,2023-12-30,Sheffield United,Man City,Away,0,2,4,2,Loss,0,-2
+2023-2024,2023-12-30,Wolves,Everton,Home,3,0,12,6,Win,3,3
+2023-2024,2023-12-31,Arsenal,Fulham,Away,1,2,13,3,Loss,0,-1
+2023-2024,2023-12-31,Bournemouth,Tottenham,Away,1,3,24,4,Loss,0,-2
+2023-2024,2023-12-31,Fulham,Arsenal,Home,2,1,15,4,Win,3,1
+2023-2024,2023-12-31,Tottenham,Bournemouth,Home,3,1,12,6,Win,3,2
+2023-2024,2024-01-01,Liverpool,Newcastle,Home,4,2,34,15,Win,3,2
+2023-2024,2024-01-01,Newcastle,Liverpool,Away,2,4,5,3,Loss,0,-2
+2023-2024,2024-01-02,Brighton,West Ham,Away,0,0,22,8,Draw,1,0
+2023-2024,2024-01-02,West Ham,Brighton,Home,0,0,6,2,Draw,1,0
+2023-2024,2024-01-12,Burnley,Luton,Home,1,1,13,7,Draw,1,0
+2023-2024,2024-01-12,Luton,Burnley,Away,1,1,14,5,Draw,1,0
+2023-2024,2024-01-13,Chelsea,Fulham,Home,1,0,17,3,Win,3,1
+2023-2024,2024-01-13,Fulham,Chelsea,Away,0,1,14,4,Loss,0,-1
+2023-2024,2024-01-13,Man City,Newcastle,Away,3,2,27,11,Win,3,1
+2023-2024,2024-01-13,Newcastle,Man City,Home,2,3,12,5,Loss,0,-1
+2023-2024,2024-01-14,Aston Villa,Everton,Away,0,0,16,5,Draw,1,0
+2023-2024,2024-01-14,Everton,Aston Villa,Home,0,0,10,2,Draw,1,0
+2023-2024,2024-01-14,Man United,Tottenham,Home,2,2,9,2,Draw,1,0
+2023-2024,2024-01-14,Tottenham,Man United,Away,2,2,16,6,Draw,1,0
+2023-2024,2024-01-20,Arsenal,Crystal Palace,Home,5,0,21,6,Win,3,5
+2023-2024,2024-01-20,Brentford,Nott'm Forest,Home,3,2,11,5,Win,3,1
+2023-2024,2024-01-20,Crystal Palace,Arsenal,Away,0,5,12,5,Loss,0,-5
+2023-2024,2024-01-20,Nott'm Forest,Brentford,Away,2,3,12,3,Loss,0,-1
+2023-2024,2024-01-21,Bournemouth,Liverpool,Home,0,4,11,1,Loss,0,-4
+2023-2024,2024-01-21,Liverpool,Bournemouth,Away,4,0,14,7,Win,3,4
+2023-2024,2024-01-21,Sheffield United,West Ham,Home,2,2,21,6,Draw,1,0
+2023-2024,2024-01-21,West Ham,Sheffield United,Away,2,2,16,5,Draw,1,0
+2023-2024,2024-01-22,Brighton,Wolves,Home,0,0,11,4,Draw,1,0
+2023-2024,2024-01-22,Wolves,Brighton,Away,0,0,8,3,Draw,1,0
+2023-2024,2024-01-30,Arsenal,Nott'm Forest,Away,2,1,19,3,Win,3,1
+2023-2024,2024-01-30,Aston Villa,Newcastle,Home,1,3,12,6,Loss,0,-2
+2023-2024,2024-01-30,Brighton,Luton,Away,0,4,9,2,Loss,0,-4
+2023-2024,2024-01-30,Crystal Palace,Sheffield United,Home,3,2,12,4,Win,3,1
+2023-2024,2024-01-30,Everton,Fulham,Away,0,0,21,4,Draw,1,0
+2023-2024,2024-01-30,Fulham,Everton,Home,0,0,25,6,Draw,1,0
+2023-2024,2024-01-30,Luton,Brighton,Home,4,0,18,8,Win,3,4
+2023-2024,2024-01-30,Newcastle,Aston Villa,Away,3,1,14,5,Win,3,2
+2023-2024,2024-01-30,Nott'm Forest,Arsenal,Home,1,2,9,3,Loss,0,-1
+2023-2024,2024-01-30,Sheffield United,Crystal Palace,Away,2,3,9,5,Loss,0,-1
+2023-2024,2024-01-31,Brentford,Tottenham,Away,2,3,9,5,Loss,0,-1
+2023-2024,2024-01-31,Burnley,Man City,Away,1,3,8,3,Loss,0,-2
+2023-2024,2024-01-31,Chelsea,Liverpool,Away,1,4,4,3,Loss,0,-3
+2023-2024,2024-01-31,Liverpool,Chelsea,Home,4,1,28,13,Win,3,3
+2023-2024,2024-01-31,Man City,Burnley,Home,3,1,14,4,Win,3,2
+2023-2024,2024-01-31,Tottenham,Brentford,Home,3,2,19,5,Win,3,1
+2023-2024,2024-02-01,Bournemouth,West Ham,Away,1,1,9,4,Draw,1,0
+2023-2024,2024-02-01,Man United,Wolves,Away,4,3,21,8,Win,3,1
+2023-2024,2024-02-01,West Ham,Bournemouth,Home,1,1,9,3,Draw,1,0
+2023-2024,2024-02-01,Wolves,Man United,Home,3,4,16,7,Loss,0,-1
+2023-2024,2024-02-03,Aston Villa,Sheffield United,Away,5,0,14,10,Win,3,5
+2023-2024,2024-02-03,Brighton,Crystal Palace,Home,4,1,13,6,Win,3,3
+2023-2024,2024-02-03,Burnley,Fulham,Home,2,2,12,4,Draw,1,0
+2023-2024,2024-02-03,Crystal Palace,Brighton,Away,1,4,7,5,Loss,0,-3
+2023-2024,2024-02-03,Everton,Tottenham,Home,2,2,14,5,Draw,1,0
+2023-2024,2024-02-03,Fulham,Burnley,Away,2,2,15,7,Draw,1,0
+2023-2024,2024-02-03,Luton,Newcastle,Away,4,4,11,8,Draw,1,0
+2023-2024,2024-02-03,Newcastle,Luton,Home,4,4,19,6,Draw,1,0
+2023-2024,2024-02-03,Sheffield United,Aston Villa,Home,0,5,10,5,Loss,0,-5
+2023-2024,2024-02-03,Tottenham,Everton,Away,2,2,9,6,Draw,1,0
+2023-2024,2024-02-04,Arsenal,Liverpool,Home,3,1,15,7,Win,3,2
+2023-2024,2024-02-04,Bournemouth,Nott'm Forest,Home,1,1,9,2,Draw,1,0
+2023-2024,2024-02-04,Chelsea,Wolves,Home,2,4,15,6,Loss,0,-2
+2023-2024,2024-02-04,Liverpool,Arsenal,Away,1,3,10,1,Loss,0,-2
+2023-2024,2024-02-04,Man United,West Ham,Home,3,0,12,5,Win,3,3
+2023-2024,2024-02-04,Nott'm Forest,Bournemouth,Away,1,1,8,6,Draw,1,0
+2023-2024,2024-02-04,West Ham,Man United,Away,0,3,22,3,Loss,0,-3
+2023-2024,2024-02-04,Wolves,Chelsea,Away,4,2,14,7,Win,3,2
+2023-2024,2024-02-05,Brentford,Man City,Home,1,3,9,3,Loss,0,-2
+2023-2024,2024-02-05,Man City,Brentford,Away,3,1,25,15,Win,3,2
+2023-2024,2024-02-10,Bournemouth,Fulham,Away,1,3,25,4,Loss,0,-2
+2023-2024,2024-02-10,Brentford,Wolves,Away,2,0,9,6,Win,3,2
+2023-2024,2024-02-10,Brighton,Tottenham,Away,1,2,6,3,Loss,0,-1
+2023-2024,2024-02-10,Burnley,Liverpool,Away,1,3,9,4,Loss,0,-2
+2023-2024,2024-02-10,Everton,Man City,Away,0,2,5,1,Loss,0,-2
+2023-2024,2024-02-10,Fulham,Bournemouth,Home,3,1,7,6,Win,3,2
+2023-2024,2024-02-10,Liverpool,Burnley,Home,3,1,25,10,Win,3,2
+2023-2024,2024-02-10,Luton,Sheffield United,Home,1,3,20,5,Loss,0,-2
+2023-2024,2024-02-10,Man City,Everton,Home,2,0,19,3,Win,3,2
+2023-2024,2024-02-10,Newcastle,Nott'm Forest,Away,3,2,7,5,Win,3,1
+2023-2024,2024-02-10,Nott'm Forest,Newcastle,Home,2,3,13,3,Loss,0,-1
+2023-2024,2024-02-10,Sheffield United,Luton,Away,3,1,7,3,Win,3,2
+2023-2024,2024-02-10,Tottenham,Brighton,Home,2,1,16,6,Win,3,1
+2023-2024,2024-02-10,Wolves,Brentford,Home,0,2,17,5,Loss,0,-2
+2023-2024,2024-02-11,Arsenal,West Ham,Away,6,0,25,12,Win,3,6
+2023-2024,2024-02-11,Aston Villa,Man United,Home,1,2,23,10,Loss,0,-1
+2023-2024,2024-02-11,Man United,Aston Villa,Away,2,1,17,5,Win,3,1
+2023-2024,2024-02-11,West Ham,Arsenal,Home,0,6,5,1,Loss,0,-6
+2023-2024,2024-02-12,Chelsea,Crystal Palace,Away,3,1,14,5,Win,3,2
+2023-2024,2024-02-12,Crystal Palace,Chelsea,Home,1,3,13,4,Loss,0,-2
+2023-2024,2024-02-17,Arsenal,Burnley,Away,5,0,16,7,Win,3,5
+2023-2024,2024-02-17,Aston Villa,Fulham,Away,2,1,12,3,Win,3,1
+2023-2024,2024-02-17,Bournemouth,Newcastle,Away,2,2,12,7,Draw,1,0
+2023-2024,2024-02-17,Brentford,Liverpool,Home,1,4,15,6,Loss,0,-3
+2023-2024,2024-02-17,Burnley,Arsenal,Home,0,5,8,0,Loss,0,-5
+2023-2024,2024-02-17,Chelsea,Man City,Away,1,1,9,6,Draw,1,0
+2023-2024,2024-02-17,Fulham,Aston Villa,Home,1,2,15,4,Loss,0,-1
+2023-2024,2024-02-17,Liverpool,Brentford,Away,4,1,15,8,Win,3,3
+2023-2024,2024-02-17,Man City,Chelsea,Home,1,1,31,5,Draw,1,0
+2023-2024,2024-02-17,Newcastle,Bournemouth,Home,2,2,17,5,Draw,1,0
+2023-2024,2024-02-17,Nott'm Forest,West Ham,Home,2,0,19,8,Win,3,2
+2023-2024,2024-02-17,Tottenham,Wolves,Home,1,2,15,4,Loss,0,-1
+2023-2024,2024-02-17,West Ham,Nott'm Forest,Away,0,2,10,3,Loss,0,-2
+2023-2024,2024-02-17,Wolves,Tottenham,Away,2,1,12,7,Win,3,1
+2023-2024,2024-02-18,Brighton,Sheffield United,Away,5,0,24,10,Win,3,5
+2023-2024,2024-02-18,Luton,Man United,Home,1,2,22,4,Loss,0,-1
+2023-2024,2024-02-18,Man United,Luton,Away,2,1,21,9,Win,3,1
+2023-2024,2024-02-18,Sheffield United,Brighton,Home,0,5,6,1,Loss,0,-5
+2023-2024,2024-02-19,Crystal Palace,Everton,Away,1,1,10,4,Draw,1,0
+2023-2024,2024-02-19,Everton,Crystal Palace,Home,1,1,19,4,Draw,1,0
+2023-2024,2024-02-20,Brentford,Man City,Away,0,1,6,2,Loss,0,-1
+2023-2024,2024-02-20,Man City,Brentford,Home,1,0,25,11,Win,3,1
+2023-2024,2024-02-21,Liverpool,Luton,Home,4,1,29,13,Win,3,3
+2023-2024,2024-02-21,Luton,Liverpool,Away,1,4,12,3,Loss,0,-3
+2023-2024,2024-02-24,Arsenal,Newcastle,Home,4,1,18,8,Win,3,3
+2023-2024,2024-02-24,Aston Villa,Nott'm Forest,Home,4,2,16,6,Win,3,2
+2023-2024,2024-02-24,Bournemouth,Man City,Home,0,1,13,4,Loss,0,-1
+2023-2024,2024-02-24,Brighton,Everton,Home,1,1,23,7,Draw,1,0
+2023-2024,2024-02-24,Burnley,Crystal Palace,Away,0,3,2,0,Loss,0,-3
+2023-2024,2024-02-24,Crystal Palace,Burnley,Home,3,0,15,6,Win,3,3
+2023-2024,2024-02-24,Everton,Brighton,Away,1,1,6,3,Draw,1,0
+2023-2024,2024-02-24,Fulham,Man United,Away,2,1,17,5,Win,3,1
+2023-2024,2024-02-24,Man City,Bournemouth,Away,1,0,15,6,Win,3,1
+2023-2024,2024-02-24,Man United,Fulham,Home,1,2,21,9,Loss,0,-1
+2023-2024,2024-02-24,Newcastle,Arsenal,Away,1,4,3,2,Loss,0,-3
+2023-2024,2024-02-24,Nott'm Forest,Aston Villa,Away,2,4,10,3,Loss,0,-2
+2023-2024,2024-02-25,Sheffield United,Wolves,Away,0,1,12,4,Loss,0,-1
+2023-2024,2024-02-25,Wolves,Sheffield United,Home,1,0,13,2,Win,3,1
+2023-2024,2024-02-26,Brentford,West Ham,Away,2,4,14,8,Loss,0,-2
+2023-2024,2024-02-26,West Ham,Brentford,Home,4,2,17,6,Win,3,2
+2023-2024,2024-03-02,Aston Villa,Luton,Away,3,2,12,8,Win,3,1
+2023-2024,2024-03-02,Brentford,Chelsea,Home,2,2,14,5,Draw,1,0
+2023-2024,2024-03-02,Brighton,Fulham,Away,0,3,15,5,Loss,0,-3
+2023-2024,2024-03-02,Chelsea,Brentford,Away,2,2,17,6,Draw,1,0
+2023-2024,2024-03-02,Crystal Palace,Tottenham,Away,1,3,4,1,Loss,0,-2
+2023-2024,2024-03-02,Everton,West Ham,Home,1,3,22,11,Loss,0,-2
+2023-2024,2024-03-02,Fulham,Brighton,Home,3,0,12,5,Win,3,3
+2023-2024,2024-03-02,Liverpool,Nott'm Forest,Away,1,0,22,2,Win,3,1
+2023-2024,2024-03-02,Luton,Aston Villa,Home,2,3,13,5,Loss,0,-1
+2023-2024,2024-03-02,Newcastle,Wolves,Home,3,0,14,7,Win,3,3
+2023-2024,2024-03-02,Nott'm Forest,Liverpool,Home,0,1,8,2,Loss,0,-1
+2023-2024,2024-03-02,Tottenham,Crystal Palace,Home,3,1,14,6,Win,3,2
+2023-2024,2024-03-02,West Ham,Everton,Away,3,1,12,5,Win,3,2
+2023-2024,2024-03-02,Wolves,Newcastle,Away,0,3,12,3,Loss,0,-3
+2023-2024,2024-03-03,Bournemouth,Burnley,Away,2,0,10,3,Win,3,2
+2023-2024,2024-03-03,Burnley,Bournemouth,Home,0,2,20,6,Loss,0,-2
+2023-2024,2024-03-03,Man City,Man United,Home,3,1,27,8,Win,3,2
+2023-2024,2024-03-03,Man United,Man City,Away,1,3,3,1,Loss,0,-2
+2023-2024,2024-03-04,Arsenal,Sheffield United,Away,6,0,22,10,Win,3,6
+2023-2024,2024-03-04,Sheffield United,Arsenal,Home,0,6,4,0,Loss,0,-6
+2023-2024,2024-03-09,Arsenal,Brentford,Home,2,1,17,6,Win,3,1
+2023-2024,2024-03-09,Bournemouth,Sheffield United,Home,2,2,32,12,Draw,1,0
+2023-2024,2024-03-09,Brentford,Arsenal,Away,1,2,9,4,Loss,0,-1
+2023-2024,2024-03-09,Crystal Palace,Luton,Home,1,1,21,4,Draw,1,0
+2023-2024,2024-03-09,Everton,Man United,Away,0,2,23,6,Loss,0,-2
+2023-2024,2024-03-09,Fulham,Wolves,Away,1,2,23,6,Loss,0,-1
+2023-2024,2024-03-09,Luton,Crystal Palace,Away,1,1,8,2,Draw,1,0
+2023-2024,2024-03-09,Man United,Everton,Home,2,0,15,8,Win,3,2
+2023-2024,2024-03-09,Sheffield United,Bournemouth,Away,2,2,13,9,Draw,1,0
+2023-2024,2024-03-09,Wolves,Fulham,Home,2,1,8,3,Win,3,1
+2023-2024,2024-03-10,Aston Villa,Tottenham,Home,0,4,10,1,Loss,0,-4
+2023-2024,2024-03-10,Brighton,Nott'm Forest,Home,1,0,10,3,Win,3,1
+2023-2024,2024-03-10,Burnley,West Ham,Away,2,2,11,4,Draw,1,0
+2023-2024,2024-03-10,Liverpool,Man City,Home,1,1,19,6,Draw,1,0
+2023-2024,2024-03-10,Man City,Liverpool,Away,1,1,10,6,Draw,1,0
+2023-2024,2024-03-10,Nott'm Forest,Brighton,Away,0,1,9,4,Loss,0,-1
+2023-2024,2024-03-10,Tottenham,Aston Villa,Away,4,0,9,5,Win,3,4
+2023-2024,2024-03-10,West Ham,Burnley,Home,2,2,22,4,Draw,1,0
+2023-2024,2024-03-11,Chelsea,Newcastle,Home,3,2,12,8,Win,3,1
+2023-2024,2024-03-11,Newcastle,Chelsea,Away,2,3,11,3,Loss,0,-1
+2023-2024,2024-03-13,Bournemouth,Luton,Home,4,3,24,10,Win,3,1
+2023-2024,2024-03-13,Luton,Bournemouth,Away,3,4,8,4,Loss,0,-1
+2023-2024,2024-03-16,Brentford,Burnley,Away,1,2,9,5,Loss,0,-1
+2023-2024,2024-03-16,Burnley,Brentford,Home,2,1,17,6,Win,3,1
+2023-2024,2024-03-16,Fulham,Tottenham,Home,3,0,16,7,Win,3,3
+2023-2024,2024-03-16,Luton,Nott'm Forest,Home,1,1,10,4,Draw,1,0
+2023-2024,2024-03-16,Nott'm Forest,Luton,Away,1,1,16,6,Draw,1,0
+2023-2024,2024-03-16,Tottenham,Fulham,Away,0,3,14,5,Loss,0,-3
+2023-2024,2024-03-17,Aston Villa,West Ham,Away,1,1,13,5,Draw,1,0
+2023-2024,2024-03-17,West Ham,Aston Villa,Home,1,1,13,5,Draw,1,0
+2023-2024,2024-03-30,Aston Villa,Wolves,Home,2,0,11,5,Win,3,2
+2023-2024,2024-03-30,Bournemouth,Everton,Home,2,1,11,4,Win,3,1
+2023-2024,2024-03-30,Brentford,Man United,Home,1,1,31,5,Draw,1,0
+2023-2024,2024-03-30,Burnley,Chelsea,Away,2,2,18,7,Draw,1,0
+2023-2024,2024-03-30,Chelsea,Burnley,Home,2,2,33,13,Draw,1,0
+2023-2024,2024-03-30,Crystal Palace,Nott'm Forest,Away,1,1,10,3,Draw,1,0
+2023-2024,2024-03-30,Everton,Bournemouth,Away,1,2,7,3,Loss,0,-1
+2023-2024,2024-03-30,Fulham,Sheffield United,Away,3,3,24,9,Draw,1,0
+2023-2024,2024-03-30,Luton,Tottenham,Away,1,2,7,3,Loss,0,-1
+2023-2024,2024-03-30,Man United,Brentford,Away,1,1,11,5,Draw,1,0
+2023-2024,2024-03-30,Newcastle,West Ham,Home,4,3,24,9,Win,3,1
+2023-2024,2024-03-30,Nott'm Forest,Crystal Palace,Home,1,1,12,5,Draw,1,0
+2023-2024,2024-03-30,Sheffield United,Fulham,Home,3,3,8,4,Draw,1,0
+2023-2024,2024-03-30,Tottenham,Luton,Home,2,1,17,4,Win,3,1
+2023-2024,2024-03-30,West Ham,Newcastle,Away,3,4,10,4,Loss,0,-1
+2023-2024,2024-03-30,Wolves,Aston Villa,Away,0,2,13,3,Loss,0,-2
+2023-2024,2024-03-31,Arsenal,Man City,Away,0,0,6,2,Draw,1,0
+2023-2024,2024-03-31,Brighton,Liverpool,Away,1,2,9,3,Loss,0,-1
+2023-2024,2024-03-31,Liverpool,Brighton,Home,2,1,30,8,Win,3,1
+2023-2024,2024-03-31,Man City,Arsenal,Home,0,0,12,1,Draw,1,0
+2023-2024,2024-04-02,Bournemouth,Crystal Palace,Home,1,0,11,6,Win,3,1
+2023-2024,2024-04-02,Burnley,Wolves,Home,1,1,13,6,Draw,1,0
+2023-2024,2024-04-02,Crystal Palace,Bournemouth,Away,0,1,3,2,Loss,0,-1
+2023-2024,2024-04-02,Everton,Newcastle,Away,1,1,10,3,Draw,1,0
+2023-2024,2024-04-02,Fulham,Nott'm Forest,Away,1,3,18,3,Loss,0,-2
+2023-2024,2024-04-02,Newcastle,Everton,Home,1,1,18,6,Draw,1,0
+2023-2024,2024-04-02,Nott'm Forest,Fulham,Home,3,1,16,4,Win,3,2
+2023-2024,2024-04-02,Tottenham,West Ham,Away,1,1,13,4,Draw,1,0
+2023-2024,2024-04-02,West Ham,Tottenham,Home,1,1,11,4,Draw,1,0
+2023-2024,2024-04-02,Wolves,Burnley,Away,1,1,8,2,Draw,1,0
+2023-2024,2024-04-03,Arsenal,Luton,Home,2,0,13,4,Win,3,2
+2023-2024,2024-04-03,Aston Villa,Man City,Away,1,4,8,3,Loss,0,-3
+2023-2024,2024-04-03,Brentford,Brighton,Home,0,0,5,2,Draw,1,0
+2023-2024,2024-04-03,Brighton,Brentford,Away,0,0,24,6,Draw,1,0
+2023-2024,2024-04-03,Luton,Arsenal,Away,0,2,5,1,Loss,0,-2
+2023-2024,2024-04-03,Man City,Aston Villa,Home,4,1,25,11,Win,3,3
+2023-2024,2024-04-04,Chelsea,Man United,Home,4,3,28,10,Win,3,1
+2023-2024,2024-04-04,Liverpool,Sheffield United,Home,3,1,29,9,Win,3,2
+2023-2024,2024-04-04,Man United,Chelsea,Away,3,4,19,5,Loss,0,-1
+2023-2024,2024-04-04,Sheffield United,Liverpool,Away,1,3,8,3,Loss,0,-2
+2023-2024,2024-04-06,Arsenal,Brighton,Away,3,0,20,7,Win,3,3
+2023-2024,2024-04-06,Aston Villa,Brentford,Home,3,3,11,3,Draw,1,0
+2023-2024,2024-04-06,Bournemouth,Luton,Away,1,2,8,1,Loss,0,-1
+2023-2024,2024-04-06,Brentford,Aston Villa,Away,3,3,8,3,Draw,1,0
+2023-2024,2024-04-06,Brighton,Arsenal,Home,0,3,10,2,Loss,0,-3
+2023-2024,2024-04-06,Burnley,Everton,Away,0,1,6,1,Loss,0,-1
+2023-2024,2024-04-06,Crystal Palace,Man City,Home,2,4,7,4,Loss,0,-2
+2023-2024,2024-04-06,Everton,Burnley,Home,1,0,12,3,Win,3,1
+2023-2024,2024-04-06,Fulham,Newcastle,Home,0,1,14,4,Loss,0,-1
+2023-2024,2024-04-06,Luton,Bournemouth,Home,2,1,19,9,Win,3,1
+2023-2024,2024-04-06,Man City,Crystal Palace,Away,4,2,18,8,Win,3,2
+2023-2024,2024-04-06,Newcastle,Fulham,Away,1,0,12,5,Win,3,1
+2023-2024,2024-04-06,West Ham,Wolves,Away,2,1,11,4,Win,3,1
+2023-2024,2024-04-06,Wolves,West Ham,Home,1,2,14,7,Loss,0,-1
+2023-2024,2024-04-07,Chelsea,Sheffield United,Away,2,2,6,3,Draw,1,0
+2023-2024,2024-04-07,Liverpool,Man United,Away,2,2,28,7,Draw,1,0
+2023-2024,2024-04-07,Man United,Liverpool,Home,2,2,9,5,Draw,1,0
+2023-2024,2024-04-07,Nott'm Forest,Tottenham,Away,1,3,13,6,Loss,0,-2
+2023-2024,2024-04-07,Sheffield United,Chelsea,Home,2,2,11,6,Draw,1,0
+2023-2024,2024-04-07,Tottenham,Nott'm Forest,Home,3,1,17,7,Win,3,2
+2023-2024,2024-04-13,Bournemouth,Man United,Home,2,2,20,5,Draw,1,0
+2023-2024,2024-04-13,Brentford,Sheffield United,Home,2,0,9,5,Win,3,2
+2023-2024,2024-04-13,Brighton,Burnley,Away,1,1,20,8,Draw,1,0
+2023-2024,2024-04-13,Burnley,Brighton,Home,1,1,11,3,Draw,1,0
+2023-2024,2024-04-13,Luton,Man City,Away,1,5,4,2,Loss,0,-4
+2023-2024,2024-04-13,Man City,Luton,Home,5,1,33,13,Win,3,4
+2023-2024,2024-04-13,Man United,Bournemouth,Away,2,2,8,2,Draw,1,0
+2023-2024,2024-04-13,Newcastle,Tottenham,Home,4,0,18,5,Win,3,4
+2023-2024,2024-04-13,Nott'm Forest,Wolves,Home,2,2,18,9,Draw,1,0
+2023-2024,2024-04-13,Sheffield United,Brentford,Away,0,2,8,2,Loss,0,-2
+2023-2024,2024-04-13,Tottenham,Newcastle,Away,0,4,11,2,Loss,0,-4
+2023-2024,2024-04-13,Wolves,Nott'm Forest,Away,2,2,11,4,Draw,1,0
+2023-2024,2024-04-14,Arsenal,Aston Villa,Home,0,2,18,4,Loss,0,-2
+2023-2024,2024-04-14,Aston Villa,Arsenal,Away,2,0,11,2,Win,3,2
+2023-2024,2024-04-14,Crystal Palace,Liverpool,Away,1,0,8,5,Win,3,1
+2023-2024,2024-04-14,Fulham,West Ham,Away,2,0,18,10,Win,3,2
+2023-2024,2024-04-14,Liverpool,Crystal Palace,Home,0,1,21,6,Loss,0,-1
+2023-2024,2024-04-14,West Ham,Fulham,Home,0,2,15,4,Loss,0,-2
+2023-2024,2024-04-15,Chelsea,Everton,Home,6,0,14,10,Win,3,6
+2023-2024,2024-04-15,Everton,Chelsea,Away,0,6,10,2,Loss,0,-6
+2023-2024,2024-04-20,Arsenal,Wolves,Away,2,0,24,9,Win,3,2
+2023-2024,2024-04-20,Brentford,Luton,Away,5,1,21,9,Win,3,4
+2023-2024,2024-04-20,Burnley,Sheffield United,Away,4,1,16,9,Win,3,3
+2023-2024,2024-04-20,Luton,Brentford,Home,1,5,6,3,Loss,0,-4
+2023-2024,2024-04-20,Sheffield United,Burnley,Home,1,4,18,11,Loss,0,-3
+2023-2024,2024-04-20,Wolves,Arsenal,Home,0,2,5,3,Loss,0,-2
+2023-2024,2024-04-21,Aston Villa,Bournemouth,Home,3,1,14,4,Win,3,2
+2023-2024,2024-04-21,Bournemouth,Aston Villa,Away,1,3,14,6,Loss,0,-2
+2023-2024,2024-04-21,Crystal Palace,West Ham,Home,5,2,18,7,Win,3,3
+2023-2024,2024-04-21,Everton,Nott'm Forest,Home,2,0,7,4,Win,3,2
+2023-2024,2024-04-21,Fulham,Liverpool,Home,1,3,12,5,Loss,0,-2
+2023-2024,2024-04-21,Liverpool,Fulham,Away,3,1,14,7,Win,3,2
+2023-2024,2024-04-21,Nott'm Forest,Everton,Away,0,2,8,3,Loss,0,-2
+2023-2024,2024-04-21,West Ham,Crystal Palace,Away,2,5,4,1,Loss,0,-3
+2023-2024,2024-04-23,Arsenal,Chelsea,Home,5,0,27,10,Win,3,5
+2023-2024,2024-04-23,Chelsea,Arsenal,Away,0,5,7,1,Loss,0,-5
+2023-2024,2024-04-24,Bournemouth,Wolves,Away,1,0,21,6,Win,3,1
+2023-2024,2024-04-24,Crystal Palace,Newcastle,Home,2,0,20,7,Win,3,2
+2023-2024,2024-04-24,Everton,Liverpool,Home,2,0,16,6,Win,3,2
+2023-2024,2024-04-24,Liverpool,Everton,Away,0,2,23,7,Loss,0,-2
+2023-2024,2024-04-24,Man United,Sheffield United,Home,4,2,25,13,Win,3,2
+2023-2024,2024-04-24,Newcastle,Crystal Palace,Away,0,2,7,2,Loss,0,-2
+2023-2024,2024-04-24,Sheffield United,Man United,Away,2,4,10,4,Loss,0,-2
+2023-2024,2024-04-24,Wolves,Bournemouth,Home,0,1,15,4,Loss,0,-1
+2023-2024,2024-04-25,Brighton,Man City,Home,0,4,7,3,Loss,0,-4
+2023-2024,2024-04-25,Man City,Brighton,Away,4,0,14,6,Win,3,4
+2023-2024,2024-04-27,Aston Villa,Chelsea,Home,2,2,9,4,Draw,1,0
+2023-2024,2024-04-27,Brentford,Everton,Away,0,1,10,4,Loss,0,-1
+2023-2024,2024-04-27,Burnley,Man United,Away,1,1,16,7,Draw,1,0
+2023-2024,2024-04-27,Chelsea,Aston Villa,Away,2,2,21,5,Draw,1,0
+2023-2024,2024-04-27,Crystal Palace,Fulham,Away,1,1,14,4,Draw,1,0
+2023-2024,2024-04-27,Everton,Brentford,Home,1,0,18,1,Win,3,1
+2023-2024,2024-04-27,Fulham,Crystal Palace,Home,1,1,9,2,Draw,1,0
+2023-2024,2024-04-27,Liverpool,West Ham,Away,2,2,28,8,Draw,1,0
+2023-2024,2024-04-27,Luton,Wolves,Away,1,2,9,6,Loss,0,-1
+2023-2024,2024-04-27,Man United,Burnley,Home,1,1,27,10,Draw,1,0
+2023-2024,2024-04-27,Newcastle,Sheffield United,Home,5,1,20,7,Win,3,4
+2023-2024,2024-04-27,Sheffield United,Newcastle,Away,1,5,15,5,Loss,0,-4
+2023-2024,2024-04-27,West Ham,Liverpool,Home,2,2,11,8,Draw,1,0
+2023-2024,2024-04-27,Wolves,Luton,Home,2,1,13,5,Win,3,1
+2023-2024,2024-04-28,Arsenal,Tottenham,Away,3,2,9,3,Win,3,1
+2023-2024,2024-04-28,Bournemouth,Brighton,Home,3,0,15,6,Win,3,3
+2023-2024,2024-04-28,Brighton,Bournemouth,Away,0,3,13,1,Loss,0,-3
+2023-2024,2024-04-28,Man City,Nott'm Forest,Away,2,0,11,5,Win,3,2
+2023-2024,2024-04-28,Nott'm Forest,Man City,Home,0,2,14,2,Loss,0,-2
+2023-2024,2024-04-28,Tottenham,Arsenal,Home,2,3,14,2,Loss,0,-1
+2023-2024,2024-05-02,Chelsea,Tottenham,Home,2,0,16,5,Win,3,2
+2023-2024,2024-05-02,Tottenham,Chelsea,Away,0,2,19,3,Loss,0,-2
+2023-2024,2024-05-03,Everton,Luton,Away,1,1,10,3,Draw,1,0
+2023-2024,2024-05-03,Luton,Everton,Home,1,1,18,5,Draw,1,0
+2023-2024,2024-05-04,Arsenal,Bournemouth,Home,3,0,25,9,Win,3,3
+2023-2024,2024-05-04,Bournemouth,Arsenal,Away,0,3,7,2,Loss,0,-3
+2023-2024,2024-05-04,Brentford,Fulham,Home,0,0,7,3,Draw,1,0
+2023-2024,2024-05-04,Burnley,Newcastle,Home,1,4,17,5,Loss,0,-3
+2023-2024,2024-05-04,Fulham,Brentford,Away,0,0,15,3,Draw,1,0
+2023-2024,2024-05-04,Man City,Wolves,Home,5,1,20,12,Win,3,4
+2023-2024,2024-05-04,Newcastle,Burnley,Away,4,1,23,11,Win,3,3
+2023-2024,2024-05-04,Nott'm Forest,Sheffield United,Away,3,1,15,4,Win,3,2
+2023-2024,2024-05-04,Sheffield United,Nott'm Forest,Home,1,3,17,5,Loss,0,-2
+2023-2024,2024-05-04,Wolves,Man City,Away,1,5,2,1,Loss,0,-4
+2023-2024,2024-05-05,Aston Villa,Brighton,Away,0,1,2,1,Loss,0,-1
+2023-2024,2024-05-05,Brighton,Aston Villa,Home,1,0,15,8,Win,3,1
+2023-2024,2024-05-05,Chelsea,West Ham,Home,5,0,25,14,Win,3,5
+2023-2024,2024-05-05,Liverpool,Tottenham,Home,4,2,25,13,Win,3,2
+2023-2024,2024-05-05,Tottenham,Liverpool,Away,2,4,11,6,Loss,0,-2
+2023-2024,2024-05-05,West Ham,Chelsea,Away,0,5,13,2,Loss,0,-5
+2023-2024,2024-05-06,Crystal Palace,Man United,Home,4,0,18,10,Win,3,4
+2023-2024,2024-05-06,Man United,Crystal Palace,Away,0,4,7,2,Loss,0,-4
+2023-2024,2024-05-11,Bournemouth,Brentford,Home,1,2,13,4,Loss,0,-1
+2023-2024,2024-05-11,Brentford,Bournemouth,Away,2,1,11,5,Win,3,1
+2023-2024,2024-05-11,Brighton,Newcastle,Away,1,1,15,4,Draw,1,0
+2023-2024,2024-05-11,Burnley,Tottenham,Away,1,2,7,3,Loss,0,-1
+2023-2024,2024-05-11,Chelsea,Nott'm Forest,Away,3,2,12,5,Win,3,1
+2023-2024,2024-05-11,Crystal Palace,Wolves,Away,3,1,13,3,Win,3,2
+2023-2024,2024-05-11,Everton,Sheffield United,Home,1,0,15,6,Win,3,1
+2023-2024,2024-05-11,Fulham,Man City,Home,0,4,1,1,Loss,0,-4
+2023-2024,2024-05-11,Luton,West Ham,Away,1,3,4,1,Loss,0,-2
+2023-2024,2024-05-11,Man City,Fulham,Away,4,0,16,9,Win,3,4
+2023-2024,2024-05-11,Newcastle,Brighton,Home,1,1,18,7,Draw,1,0
+2023-2024,2024-05-11,Nott'm Forest,Chelsea,Home,2,3,20,4,Loss,0,-1
+2023-2024,2024-05-11,Sheffield United,Everton,Away,0,1,13,1,Loss,0,-1
+2023-2024,2024-05-11,Tottenham,Burnley,Home,2,1,21,9,Win,3,1
+2023-2024,2024-05-11,West Ham,Luton,Home,3,1,24,8,Win,3,2
+2023-2024,2024-05-11,Wolves,Crystal Palace,Home,1,3,13,7,Loss,0,-2
+2023-2024,2024-05-12,Arsenal,Man United,Away,1,0,11,5,Win,3,1
+2023-2024,2024-05-12,Man United,Arsenal,Home,0,1,14,2,Loss,0,-1
+2023-2024,2024-05-13,Aston Villa,Liverpool,Home,3,3,19,5,Draw,1,0
+2023-2024,2024-05-13,Liverpool,Aston Villa,Away,3,3,14,7,Draw,1,0
+2023-2024,2024-05-14,Man City,Tottenham,Away,2,0,8,5,Win,3,2
+2023-2024,2024-05-14,Tottenham,Man City,Home,0,2,10,5,Loss,0,-2
+2023-2024,2024-05-15,Brighton,Chelsea,Home,1,2,12,2,Loss,0,-1
+2023-2024,2024-05-15,Chelsea,Brighton,Away,2,1,13,6,Win,3,1
+2023-2024,2024-05-15,Man United,Newcastle,Home,3,2,17,8,Win,3,1
+2023-2024,2024-05-15,Newcastle,Man United,Away,2,3,21,8,Loss,0,-1
+2023-2024,2024-05-19,Arsenal,Everton,Home,2,1,26,5,Win,3,1
+2023-2024,2024-05-19,Aston Villa,Crystal Palace,Away,0,5,8,2,Loss,0,-5
+2023-2024,2024-05-19,Bournemouth,Chelsea,Away,1,2,22,5,Loss,0,-1
+2023-2024,2024-05-19,Brentford,Newcastle,Home,2,4,10,5,Loss,0,-2
+2023-2024,2024-05-19,Brighton,Man United,Home,0,2,17,3,Loss,0,-2
+2023-2024,2024-05-19,Burnley,Nott'm Forest,Home,1,2,20,3,Loss,0,-1
+2023-2024,2024-05-19,Chelsea,Bournemouth,Home,2,1,16,6,Win,3,1
+2023-2024,2024-05-19,Crystal Palace,Aston Villa,Home,5,0,15,9,Win,3,5
+2023-2024,2024-05-19,Everton,Arsenal,Away,1,2,5,2,Loss,0,-1
+2023-2024,2024-05-19,Fulham,Luton,Away,4,2,15,7,Win,3,2
+2023-2024,2024-05-19,Liverpool,Wolves,Home,2,0,36,14,Win,3,2
+2023-2024,2024-05-19,Luton,Fulham,Home,2,4,15,6,Loss,0,-2
+2023-2024,2024-05-19,Man City,West Ham,Home,3,1,28,12,Win,3,2
+2023-2024,2024-05-19,Man United,Brighton,Away,2,0,11,4,Win,3,2
+2023-2024,2024-05-19,Newcastle,Brentford,Away,4,2,12,7,Win,3,2
+2023-2024,2024-05-19,Nott'm Forest,Burnley,Away,2,1,12,6,Win,3,1
+2023-2024,2024-05-19,Sheffield United,Tottenham,Home,0,3,6,1,Loss,0,-3
+2023-2024,2024-05-19,Tottenham,Sheffield United,Away,3,0,18,9,Win,3,3
+2023-2024,2024-05-19,West Ham,Man City,Away,1,3,3,2,Loss,0,-2
+2023-2024,2024-05-19,Wolves,Liverpool,Away,0,2,4,3,Loss,0,-2
+2024-2025,2024-08-16,Fulham,Man United,Away,0,1,10,2,Loss,0,-1
+2024-2025,2024-08-16,Man United,Fulham,Home,1,0,14,5,Win,3,1
+2024-2025,2024-08-17,Arsenal,Wolves,Home,2,0,18,6,Win,3,2
+2024-2025,2024-08-17,Aston Villa,West Ham,Away,2,1,15,3,Win,3,1
+2024-2025,2024-08-17,Bournemouth,Nott'm Forest,Away,1,1,13,4,Draw,1,0
+2024-2025,2024-08-17,Brighton,Everton,Away,3,0,10,5,Win,3,3
+2024-2025,2024-08-17,Everton,Brighton,Home,0,3,9,1,Loss,0,-3
+2024-2025,2024-08-17,Ipswich,Liverpool,Home,0,2,7,2,Loss,0,-2
+2024-2025,2024-08-17,Liverpool,Ipswich,Away,2,0,18,5,Win,3,2
+2024-2025,2024-08-17,Newcastle,Southampton,Home,1,0,3,1,Win,3,1
+2024-2025,2024-08-17,Nott'm Forest,Bournemouth,Home,1,1,14,8,Draw,1,0
+2024-2025,2024-08-17,Southampton,Newcastle,Away,0,1,19,4,Loss,0,-1
+2024-2025,2024-08-17,West Ham,Aston Villa,Home,1,2,14,3,Loss,0,-1
+2024-2025,2024-08-17,Wolves,Arsenal,Away,0,2,9,3,Loss,0,-2
+2024-2025,2024-08-18,Brentford,Crystal Palace,Home,2,1,9,5,Win,3,1
+2024-2025,2024-08-18,Chelsea,Man City,Home,0,2,10,3,Loss,0,-2
+2024-2025,2024-08-18,Crystal Palace,Brentford,Away,1,2,14,6,Loss,0,-1
+2024-2025,2024-08-18,Man City,Chelsea,Away,2,0,11,5,Win,3,2
+2024-2025,2024-08-19,Leicester,Tottenham,Home,1,1,7,3,Draw,1,0
+2024-2025,2024-08-19,Tottenham,Leicester,Away,1,1,15,7,Draw,1,0
+2024-2025,2024-08-24,Arsenal,Aston Villa,Away,2,0,9,4,Win,3,2
+2024-2025,2024-08-24,Aston Villa,Arsenal,Home,0,2,11,3,Loss,0,-2
+2024-2025,2024-08-24,Brighton,Man United,Home,2,1,14,5,Win,3,1
+2024-2025,2024-08-24,Crystal Palace,West Ham,Home,0,2,14,2,Loss,0,-2
+2024-2025,2024-08-24,Everton,Tottenham,Away,0,4,10,1,Loss,0,-4
+2024-2025,2024-08-24,Fulham,Leicester,Home,2,1,18,6,Win,3,1
+2024-2025,2024-08-24,Ipswich,Man City,Away,1,4,1,1,Loss,0,-3
+2024-2025,2024-08-24,Leicester,Fulham,Away,1,2,10,4,Loss,0,-1
+2024-2025,2024-08-24,Man City,Ipswich,Home,4,1,14,5,Win,3,3
+2024-2025,2024-08-24,Man United,Brighton,Away,1,2,11,4,Loss,0,-1
+2024-2025,2024-08-24,Nott'm Forest,Southampton,Away,1,0,23,8,Win,3,1
+2024-2025,2024-08-24,Southampton,Nott'm Forest,Home,0,1,5,1,Loss,0,-1
+2024-2025,2024-08-24,Tottenham,Everton,Home,4,0,13,7,Win,3,4
+2024-2025,2024-08-24,West Ham,Crystal Palace,Away,2,0,18,3,Win,3,2
+2024-2025,2024-08-25,Bournemouth,Newcastle,Home,1,1,16,4,Draw,1,0
+2024-2025,2024-08-25,Brentford,Liverpool,Away,0,2,8,2,Loss,0,-2
+2024-2025,2024-08-25,Chelsea,Wolves,Away,6,2,14,8,Win,3,4
+2024-2025,2024-08-25,Liverpool,Brentford,Home,2,0,19,8,Win,3,2
+2024-2025,2024-08-25,Newcastle,Bournemouth,Away,1,1,14,5,Draw,1,0
+2024-2025,2024-08-25,Wolves,Chelsea,Home,2,6,12,4,Loss,0,-4
+2024-2025,2024-08-31,Arsenal,Brighton,Home,1,1,11,7,Draw,1,0
+2024-2025,2024-08-31,Aston Villa,Leicester,Away,2,1,10,5,Win,3,1
+2024-2025,2024-08-31,Bournemouth,Everton,Away,3,2,17,7,Win,3,1
+2024-2025,2024-08-31,Brentford,Southampton,Home,3,1,20,7,Win,3,2
+2024-2025,2024-08-31,Brighton,Arsenal,Away,1,1,22,4,Draw,1,0
+2024-2025,2024-08-31,Everton,Bournemouth,Home,2,3,18,8,Loss,0,-1
+2024-2025,2024-08-31,Fulham,Ipswich,Away,1,1,9,4,Draw,1,0
+2024-2025,2024-08-31,Ipswich,Fulham,Home,1,1,11,4,Draw,1,0
+2024-2025,2024-08-31,Leicester,Aston Villa,Home,1,2,9,3,Loss,0,-1
+2024-2025,2024-08-31,Man City,West Ham,Away,3,1,23,8,Win,3,2
+2024-2025,2024-08-31,Nott'm Forest,Wolves,Home,1,1,16,5,Draw,1,0
+2024-2025,2024-08-31,Southampton,Brentford,Away,1,3,18,6,Loss,0,-2
+2024-2025,2024-08-31,West Ham,Man City,Home,1,3,10,2,Loss,0,-2
+2024-2025,2024-08-31,Wolves,Nott'm Forest,Away,1,1,11,3,Draw,1,0
+2024-2025,2024-09-01,Chelsea,Crystal Palace,Home,1,1,13,7,Draw,1,0
+2024-2025,2024-09-01,Crystal Palace,Chelsea,Away,1,1,9,3,Draw,1,0
+2024-2025,2024-09-01,Liverpool,Man United,Away,3,0,11,3,Win,3,3
+2024-2025,2024-09-01,Man United,Liverpool,Home,0,3,8,3,Loss,0,-3
+2024-2025,2024-09-01,Newcastle,Tottenham,Home,2,1,9,3,Win,3,1
+2024-2025,2024-09-01,Tottenham,Newcastle,Away,1,2,20,6,Loss,0,-1
+2024-2025,2024-09-14,Aston Villa,Everton,Home,3,2,17,8,Win,3,1
+2024-2025,2024-09-14,Bournemouth,Chelsea,Home,0,1,19,7,Loss,0,-1
+2024-2025,2024-09-14,Brentford,Man City,Away,1,2,8,5,Loss,0,-1
+2024-2025,2024-09-14,Brighton,Ipswich,Home,0,0,21,6,Draw,1,0
+2024-2025,2024-09-14,Chelsea,Bournemouth,Away,1,0,10,3,Win,3,1
+2024-2025,2024-09-14,Crystal Palace,Leicester,Home,2,2,20,4,Draw,1,0
+2024-2025,2024-09-14,Everton,Aston Villa,Away,2,3,6,2,Loss,0,-1
+2024-2025,2024-09-14,Fulham,West Ham,Home,1,1,21,5,Draw,1,0
+2024-2025,2024-09-14,Ipswich,Brighton,Away,0,0,6,1,Draw,1,0
+2024-2025,2024-09-14,Leicester,Crystal Palace,Away,2,2,9,4,Draw,1,0
+2024-2025,2024-09-14,Liverpool,Nott'm Forest,Home,0,1,14,5,Loss,0,-1
+2024-2025,2024-09-14,Man City,Brentford,Home,2,1,18,7,Win,3,1
+2024-2025,2024-09-14,Man United,Southampton,Away,3,0,20,10,Win,3,3
+2024-2025,2024-09-14,Nott'm Forest,Liverpool,Away,1,0,5,3,Win,3,1
+2024-2025,2024-09-14,Southampton,Man United,Home,0,3,6,4,Loss,0,-3
+2024-2025,2024-09-14,West Ham,Fulham,Away,1,1,11,3,Draw,1,0
+2024-2025,2024-09-15,Arsenal,Tottenham,Away,1,0,7,4,Win,3,1
+2024-2025,2024-09-15,Newcastle,Wolves,Away,2,1,14,6,Win,3,1
+2024-2025,2024-09-15,Tottenham,Arsenal,Home,0,1,15,5,Loss,0,-1
+2024-2025,2024-09-15,Wolves,Newcastle,Home,1,2,12,5,Loss,0,-1
+2024-2025,2024-09-21,Aston Villa,Wolves,Home,3,1,9,4,Win,3,2
+2024-2025,2024-09-21,Bournemouth,Liverpool,Away,0,3,19,6,Loss,0,-3
+2024-2025,2024-09-21,Brentford,Tottenham,Away,1,3,6,6,Loss,0,-2
+2024-2025,2024-09-21,Chelsea,West Ham,Away,3,0,12,5,Win,3,3
+2024-2025,2024-09-21,Crystal Palace,Man United,Home,0,0,9,4,Draw,1,0
+2024-2025,2024-09-21,Everton,Leicester,Away,1,1,16,5,Draw,1,0
+2024-2025,2024-09-21,Fulham,Newcastle,Home,3,1,22,11,Win,3,2
+2024-2025,2024-09-21,Ipswich,Southampton,Away,1,1,13,6,Draw,1,0
+2024-2025,2024-09-21,Leicester,Everton,Home,1,1,12,2,Draw,1,0
+2024-2025,2024-09-21,Liverpool,Bournemouth,Home,3,0,19,13,Win,3,3
+2024-2025,2024-09-21,Man United,Crystal Palace,Away,0,0,15,6,Draw,1,0
+2024-2025,2024-09-21,Newcastle,Fulham,Away,1,3,15,4,Loss,0,-2
+2024-2025,2024-09-21,Southampton,Ipswich,Home,1,1,11,3,Draw,1,0
+2024-2025,2024-09-21,Tottenham,Brentford,Home,3,1,23,10,Win,3,2
+2024-2025,2024-09-21,West Ham,Chelsea,Home,0,3,15,7,Loss,0,-3
+2024-2025,2024-09-21,Wolves,Aston Villa,Away,1,3,10,4,Loss,0,-2
+2024-2025,2024-09-22,Arsenal,Man City,Away,2,2,5,3,Draw,1,0
+2024-2025,2024-09-22,Brighton,Nott'm Forest,Home,2,2,14,3,Draw,1,0
+2024-2025,2024-09-22,Man City,Arsenal,Home,2,2,33,11,Draw,1,0
+2024-2025,2024-09-22,Nott'm Forest,Brighton,Away,2,2,4,3,Draw,1,0
+2024-2025,2024-09-28,Arsenal,Leicester,Home,4,2,36,16,Win,3,2
+2024-2025,2024-09-28,Brentford,West Ham,Home,1,1,8,3,Draw,1,0
+2024-2025,2024-09-28,Brighton,Chelsea,Away,2,4,15,5,Loss,0,-2
+2024-2025,2024-09-28,Chelsea,Brighton,Home,4,2,15,7,Win,3,2
+2024-2025,2024-09-28,Crystal Palace,Everton,Away,1,2,17,5,Loss,0,-1
+2024-2025,2024-09-28,Everton,Crystal Palace,Home,2,1,8,2,Win,3,1
+2024-2025,2024-09-28,Fulham,Nott'm Forest,Away,1,0,14,2,Win,3,1
+2024-2025,2024-09-28,Leicester,Arsenal,Away,2,4,5,3,Loss,0,-2
+2024-2025,2024-09-28,Liverpool,Wolves,Away,2,1,10,6,Win,3,1
+2024-2025,2024-09-28,Man City,Newcastle,Away,1,1,16,6,Draw,1,0
+2024-2025,2024-09-28,Newcastle,Man City,Home,1,1,11,4,Draw,1,0
+2024-2025,2024-09-28,Nott'm Forest,Fulham,Home,0,1,11,1,Loss,0,-1
+2024-2025,2024-09-28,West Ham,Brentford,Away,1,1,19,3,Draw,1,0
+2024-2025,2024-09-28,Wolves,Liverpool,Home,1,2,8,3,Loss,0,-1
+2024-2025,2024-09-29,Aston Villa,Ipswich,Away,2,2,7,3,Draw,1,0
+2024-2025,2024-09-29,Ipswich,Aston Villa,Home,2,2,15,5,Draw,1,0
+2024-2025,2024-09-29,Man United,Tottenham,Home,0,3,11,2,Loss,0,-3
+2024-2025,2024-09-29,Tottenham,Man United,Away,3,0,24,10,Win,3,3
+2024-2025,2024-09-30,Bournemouth,Southampton,Home,3,1,14,6,Win,3,2
+2024-2025,2024-09-30,Southampton,Bournemouth,Away,1,3,9,3,Loss,0,-2
+2024-2025,2024-10-05,Arsenal,Southampton,Home,3,1,29,6,Win,3,2
+2024-2025,2024-10-05,Bournemouth,Leicester,Away,0,1,17,2,Loss,0,-1
+2024-2025,2024-10-05,Brentford,Wolves,Home,5,3,19,12,Win,3,2
+2024-2025,2024-10-05,Crystal Palace,Liverpool,Home,0,1,9,5,Loss,0,-1
+2024-2025,2024-10-05,Everton,Newcastle,Home,0,0,8,2,Draw,1,0
+2024-2025,2024-10-05,Fulham,Man City,Away,2,3,11,4,Loss,0,-1
+2024-2025,2024-10-05,Ipswich,West Ham,Away,1,4,9,2,Loss,0,-3
+2024-2025,2024-10-05,Leicester,Bournemouth,Home,1,0,6,2,Win,3,1
+2024-2025,2024-10-05,Liverpool,Crystal Palace,Away,1,0,16,4,Win,3,1
+2024-2025,2024-10-05,Man City,Fulham,Home,3,2,20,7,Win,3,1
+2024-2025,2024-10-05,Newcastle,Everton,Away,0,0,14,3,Draw,1,0
+2024-2025,2024-10-05,Southampton,Arsenal,Away,1,3,8,2,Loss,0,-2
+2024-2025,2024-10-05,West Ham,Ipswich,Home,4,1,23,13,Win,3,3
+2024-2025,2024-10-05,Wolves,Brentford,Away,3,5,17,6,Loss,0,-2
+2024-2025,2024-10-06,Aston Villa,Man United,Home,0,0,11,1,Draw,1,0
+2024-2025,2024-10-06,Brighton,Tottenham,Home,3,2,11,4,Win,3,1
+2024-2025,2024-10-06,Chelsea,Nott'm Forest,Home,1,1,22,8,Draw,1,0
+2024-2025,2024-10-06,Man United,Aston Villa,Away,0,0,10,4,Draw,1,0
+2024-2025,2024-10-06,Nott'm Forest,Chelsea,Away,1,1,16,9,Draw,1,0
+2024-2025,2024-10-06,Tottenham,Brighton,Away,2,3,13,3,Loss,0,-1
+2024-2025,2024-10-19,Arsenal,Bournemouth,Away,0,2,6,1,Loss,0,-2
+2024-2025,2024-10-19,Aston Villa,Fulham,Away,3,1,14,5,Win,3,2
+2024-2025,2024-10-19,Bournemouth,Arsenal,Home,2,0,13,4,Win,3,2
+2024-2025,2024-10-19,Brentford,Man United,Away,1,2,8,2,Loss,0,-1
+2024-2025,2024-10-19,Brighton,Newcastle,Away,1,0,10,5,Win,3,1
+2024-2025,2024-10-19,Everton,Ipswich,Away,2,0,11,8,Win,3,2
+2024-2025,2024-10-19,Fulham,Aston Villa,Home,1,3,10,4,Loss,0,-2
+2024-2025,2024-10-19,Ipswich,Everton,Home,0,2,13,2,Loss,0,-2
+2024-2025,2024-10-19,Leicester,Southampton,Away,3,2,18,4,Win,3,1
+2024-2025,2024-10-19,Man United,Brentford,Home,2,1,23,11,Win,3,1
+2024-2025,2024-10-19,Newcastle,Brighton,Home,0,1,21,6,Loss,0,-1
+2024-2025,2024-10-19,Southampton,Leicester,Home,2,3,14,7,Loss,0,-1
+2024-2025,2024-10-19,Tottenham,West Ham,Home,4,1,22,7,Win,3,3
+2024-2025,2024-10-19,West Ham,Tottenham,Away,1,4,11,4,Loss,0,-3
+2024-2025,2024-10-20,Chelsea,Liverpool,Away,1,2,12,2,Loss,0,-1
+2024-2025,2024-10-20,Liverpool,Chelsea,Home,2,1,9,5,Win,3,1
+2024-2025,2024-10-20,Man City,Wolves,Away,2,1,22,7,Win,3,1
+2024-2025,2024-10-20,Wolves,Man City,Home,1,2,3,2,Loss,0,-1
+2024-2025,2024-10-21,Crystal Palace,Nott'm Forest,Away,0,1,20,7,Loss,0,-1
+2024-2025,2024-10-21,Nott'm Forest,Crystal Palace,Home,1,0,20,6,Win,3,1
+2024-2025,2024-10-25,Leicester,Nott'm Forest,Home,1,3,11,1,Loss,0,-2
+2024-2025,2024-10-25,Nott'm Forest,Leicester,Away,3,1,20,5,Win,3,2
+2024-2025,2024-10-26,Aston Villa,Bournemouth,Home,1,1,18,8,Draw,1,0
+2024-2025,2024-10-26,Bournemouth,Aston Villa,Away,1,1,11,3,Draw,1,0
+2024-2025,2024-10-26,Brentford,Ipswich,Home,4,3,20,9,Win,3,1
+2024-2025,2024-10-26,Brighton,Wolves,Home,2,2,19,6,Draw,1,0
+2024-2025,2024-10-26,Everton,Fulham,Home,1,1,10,5,Draw,1,0
+2024-2025,2024-10-26,Fulham,Everton,Away,1,1,14,3,Draw,1,0
+2024-2025,2024-10-26,Ipswich,Brentford,Away,3,4,11,5,Loss,0,-1
+2024-2025,2024-10-26,Man City,Southampton,Home,1,0,22,8,Win,3,1
+2024-2025,2024-10-26,Southampton,Man City,Away,0,1,5,2,Loss,0,-1
+2024-2025,2024-10-26,Wolves,Brighton,Away,2,2,14,7,Draw,1,0
+2024-2025,2024-10-27,Arsenal,Liverpool,Home,2,2,9,3,Draw,1,0
+2024-2025,2024-10-27,Chelsea,Newcastle,Home,2,1,17,7,Win,3,1
+2024-2025,2024-10-27,Crystal Palace,Tottenham,Home,1,0,14,6,Win,3,1
+2024-2025,2024-10-27,Liverpool,Arsenal,Away,2,2,9,4,Draw,1,0
+2024-2025,2024-10-27,Man United,West Ham,Away,1,2,18,5,Loss,0,-1
+2024-2025,2024-10-27,Newcastle,Chelsea,Away,1,2,11,3,Loss,0,-1
+2024-2025,2024-10-27,Tottenham,Crystal Palace,Away,0,1,11,3,Loss,0,-1
+2024-2025,2024-10-27,West Ham,Man United,Home,2,1,12,3,Win,3,1
+2024-2025,2024-11-02,Arsenal,Newcastle,Away,0,1,10,1,Loss,0,-1
+2024-2025,2024-11-02,Bournemouth,Man City,Home,2,1,12,6,Win,3,1
+2024-2025,2024-11-02,Brighton,Liverpool,Away,1,2,13,5,Loss,0,-1
+2024-2025,2024-11-02,Crystal Palace,Wolves,Away,2,2,19,7,Draw,1,0
+2024-2025,2024-11-02,Everton,Southampton,Away,0,1,16,5,Loss,0,-1
+2024-2025,2024-11-02,Ipswich,Leicester,Home,1,1,14,2,Draw,1,0
+2024-2025,2024-11-02,Leicester,Ipswich,Away,1,1,20,6,Draw,1,0
+2024-2025,2024-11-02,Liverpool,Brighton,Home,2,1,16,8,Win,3,1
+2024-2025,2024-11-02,Man City,Bournemouth,Away,1,2,18,4,Loss,0,-1
+2024-2025,2024-11-02,Newcastle,Arsenal,Home,1,0,9,4,Win,3,1
+2024-2025,2024-11-02,Nott'm Forest,West Ham,Home,3,0,19,6,Win,3,3
+2024-2025,2024-11-02,Southampton,Everton,Home,1,0,9,2,Win,3,1
+2024-2025,2024-11-02,West Ham,Nott'm Forest,Away,0,3,4,2,Loss,0,-3
+2024-2025,2024-11-02,Wolves,Crystal Palace,Home,2,2,11,6,Draw,1,0
+2024-2025,2024-11-03,Aston Villa,Tottenham,Away,1,4,12,1,Loss,0,-3
+2024-2025,2024-11-03,Chelsea,Man United,Away,1,1,12,3,Draw,1,0
+2024-2025,2024-11-03,Man United,Chelsea,Home,1,1,11,4,Draw,1,0
+2024-2025,2024-11-03,Tottenham,Aston Villa,Home,4,1,16,6,Win,3,3
+2024-2025,2024-11-04,Brentford,Fulham,Away,1,2,5,2,Loss,0,-1
+2024-2025,2024-11-04,Fulham,Brentford,Home,2,1,26,12,Win,3,1
+2024-2025,2024-11-09,Aston Villa,Liverpool,Away,0,2,12,2,Loss,0,-2
+2024-2025,2024-11-09,Bournemouth,Brentford,Away,2,3,15,3,Loss,0,-1
+2024-2025,2024-11-09,Brentford,Bournemouth,Home,3,2,12,6,Win,3,1
+2024-2025,2024-11-09,Brighton,Man City,Home,2,1,10,4,Win,3,1
+2024-2025,2024-11-09,Crystal Palace,Fulham,Home,0,2,13,5,Loss,0,-2
+2024-2025,2024-11-09,Everton,West Ham,Away,0,0,18,4,Draw,1,0
+2024-2025,2024-11-09,Fulham,Crystal Palace,Away,2,0,17,7,Win,3,2
+2024-2025,2024-11-09,Liverpool,Aston Villa,Home,2,0,14,5,Win,3,2
+2024-2025,2024-11-09,Man City,Brighton,Away,1,2,15,6,Loss,0,-1
+2024-2025,2024-11-09,Southampton,Wolves,Away,0,2,9,0,Loss,0,-2
+2024-2025,2024-11-09,West Ham,Everton,Home,0,0,11,6,Draw,1,0
+2024-2025,2024-11-09,Wolves,Southampton,Home,2,0,8,4,Win,3,2
+2024-2025,2024-11-10,Arsenal,Chelsea,Away,1,1,13,3,Draw,1,0
+2024-2025,2024-11-10,Chelsea,Arsenal,Home,1,1,17,3,Draw,1,0
+2024-2025,2024-11-10,Ipswich,Tottenham,Away,2,1,8,3,Win,3,1
+2024-2025,2024-11-10,Leicester,Man United,Away,0,3,6,5,Loss,0,-3
+2024-2025,2024-11-10,Man United,Leicester,Home,3,0,13,3,Win,3,3
+2024-2025,2024-11-10,Newcastle,Nott'm Forest,Away,3,1,17,6,Win,3,2
+2024-2025,2024-11-10,Nott'm Forest,Newcastle,Home,1,3,9,3,Loss,0,-2
+2024-2025,2024-11-10,Tottenham,Ipswich,Home,1,2,17,5,Loss,0,-1
+2024-2025,2024-11-23,Arsenal,Nott'm Forest,Home,3,0,19,7,Win,3,3
+2024-2025,2024-11-23,Aston Villa,Crystal Palace,Home,2,2,17,5,Draw,1,0
+2024-2025,2024-11-23,Bournemouth,Brighton,Home,1,2,19,5,Loss,0,-1
+2024-2025,2024-11-23,Brentford,Everton,Away,0,0,9,2,Draw,1,0
+2024-2025,2024-11-23,Brighton,Bournemouth,Away,2,1,6,4,Win,3,1
+2024-2025,2024-11-23,Chelsea,Leicester,Away,2,1,16,7,Win,3,1
+2024-2025,2024-11-23,Crystal Palace,Aston Villa,Away,2,2,13,6,Draw,1,0
+2024-2025,2024-11-23,Everton,Brentford,Home,0,0,27,5,Draw,1,0
+2024-2025,2024-11-23,Fulham,Wolves,Home,1,4,10,3,Loss,0,-3
+2024-2025,2024-11-23,Leicester,Chelsea,Home,1,2,4,1,Loss,0,-1
+2024-2025,2024-11-23,Man City,Tottenham,Home,0,4,23,5,Loss,0,-4
+2024-2025,2024-11-23,Nott'm Forest,Arsenal,Away,0,3,7,0,Loss,0,-3
+2024-2025,2024-11-23,Tottenham,Man City,Away,4,0,9,7,Win,3,4
+2024-2025,2024-11-23,Wolves,Fulham,Away,4,1,10,5,Win,3,3
+2024-2025,2024-11-24,Ipswich,Man United,Home,1,1,11,6,Draw,1,0
+2024-2025,2024-11-24,Liverpool,Southampton,Away,3,2,27,11,Win,3,1
+2024-2025,2024-11-24,Man United,Ipswich,Away,1,1,11,4,Draw,1,0
+2024-2025,2024-11-24,Southampton,Liverpool,Home,2,3,7,5,Loss,0,-1
+2024-2025,2024-11-25,Newcastle,West Ham,Home,0,2,18,2,Loss,0,-2
+2024-2025,2024-11-25,West Ham,Newcastle,Away,2,0,15,6,Win,3,2
+2024-2025,2024-11-29,Brighton,Southampton,Home,1,1,22,5,Draw,1,0
+2024-2025,2024-11-29,Southampton,Brighton,Away,1,1,10,2,Draw,1,0
+2024-2025,2024-11-30,Arsenal,West Ham,Away,5,2,16,7,Win,3,3
+2024-2025,2024-11-30,Bournemouth,Wolves,Away,4,2,12,8,Win,3,2
+2024-2025,2024-11-30,Brentford,Leicester,Home,4,1,13,6,Win,3,3
+2024-2025,2024-11-30,Crystal Palace,Newcastle,Home,1,1,16,4,Draw,1,0
+2024-2025,2024-11-30,Ipswich,Nott'm Forest,Away,0,1,7,3,Loss,0,-1
+2024-2025,2024-11-30,Leicester,Brentford,Away,1,4,7,3,Loss,0,-3
+2024-2025,2024-11-30,Newcastle,Crystal Palace,Away,1,1,1,0,Draw,1,0
+2024-2025,2024-11-30,Nott'm Forest,Ipswich,Home,1,0,12,5,Win,3,1
+2024-2025,2024-11-30,West Ham,Arsenal,Home,2,5,12,5,Loss,0,-3
+2024-2025,2024-11-30,Wolves,Bournemouth,Home,2,4,10,3,Loss,0,-2
+2024-2025,2024-12-01,Aston Villa,Chelsea,Away,0,3,10,4,Loss,0,-3
+2024-2025,2024-12-01,Chelsea,Aston Villa,Home,3,0,17,8,Win,3,3
+2024-2025,2024-12-01,Everton,Man United,Away,0,4,8,2,Loss,0,-4
+2024-2025,2024-12-01,Fulham,Tottenham,Away,1,1,14,6,Draw,1,0
+2024-2025,2024-12-01,Liverpool,Man City,Home,2,0,18,7,Win,3,2
+2024-2025,2024-12-01,Man City,Liverpool,Away,0,2,8,2,Loss,0,-2
+2024-2025,2024-12-01,Man United,Everton,Home,4,0,11,5,Win,3,4
+2024-2025,2024-12-01,Tottenham,Fulham,Home,1,1,8,3,Draw,1,0
+2024-2025,2024-12-03,Crystal Palace,Ipswich,Away,1,0,13,3,Win,3,1
+2024-2025,2024-12-03,Ipswich,Crystal Palace,Home,0,1,9,2,Loss,0,-1
+2024-2025,2024-12-03,Leicester,West Ham,Home,3,1,8,6,Win,3,2
+2024-2025,2024-12-03,West Ham,Leicester,Away,1,3,31,10,Loss,0,-2
+2024-2025,2024-12-04,Arsenal,Man United,Home,2,0,14,6,Win,3,2
+2024-2025,2024-12-04,Aston Villa,Brentford,Home,3,1,20,10,Win,3,2
+2024-2025,2024-12-04,Brentford,Aston Villa,Away,1,3,9,1,Loss,0,-2
+2024-2025,2024-12-04,Chelsea,Southampton,Away,5,1,26,13,Win,3,4
+2024-2025,2024-12-04,Everton,Wolves,Home,4,0,13,4,Win,3,4
+2024-2025,2024-12-04,Liverpool,Newcastle,Away,3,3,16,5,Draw,1,0
+2024-2025,2024-12-04,Man City,Nott'm Forest,Home,3,0,17,7,Win,3,3
+2024-2025,2024-12-04,Man United,Arsenal,Away,0,2,5,2,Loss,0,-2
+2024-2025,2024-12-04,Newcastle,Liverpool,Home,3,3,17,6,Draw,1,0
+2024-2025,2024-12-04,Nott'm Forest,Man City,Away,0,3,12,3,Loss,0,-3
+2024-2025,2024-12-04,Southampton,Chelsea,Home,1,5,6,4,Loss,0,-4
+2024-2025,2024-12-04,Wolves,Everton,Away,0,4,6,2,Loss,0,-4
+2024-2025,2024-12-05,Bournemouth,Tottenham,Home,1,0,21,8,Win,3,1
+2024-2025,2024-12-05,Brighton,Fulham,Away,1,3,13,3,Loss,0,-2
+2024-2025,2024-12-05,Fulham,Brighton,Home,3,1,6,2,Win,3,2
+2024-2025,2024-12-05,Tottenham,Bournemouth,Away,0,1,12,4,Loss,0,-1
+2024-2025,2024-12-07,Aston Villa,Southampton,Home,1,0,18,5,Win,3,1
+2024-2025,2024-12-07,Brentford,Newcastle,Home,4,2,11,8,Win,3,2
+2024-2025,2024-12-07,Crystal Palace,Man City,Home,2,2,12,3,Draw,1,0
+2024-2025,2024-12-07,Man City,Crystal Palace,Away,2,2,12,4,Draw,1,0
+2024-2025,2024-12-07,Man United,Nott'm Forest,Home,2,3,17,7,Loss,0,-1
+2024-2025,2024-12-07,Newcastle,Brentford,Away,2,4,16,3,Loss,0,-2
+2024-2025,2024-12-07,Nott'm Forest,Man United,Away,3,2,11,3,Win,3,1
+2024-2025,2024-12-07,Southampton,Aston Villa,Away,0,1,4,0,Loss,0,-1
+2024-2025,2024-12-08,Arsenal,Fulham,Away,1,1,12,4,Draw,1,0
+2024-2025,2024-12-08,Bournemouth,Ipswich,Away,2,1,22,6,Win,3,1
+2024-2025,2024-12-08,Brighton,Leicester,Away,2,2,16,7,Draw,1,0
+2024-2025,2024-12-08,Chelsea,Tottenham,Away,4,3,17,8,Win,3,1
+2024-2025,2024-12-08,Fulham,Arsenal,Home,1,1,2,2,Draw,1,0
+2024-2025,2024-12-08,Ipswich,Bournemouth,Home,1,2,18,5,Loss,0,-1
+2024-2025,2024-12-08,Leicester,Brighton,Home,2,2,10,3,Draw,1,0
+2024-2025,2024-12-08,Tottenham,Chelsea,Home,3,4,13,5,Loss,0,-1
+2024-2025,2024-12-09,West Ham,Wolves,Home,2,1,19,4,Win,3,1
+2024-2025,2024-12-09,Wolves,West Ham,Away,1,2,19,5,Loss,0,-1
+2024-2025,2024-12-14,Arsenal,Everton,Home,0,0,13,5,Draw,1,0
+2024-2025,2024-12-14,Aston Villa,Nott'm Forest,Away,1,2,8,2,Loss,0,-1
+2024-2025,2024-12-14,Everton,Arsenal,Away,0,0,2,0,Draw,1,0
+2024-2025,2024-12-14,Fulham,Liverpool,Away,2,2,12,3,Draw,1,0
+2024-2025,2024-12-14,Ipswich,Wolves,Away,2,1,10,5,Win,3,1
+2024-2025,2024-12-14,Leicester,Newcastle,Away,0,4,4,1,Loss,0,-4
+2024-2025,2024-12-14,Liverpool,Fulham,Home,2,2,16,4,Draw,1,0
+2024-2025,2024-12-14,Newcastle,Leicester,Home,4,0,27,11,Win,3,4
+2024-2025,2024-12-14,Nott'm Forest,Aston Villa,Home,2,1,17,6,Win,3,1
+2024-2025,2024-12-14,Wolves,Ipswich,Home,1,2,16,6,Loss,0,-1
+2024-2025,2024-12-15,Brentford,Chelsea,Away,1,2,9,4,Loss,0,-1
+2024-2025,2024-12-15,Brighton,Crystal Palace,Home,1,3,17,5,Loss,0,-2
+2024-2025,2024-12-15,Chelsea,Brentford,Home,2,1,26,8,Win,3,1
+2024-2025,2024-12-15,Crystal Palace,Brighton,Away,3,1,13,5,Win,3,2
+2024-2025,2024-12-15,Man City,Man United,Home,1,2,10,3,Loss,0,-1
+2024-2025,2024-12-15,Man United,Man City,Away,2,1,10,3,Win,3,1
+2024-2025,2024-12-15,Southampton,Tottenham,Home,0,5,9,3,Loss,0,-5
+2024-2025,2024-12-15,Tottenham,Southampton,Away,5,0,18,9,Win,3,5
+2024-2025,2024-12-16,Bournemouth,West Ham,Home,1,1,29,9,Draw,1,0
+2024-2025,2024-12-16,West Ham,Bournemouth,Away,1,1,16,3,Draw,1,0
+2024-2025,2024-12-21,Arsenal,Crystal Palace,Away,5,1,14,6,Win,3,4
+2024-2025,2024-12-21,Aston Villa,Man City,Home,2,1,11,6,Win,3,1
+2024-2025,2024-12-21,Brentford,Nott'm Forest,Home,0,2,7,3,Loss,0,-2
+2024-2025,2024-12-21,Brighton,West Ham,Away,1,1,12,6,Draw,1,0
+2024-2025,2024-12-21,Crystal Palace,Arsenal,Home,1,5,15,6,Loss,0,-4
+2024-2025,2024-12-21,Ipswich,Newcastle,Home,0,4,10,2,Loss,0,-4
+2024-2025,2024-12-21,Man City,Aston Villa,Away,1,2,12,6,Loss,0,-1
+2024-2025,2024-12-21,Newcastle,Ipswich,Away,4,0,15,7,Win,3,4
+2024-2025,2024-12-21,Nott'm Forest,Brentford,Away,2,0,10,6,Win,3,2
+2024-2025,2024-12-21,West Ham,Brighton,Home,1,1,11,4,Draw,1,0
+2024-2025,2024-12-22,Bournemouth,Man United,Away,3,0,10,5,Win,3,3
+2024-2025,2024-12-22,Chelsea,Everton,Away,0,0,12,5,Draw,1,0
+2024-2025,2024-12-22,Everton,Chelsea,Home,0,0,5,4,Draw,1,0
+2024-2025,2024-12-22,Fulham,Southampton,Home,0,0,16,5,Draw,1,0
+2024-2025,2024-12-22,Leicester,Wolves,Home,0,3,9,5,Loss,0,-3
+2024-2025,2024-12-22,Liverpool,Tottenham,Away,6,3,24,12,Win,3,3
+2024-2025,2024-12-22,Man United,Bournemouth,Home,0,3,23,7,Loss,0,-3
+2024-2025,2024-12-22,Southampton,Fulham,Away,0,0,5,1,Draw,1,0
+2024-2025,2024-12-22,Tottenham,Liverpool,Home,3,6,9,5,Loss,0,-3
+2024-2025,2024-12-22,Wolves,Leicester,Away,3,0,8,4,Win,3,3
+2024-2025,2024-12-26,Aston Villa,Newcastle,Away,0,3,4,1,Loss,0,-3
+2024-2025,2024-12-26,Bournemouth,Crystal Palace,Home,0,0,18,4,Draw,1,0
+2024-2025,2024-12-26,Chelsea,Fulham,Home,1,2,12,8,Loss,0,-1
+2024-2025,2024-12-26,Crystal Palace,Bournemouth,Away,0,0,10,4,Draw,1,0
+2024-2025,2024-12-26,Everton,Man City,Away,1,1,8,3,Draw,1,0
+2024-2025,2024-12-26,Fulham,Chelsea,Away,2,1,14,7,Win,3,1
+2024-2025,2024-12-26,Leicester,Liverpool,Away,1,3,4,1,Loss,0,-2
+2024-2025,2024-12-26,Liverpool,Leicester,Home,3,1,19,7,Win,3,2
+2024-2025,2024-12-26,Man City,Everton,Home,1,1,24,5,Draw,1,0
+2024-2025,2024-12-26,Man United,Wolves,Away,0,2,11,4,Loss,0,-2
+2024-2025,2024-12-26,Newcastle,Aston Villa,Home,3,0,22,8,Win,3,3
+2024-2025,2024-12-26,Nott'm Forest,Tottenham,Home,1,0,10,3,Win,3,1
+2024-2025,2024-12-26,Southampton,West Ham,Home,0,1,18,5,Loss,0,-1
+2024-2025,2024-12-26,Tottenham,Nott'm Forest,Away,0,1,13,4,Loss,0,-1
+2024-2025,2024-12-26,West Ham,Southampton,Away,1,0,16,2,Win,3,1
+2024-2025,2024-12-26,Wolves,Man United,Home,2,0,7,4,Win,3,2
+2024-2025,2024-12-27,Arsenal,Ipswich,Home,1,0,13,5,Win,3,1
+2024-2025,2024-12-27,Brentford,Brighton,Away,0,0,8,3,Draw,1,0
+2024-2025,2024-12-27,Brighton,Brentford,Home,0,0,24,7,Draw,1,0
+2024-2025,2024-12-27,Ipswich,Arsenal,Away,0,1,3,0,Loss,0,-1
+2024-2025,2024-12-29,Bournemouth,Fulham,Away,2,2,16,9,Draw,1,0
+2024-2025,2024-12-29,Crystal Palace,Southampton,Home,2,1,19,10,Win,3,1
+2024-2025,2024-12-29,Everton,Nott'm Forest,Home,0,2,13,2,Loss,0,-2
+2024-2025,2024-12-29,Fulham,Bournemouth,Home,2,2,11,6,Draw,1,0
+2024-2025,2024-12-29,Leicester,Man City,Home,0,2,11,4,Loss,0,-2
+2024-2025,2024-12-29,Liverpool,West Ham,Away,5,0,22,13,Win,3,5
+2024-2025,2024-12-29,Man City,Leicester,Away,2,0,14,5,Win,3,2
+2024-2025,2024-12-29,Nott'm Forest,Everton,Away,2,0,11,7,Win,3,2
+2024-2025,2024-12-29,Southampton,Crystal Palace,Away,1,2,7,3,Loss,0,-1
+2024-2025,2024-12-29,Tottenham,Wolves,Home,2,2,13,3,Draw,1,0
+2024-2025,2024-12-29,West Ham,Liverpool,Home,0,5,7,0,Loss,0,-5
+2024-2025,2024-12-29,Wolves,Tottenham,Away,2,2,11,3,Draw,1,0
+2024-2025,2024-12-30,Aston Villa,Brighton,Home,2,2,20,4,Draw,1,0
+2024-2025,2024-12-30,Brighton,Aston Villa,Away,2,2,13,4,Draw,1,0
+2024-2025,2024-12-30,Chelsea,Ipswich,Away,0,2,20,5,Loss,0,-2
+2024-2025,2024-12-30,Ipswich,Chelsea,Home,2,0,9,6,Win,3,2
+2024-2025,2024-12-30,Man United,Newcastle,Home,0,2,10,0,Loss,0,-2
+2024-2025,2024-12-30,Newcastle,Man United,Away,2,0,12,4,Win,3,2
+2024-2025,2025-01-01,Arsenal,Brentford,Away,3,1,14,5,Win,3,2
+2024-2025,2025-01-01,Brentford,Arsenal,Home,1,3,5,2,Loss,0,-2
+2024-2025,2025-01-04,Arsenal,Brighton,Away,1,1,9,3,Draw,1,0
+2024-2025,2025-01-04,Aston Villa,Leicester,Home,2,1,13,5,Win,3,1
+2024-2025,2025-01-04,Bournemouth,Everton,Home,1,0,19,8,Win,3,1
+2024-2025,2025-01-04,Brentford,Southampton,Away,5,0,20,11,Win,3,5
+2024-2025,2025-01-04,Brighton,Arsenal,Home,1,1,11,4,Draw,1,0
+2024-2025,2025-01-04,Chelsea,Crystal Palace,Away,1,1,15,1,Draw,1,0
+2024-2025,2025-01-04,Crystal Palace,Chelsea,Home,1,1,13,6,Draw,1,0
+2024-2025,2025-01-04,Everton,Bournemouth,Away,0,1,9,0,Loss,0,-1
+2024-2025,2025-01-04,Leicester,Aston Villa,Away,1,2,4,2,Loss,0,-1
+2024-2025,2025-01-04,Man City,West Ham,Home,4,1,10,7,Win,3,3
+2024-2025,2025-01-04,Newcastle,Tottenham,Away,2,1,14,4,Win,3,1
+2024-2025,2025-01-04,Southampton,Brentford,Home,0,5,8,1,Loss,0,-5
+2024-2025,2025-01-04,Tottenham,Newcastle,Home,1,2,13,4,Loss,0,-1
+2024-2025,2025-01-04,West Ham,Man City,Away,1,4,17,4,Loss,0,-3
+2024-2025,2025-01-05,Fulham,Ipswich,Home,2,2,15,4,Draw,1,0
+2024-2025,2025-01-05,Ipswich,Fulham,Away,2,2,7,3,Draw,1,0
+2024-2025,2025-01-05,Liverpool,Man United,Home,2,2,19,6,Draw,1,0
+2024-2025,2025-01-05,Man United,Liverpool,Away,2,2,13,4,Draw,1,0
+2024-2025,2025-01-06,Nott'm Forest,Wolves,Away,3,0,11,3,Win,3,3
+2024-2025,2025-01-06,Wolves,Nott'm Forest,Home,0,3,13,6,Loss,0,-3
+2024-2025,2025-01-14,Bournemouth,Chelsea,Away,2,2,7,3,Draw,1,0
+2024-2025,2025-01-14,Brentford,Man City,Home,2,2,18,6,Draw,1,0
+2024-2025,2025-01-14,Chelsea,Bournemouth,Home,2,2,26,10,Draw,1,0
+2024-2025,2025-01-14,Fulham,West Ham,Away,2,3,21,5,Loss,0,-1
+2024-2025,2025-01-14,Liverpool,Nott'm Forest,Away,1,1,23,7,Draw,1,0
+2024-2025,2025-01-14,Man City,Brentford,Away,2,2,21,8,Draw,1,0
+2024-2025,2025-01-14,Nott'm Forest,Liverpool,Home,1,1,6,3,Draw,1,0
+2024-2025,2025-01-14,West Ham,Fulham,Home,3,2,4,3,Win,3,1
+2024-2025,2025-01-15,Arsenal,Tottenham,Home,2,1,14,4,Win,3,1
+2024-2025,2025-01-15,Aston Villa,Everton,Away,1,0,11,3,Win,3,1
+2024-2025,2025-01-15,Crystal Palace,Leicester,Away,2,0,9,4,Win,3,2
+2024-2025,2025-01-15,Everton,Aston Villa,Home,0,1,10,3,Loss,0,-1
+2024-2025,2025-01-15,Leicester,Crystal Palace,Home,0,2,21,4,Loss,0,-2
+2024-2025,2025-01-15,Newcastle,Wolves,Home,3,0,17,5,Win,3,3
+2024-2025,2025-01-15,Tottenham,Arsenal,Away,1,2,10,2,Loss,0,-1
+2024-2025,2025-01-15,Wolves,Newcastle,Away,0,3,13,7,Loss,0,-3
+2024-2025,2025-01-16,Brighton,Ipswich,Away,2,0,11,5,Win,3,2
+2024-2025,2025-01-16,Ipswich,Brighton,Home,0,2,5,3,Loss,0,-2
+2024-2025,2025-01-16,Man United,Southampton,Home,3,1,23,9,Win,3,2
+2024-2025,2025-01-16,Southampton,Man United,Away,1,3,13,5,Loss,0,-2
+2024-2025,2025-01-18,Arsenal,Aston Villa,Home,2,2,18,6,Draw,1,0
+2024-2025,2025-01-18,Aston Villa,Arsenal,Away,2,2,8,4,Draw,1,0
+2024-2025,2025-01-18,Bournemouth,Newcastle,Away,4,1,19,10,Win,3,3
+2024-2025,2025-01-18,Brentford,Liverpool,Home,0,2,11,6,Loss,0,-2
+2024-2025,2025-01-18,Crystal Palace,West Ham,Away,2,0,12,7,Win,3,2
+2024-2025,2025-01-18,Fulham,Leicester,Away,2,0,17,2,Win,3,2
+2024-2025,2025-01-18,Leicester,Fulham,Home,0,2,8,4,Loss,0,-2
+2024-2025,2025-01-18,Liverpool,Brentford,Away,2,0,37,8,Win,3,2
+2024-2025,2025-01-18,Newcastle,Bournemouth,Home,1,4,13,5,Loss,0,-3
+2024-2025,2025-01-18,West Ham,Crystal Palace,Home,0,2,7,0,Loss,0,-2
+2024-2025,2025-01-19,Brighton,Man United,Away,3,1,6,3,Win,3,2
+2024-2025,2025-01-19,Everton,Tottenham,Home,3,2,12,6,Win,3,1
+2024-2025,2025-01-19,Ipswich,Man City,Home,0,6,8,4,Loss,0,-6
+2024-2025,2025-01-19,Man City,Ipswich,Away,6,0,17,9,Win,3,6
+2024-2025,2025-01-19,Man United,Brighton,Home,1,3,10,1,Loss,0,-2
+2024-2025,2025-01-19,Nott'm Forest,Southampton,Home,3,2,14,5,Win,3,1
+2024-2025,2025-01-19,Southampton,Nott'm Forest,Away,2,3,10,4,Loss,0,-1
+2024-2025,2025-01-19,Tottenham,Everton,Away,2,3,11,6,Loss,0,-1
+2024-2025,2025-01-20,Chelsea,Wolves,Home,3,1,19,7,Win,3,2
+2024-2025,2025-01-20,Wolves,Chelsea,Away,1,3,9,4,Loss,0,-2
+2024-2025,2025-01-25,Arsenal,Wolves,Away,1,0,9,3,Win,3,1
+2024-2025,2025-01-25,Bournemouth,Nott'm Forest,Home,5,0,16,10,Win,3,5
+2024-2025,2025-01-25,Brighton,Everton,Home,0,1,16,1,Loss,0,-1
+2024-2025,2025-01-25,Chelsea,Man City,Away,1,3,10,4,Loss,0,-2
+2024-2025,2025-01-25,Everton,Brighton,Away,1,0,3,1,Win,3,1
+2024-2025,2025-01-25,Ipswich,Liverpool,Away,1,4,3,3,Loss,0,-3
+2024-2025,2025-01-25,Liverpool,Ipswich,Home,4,1,16,6,Win,3,3
+2024-2025,2025-01-25,Man City,Chelsea,Home,3,1,15,6,Win,3,2
+2024-2025,2025-01-25,Newcastle,Southampton,Away,3,1,17,9,Win,3,2
+2024-2025,2025-01-25,Nott'm Forest,Bournemouth,Away,0,5,18,4,Loss,0,-5
+2024-2025,2025-01-25,Southampton,Newcastle,Home,1,3,12,5,Loss,0,-2
+2024-2025,2025-01-25,Wolves,Arsenal,Home,0,1,9,4,Loss,0,-1
+2024-2025,2025-01-26,Aston Villa,West Ham,Home,1,1,14,4,Draw,1,0
+2024-2025,2025-01-26,Brentford,Crystal Palace,Away,2,1,13,6,Win,3,1
+2024-2025,2025-01-26,Crystal Palace,Brentford,Home,1,2,16,5,Loss,0,-1
+2024-2025,2025-01-26,Fulham,Man United,Home,0,1,9,3,Loss,0,-1
+2024-2025,2025-01-26,Leicester,Tottenham,Away,2,1,12,3,Win,3,1
+2024-2025,2025-01-26,Man United,Fulham,Away,1,0,4,1,Win,3,1
+2024-2025,2025-01-26,Tottenham,Leicester,Home,1,2,15,6,Loss,0,-1
+2024-2025,2025-01-26,West Ham,Aston Villa,Away,1,1,14,4,Draw,1,0
+2024-2025,2025-02-01,Aston Villa,Wolves,Away,0,2,10,3,Loss,0,-2
+2024-2025,2025-02-01,Bournemouth,Liverpool,Home,0,2,14,3,Loss,0,-2
+2024-2025,2025-02-01,Brighton,Nott'm Forest,Away,0,7,10,5,Loss,0,-7
+2024-2025,2025-02-01,Everton,Leicester,Home,4,0,13,7,Win,3,4
+2024-2025,2025-02-01,Fulham,Newcastle,Away,2,1,15,4,Win,3,1
+2024-2025,2025-02-01,Ipswich,Southampton,Home,1,2,15,6,Loss,0,-1
+2024-2025,2025-02-01,Leicester,Everton,Away,0,4,9,1,Loss,0,-4
+2024-2025,2025-02-01,Liverpool,Bournemouth,Away,2,0,19,7,Win,3,2
+2024-2025,2025-02-01,Newcastle,Fulham,Home,1,2,11,4,Loss,0,-1
+2024-2025,2025-02-01,Nott'm Forest,Brighton,Home,7,0,14,9,Win,3,7
+2024-2025,2025-02-01,Southampton,Ipswich,Away,2,1,9,4,Win,3,1
+2024-2025,2025-02-01,Wolves,Aston Villa,Home,2,0,8,5,Win,3,2
+2024-2025,2025-02-02,Arsenal,Man City,Home,5,1,12,7,Win,3,4
+2024-2025,2025-02-02,Brentford,Tottenham,Home,0,2,20,4,Loss,0,-2
+2024-2025,2025-02-02,Crystal Palace,Man United,Away,2,0,11,3,Win,3,2
+2024-2025,2025-02-02,Man City,Arsenal,Away,1,5,7,4,Loss,0,-4
+2024-2025,2025-02-02,Man United,Crystal Palace,Home,0,2,17,2,Loss,0,-2
+2024-2025,2025-02-02,Tottenham,Brentford,Away,2,0,13,2,Win,3,2
+2024-2025,2025-02-03,Chelsea,West Ham,Home,2,1,22,3,Win,3,1
+2024-2025,2025-02-03,West Ham,Chelsea,Away,1,2,14,5,Loss,0,-1
+2024-2025,2025-02-12,Everton,Liverpool,Home,2,2,10,3,Draw,1,0
+2024-2025,2025-02-12,Liverpool,Everton,Away,2,2,6,4,Draw,1,0
+2024-2025,2025-02-14,Brighton,Chelsea,Home,3,0,13,5,Win,3,3
+2024-2025,2025-02-14,Chelsea,Brighton,Away,0,3,8,0,Loss,0,-3
+2024-2025,2025-02-15,Arsenal,Leicester,Away,2,0,11,5,Win,3,2
+2024-2025,2025-02-15,Aston Villa,Ipswich,Home,1,1,25,6,Draw,1,0
+2024-2025,2025-02-15,Bournemouth,Southampton,Away,3,1,14,7,Win,3,2
+2024-2025,2025-02-15,Brentford,West Ham,Away,1,0,14,5,Win,3,1
+2024-2025,2025-02-15,Crystal Palace,Everton,Home,1,2,17,6,Loss,0,-1
+2024-2025,2025-02-15,Everton,Crystal Palace,Away,2,1,11,6,Win,3,1
+2024-2025,2025-02-15,Fulham,Nott'm Forest,Home,2,1,24,10,Win,3,1
+2024-2025,2025-02-15,Ipswich,Aston Villa,Away,1,1,4,3,Draw,1,0
+2024-2025,2025-02-15,Leicester,Arsenal,Home,0,2,6,2,Loss,0,-2
+2024-2025,2025-02-15,Man City,Newcastle,Home,4,0,11,7,Win,3,4
+2024-2025,2025-02-15,Newcastle,Man City,Away,0,4,3,1,Loss,0,-4
+2024-2025,2025-02-15,Nott'm Forest,Fulham,Away,1,2,8,2,Loss,0,-1
+2024-2025,2025-02-15,Southampton,Bournemouth,Home,1,3,11,4,Loss,0,-2
+2024-2025,2025-02-15,West Ham,Brentford,Home,0,1,13,3,Loss,0,-1
+2024-2025,2025-02-16,Liverpool,Wolves,Home,2,1,10,3,Win,3,1
+2024-2025,2025-02-16,Man United,Tottenham,Away,0,1,16,6,Loss,0,-1
+2024-2025,2025-02-16,Tottenham,Man United,Home,1,0,22,7,Win,3,1
+2024-2025,2025-02-16,Wolves,Liverpool,Away,1,2,16,4,Loss,0,-1
+2024-2025,2025-02-19,Aston Villa,Liverpool,Home,2,2,9,4,Draw,1,0
+2024-2025,2025-02-19,Liverpool,Aston Villa,Away,2,2,17,3,Draw,1,0
+2024-2025,2025-02-21,Brentford,Leicester,Away,4,0,14,6,Win,3,4
+2024-2025,2025-02-21,Leicester,Brentford,Home,0,4,8,3,Loss,0,-4
+2024-2025,2025-02-22,Arsenal,West Ham,Home,0,1,20,2,Loss,0,-1
+2024-2025,2025-02-22,Aston Villa,Chelsea,Home,2,1,12,6,Win,3,1
+2024-2025,2025-02-22,Bournemouth,Wolves,Home,0,1,8,3,Loss,0,-1
+2024-2025,2025-02-22,Brighton,Southampton,Away,4,0,18,12,Win,3,4
+2024-2025,2025-02-22,Chelsea,Aston Villa,Away,1,2,15,7,Loss,0,-1
+2024-2025,2025-02-22,Crystal Palace,Fulham,Away,2,0,10,5,Win,3,2
+2024-2025,2025-02-22,Everton,Man United,Home,2,2,9,8,Draw,1,0
+2024-2025,2025-02-22,Fulham,Crystal Palace,Home,0,2,10,0,Loss,0,-2
+2024-2025,2025-02-22,Ipswich,Tottenham,Home,1,4,17,5,Loss,0,-3
+2024-2025,2025-02-22,Man United,Everton,Away,2,2,9,3,Draw,1,0
+2024-2025,2025-02-22,Southampton,Brighton,Home,0,4,6,1,Loss,0,-4
+2024-2025,2025-02-22,Tottenham,Ipswich,Away,4,1,10,6,Win,3,3
+2024-2025,2025-02-22,West Ham,Arsenal,Away,1,0,5,2,Win,3,1
+2024-2025,2025-02-22,Wolves,Bournemouth,Away,1,0,13,5,Win,3,1
+2024-2025,2025-02-23,Liverpool,Man City,Away,2,0,8,4,Win,3,2
+2024-2025,2025-02-23,Man City,Liverpool,Home,0,2,16,5,Loss,0,-2
+2024-2025,2025-02-23,Newcastle,Nott'm Forest,Home,4,3,13,5,Win,3,1
+2024-2025,2025-02-23,Nott'm Forest,Newcastle,Away,3,4,17,5,Loss,0,-1
+2024-2025,2025-02-25,Aston Villa,Crystal Palace,Away,1,4,6,2,Loss,0,-3
+2024-2025,2025-02-25,Bournemouth,Brighton,Away,1,2,19,5,Loss,0,-1
+2024-2025,2025-02-25,Brighton,Bournemouth,Home,2,1,11,4,Win,3,1
+2024-2025,2025-02-25,Chelsea,Southampton,Home,4,0,19,10,Win,3,4
+2024-2025,2025-02-25,Crystal Palace,Aston Villa,Home,4,1,19,6,Win,3,3
+2024-2025,2025-02-25,Fulham,Wolves,Away,2,1,11,5,Win,3,1
+2024-2025,2025-02-25,Southampton,Chelsea,Away,0,4,7,2,Loss,0,-4
+2024-2025,2025-02-25,Wolves,Fulham,Home,1,2,18,5,Loss,0,-1
+2024-2025,2025-02-26,Arsenal,Nott'm Forest,Away,0,0,13,1,Draw,1,0
+2024-2025,2025-02-26,Brentford,Everton,Home,1,1,12,3,Draw,1,0
+2024-2025,2025-02-26,Everton,Brentford,Away,1,1,14,4,Draw,1,0
+2024-2025,2025-02-26,Ipswich,Man United,Away,2,3,12,3,Loss,0,-1
+2024-2025,2025-02-26,Liverpool,Newcastle,Home,2,0,12,3,Win,3,2
+2024-2025,2025-02-26,Man City,Tottenham,Away,1,0,12,5,Win,3,1
+2024-2025,2025-02-26,Man United,Ipswich,Home,3,2,10,6,Win,3,1
+2024-2025,2025-02-26,Newcastle,Liverpool,Away,0,2,3,0,Loss,0,-2
+2024-2025,2025-02-26,Nott'm Forest,Arsenal,Home,0,0,6,2,Draw,1,0
+2024-2025,2025-02-26,Tottenham,Man City,Home,0,1,11,6,Loss,0,-1
+2024-2025,2025-02-27,Leicester,West Ham,Away,0,2,10,2,Loss,0,-2
+2024-2025,2025-02-27,West Ham,Leicester,Home,2,0,8,2,Win,3,2
+2024-2025,2025-03-08,Aston Villa,Brentford,Away,1,0,12,4,Win,3,1
+2024-2025,2025-03-08,Brentford,Aston Villa,Home,0,1,13,3,Loss,0,-1
+2024-2025,2025-03-08,Brighton,Fulham,Home,2,1,9,4,Win,3,1
+2024-2025,2025-03-08,Crystal Palace,Ipswich,Home,1,0,19,4,Win,3,1
+2024-2025,2025-03-08,Everton,Wolves,Away,1,1,12,4,Draw,1,0
+2024-2025,2025-03-08,Fulham,Brighton,Away,1,2,6,1,Loss,0,-1
+2024-2025,2025-03-08,Ipswich,Crystal Palace,Away,0,1,15,8,Loss,0,-1
+2024-2025,2025-03-08,Liverpool,Southampton,Home,3,1,28,7,Win,3,2
+2024-2025,2025-03-08,Man City,Nott'm Forest,Away,0,1,14,3,Loss,0,-1
+2024-2025,2025-03-08,Nott'm Forest,Man City,Home,1,0,9,4,Win,3,1
+2024-2025,2025-03-08,Southampton,Liverpool,Away,1,3,6,4,Loss,0,-2
+2024-2025,2025-03-08,Wolves,Everton,Home,1,1,11,3,Draw,1,0
+2024-2025,2025-03-09,Arsenal,Man United,Away,1,1,17,6,Draw,1,0
+2024-2025,2025-03-09,Bournemouth,Tottenham,Away,2,2,17,8,Draw,1,0
+2024-2025,2025-03-09,Chelsea,Leicester,Home,1,0,20,7,Win,3,1
+2024-2025,2025-03-09,Leicester,Chelsea,Away,0,1,3,3,Loss,0,-1
+2024-2025,2025-03-09,Man United,Arsenal,Home,1,1,10,6,Draw,1,0
+2024-2025,2025-03-09,Tottenham,Bournemouth,Home,2,2,12,4,Draw,1,0
+2024-2025,2025-03-10,Newcastle,West Ham,Away,1,0,9,3,Win,3,1
+2024-2025,2025-03-10,West Ham,Newcastle,Home,0,1,9,2,Loss,0,-1
+2024-2025,2025-03-15,Bournemouth,Brentford,Home,1,2,17,5,Loss,0,-1
+2024-2025,2025-03-15,Brentford,Bournemouth,Away,2,1,10,4,Win,3,1
+2024-2025,2025-03-15,Brighton,Man City,Away,2,2,15,3,Draw,1,0
+2024-2025,2025-03-15,Everton,West Ham,Home,1,1,13,5,Draw,1,0
+2024-2025,2025-03-15,Ipswich,Nott'm Forest,Home,2,4,11,4,Loss,0,-2
+2024-2025,2025-03-15,Man City,Brighton,Home,2,2,11,3,Draw,1,0
+2024-2025,2025-03-15,Nott'm Forest,Ipswich,Away,4,2,11,6,Win,3,2
+2024-2025,2025-03-15,Southampton,Wolves,Home,1,2,10,3,Loss,0,-1
+2024-2025,2025-03-15,West Ham,Everton,Away,1,1,10,5,Draw,1,0
+2024-2025,2025-03-15,Wolves,Southampton,Away,2,1,5,3,Win,3,1
+2024-2025,2025-03-16,Arsenal,Chelsea,Home,1,0,12,4,Win,3,1
+2024-2025,2025-03-16,Chelsea,Arsenal,Away,0,1,8,2,Loss,0,-1
+2024-2025,2025-03-16,Fulham,Tottenham,Home,2,0,13,4,Win,3,2
+2024-2025,2025-03-16,Leicester,Man United,Home,0,3,11,3,Loss,0,-3
+2024-2025,2025-03-16,Man United,Leicester,Away,3,0,18,5,Win,3,3
+2024-2025,2025-03-16,Tottenham,Fulham,Away,0,2,12,4,Loss,0,-2
+2024-2025,2025-04-01,Arsenal,Fulham,Home,2,1,17,4,Win,3,1
+2024-2025,2025-04-01,Fulham,Arsenal,Away,1,2,9,3,Loss,0,-1
+2024-2025,2025-04-01,Man United,Nott'm Forest,Away,0,1,23,6,Loss,0,-1
+2024-2025,2025-04-01,Nott'm Forest,Man United,Home,1,0,8,2,Win,3,1
+2024-2025,2025-04-01,West Ham,Wolves,Away,0,1,10,1,Loss,0,-1
+2024-2025,2025-04-01,Wolves,West Ham,Home,1,0,9,2,Win,3,1
+2024-2025,2025-04-02,Aston Villa,Brighton,Away,3,0,8,5,Win,3,3
+2024-2025,2025-04-02,Bournemouth,Ipswich,Home,1,2,24,7,Loss,0,-1
+2024-2025,2025-04-02,Brentford,Newcastle,Away,1,2,12,3,Loss,0,-1
+2024-2025,2025-04-02,Brighton,Aston Villa,Home,0,3,11,4,Loss,0,-3
+2024-2025,2025-04-02,Crystal Palace,Southampton,Away,1,1,9,3,Draw,1,0
+2024-2025,2025-04-02,Everton,Liverpool,Away,0,1,5,0,Loss,0,-1
+2024-2025,2025-04-02,Ipswich,Bournemouth,Away,2,1,10,2,Win,3,1
+2024-2025,2025-04-02,Leicester,Man City,Away,0,2,2,0,Loss,0,-2
+2024-2025,2025-04-02,Liverpool,Everton,Home,1,0,17,3,Win,3,1
+2024-2025,2025-04-02,Man City,Leicester,Home,2,0,18,5,Win,3,2
+2024-2025,2025-04-02,Newcastle,Brentford,Home,2,1,21,4,Win,3,1
+2024-2025,2025-04-02,Southampton,Crystal Palace,Home,1,1,8,2,Draw,1,0
+2024-2025,2025-04-03,Chelsea,Tottenham,Home,1,0,11,5,Win,3,1
+2024-2025,2025-04-03,Tottenham,Chelsea,Away,0,1,8,2,Loss,0,-1
+2024-2025,2025-04-05,Arsenal,Everton,Away,1,1,14,5,Draw,1,0
+2024-2025,2025-04-05,Aston Villa,Nott'm Forest,Home,2,1,17,8,Win,3,1
+2024-2025,2025-04-05,Bournemouth,West Ham,Away,2,2,11,4,Draw,1,0
+2024-2025,2025-04-05,Brighton,Crystal Palace,Away,1,2,11,5,Loss,0,-1
+2024-2025,2025-04-05,Crystal Palace,Brighton,Home,2,1,8,3,Win,3,1
+2024-2025,2025-04-05,Everton,Arsenal,Home,1,1,5,2,Draw,1,0
+2024-2025,2025-04-05,Ipswich,Wolves,Home,1,2,6,2,Loss,0,-1
+2024-2025,2025-04-05,Nott'm Forest,Aston Villa,Away,1,2,19,3,Loss,0,-1
+2024-2025,2025-04-05,West Ham,Bournemouth,Home,2,2,9,3,Draw,1,0
+2024-2025,2025-04-05,Wolves,Ipswich,Away,2,1,22,7,Win,3,1
+2024-2025,2025-04-06,Brentford,Chelsea,Home,0,0,9,2,Draw,1,0
+2024-2025,2025-04-06,Chelsea,Brentford,Away,0,0,21,5,Draw,1,0
+2024-2025,2025-04-06,Fulham,Liverpool,Home,3,2,12,6,Win,3,1
+2024-2025,2025-04-06,Liverpool,Fulham,Away,2,3,14,6,Loss,0,-1
+2024-2025,2025-04-06,Man City,Man United,Away,0,0,9,5,Draw,1,0
+2024-2025,2025-04-06,Man United,Man City,Home,0,0,13,2,Draw,1,0
+2024-2025,2025-04-06,Southampton,Tottenham,Away,1,3,12,4,Loss,0,-2
+2024-2025,2025-04-06,Tottenham,Southampton,Home,3,1,13,8,Win,3,2
+2024-2025,2025-04-07,Leicester,Newcastle,Home,0,3,7,2,Loss,0,-3
+2024-2025,2025-04-07,Newcastle,Leicester,Away,3,0,16,5,Win,3,3
+2024-2025,2025-04-12,Arsenal,Brentford,Home,1,1,14,3,Draw,1,0
+2024-2025,2025-04-12,Aston Villa,Southampton,Away,3,0,25,10,Win,3,3
+2024-2025,2025-04-12,Brentford,Arsenal,Away,1,1,3,2,Draw,1,0
+2024-2025,2025-04-12,Brighton,Leicester,Home,2,2,21,7,Draw,1,0
+2024-2025,2025-04-12,Crystal Palace,Man City,Away,2,5,8,3,Loss,0,-3
+2024-2025,2025-04-12,Everton,Nott'm Forest,Away,1,0,13,5,Win,3,1
+2024-2025,2025-04-12,Leicester,Brighton,Away,2,2,15,6,Draw,1,0
+2024-2025,2025-04-12,Man City,Crystal Palace,Home,5,2,21,9,Win,3,3
+2024-2025,2025-04-12,Nott'm Forest,Everton,Home,0,1,10,5,Loss,0,-1
+2024-2025,2025-04-12,Southampton,Aston Villa,Home,0,3,7,2,Loss,0,-3
+2024-2025,2025-04-13,Chelsea,Ipswich,Home,2,2,34,9,Draw,1,0
+2024-2025,2025-04-13,Ipswich,Chelsea,Away,2,2,13,4,Draw,1,0
+2024-2025,2025-04-13,Liverpool,West Ham,Home,2,1,15,6,Win,3,1
+2024-2025,2025-04-13,Man United,Newcastle,Away,1,4,9,5,Loss,0,-3
+2024-2025,2025-04-13,Newcastle,Man United,Home,4,1,13,6,Win,3,3
+2024-2025,2025-04-13,Tottenham,Wolves,Away,2,4,11,4,Loss,0,-2
+2024-2025,2025-04-13,West Ham,Liverpool,Away,1,2,11,4,Loss,0,-1
+2024-2025,2025-04-13,Wolves,Tottenham,Home,4,2,13,5,Win,3,2
+2024-2025,2025-04-14,Bournemouth,Fulham,Home,1,0,12,3,Win,3,1
+2024-2025,2025-04-14,Fulham,Bournemouth,Away,0,1,12,7,Loss,0,-1
+2024-2025,2025-04-16,Crystal Palace,Newcastle,Away,0,5,11,4,Loss,0,-5
+2024-2025,2025-04-16,Newcastle,Crystal Palace,Home,5,0,14,7,Win,3,5
+2024-2025,2025-04-19,Aston Villa,Newcastle,Home,4,1,23,9,Win,3,3
+2024-2025,2025-04-19,Bournemouth,Crystal Palace,Away,0,0,15,4,Draw,1,0
+2024-2025,2025-04-19,Brentford,Brighton,Home,4,2,16,8,Win,3,2
+2024-2025,2025-04-19,Brighton,Brentford,Away,2,4,12,3,Loss,0,-2
+2024-2025,2025-04-19,Crystal Palace,Bournemouth,Home,0,0,5,0,Draw,1,0
+2024-2025,2025-04-19,Everton,Man City,Home,0,2,8,3,Loss,0,-2
+2024-2025,2025-04-19,Man City,Everton,Away,2,0,12,7,Win,3,2
+2024-2025,2025-04-19,Newcastle,Aston Villa,Away,1,4,10,3,Loss,0,-3
+2024-2025,2025-04-19,Southampton,West Ham,Away,1,1,15,4,Draw,1,0
+2024-2025,2025-04-19,West Ham,Southampton,Home,1,1,12,4,Draw,1,0
+2024-2025,2025-04-20,Arsenal,Ipswich,Away,4,0,24,7,Win,3,4
+2024-2025,2025-04-20,Chelsea,Fulham,Away,2,1,13,8,Win,3,1
+2024-2025,2025-04-20,Fulham,Chelsea,Home,1,2,6,1,Loss,0,-1
+2024-2025,2025-04-20,Ipswich,Arsenal,Home,0,4,4,0,Loss,0,-4
+2024-2025,2025-04-20,Leicester,Liverpool,Home,0,1,5,0,Loss,0,-1
+2024-2025,2025-04-20,Liverpool,Leicester,Away,1,0,28,10,Win,3,1
+2024-2025,2025-04-20,Man United,Wolves,Home,0,1,12,2,Loss,0,-1
+2024-2025,2025-04-20,Wolves,Man United,Away,1,0,4,2,Win,3,1
+2024-2025,2025-04-21,Nott'm Forest,Tottenham,Away,2,1,4,3,Win,3,1
+2024-2025,2025-04-21,Tottenham,Nott'm Forest,Home,1,2,22,6,Loss,0,-1
+2024-2025,2025-04-22,Aston Villa,Man City,Away,1,2,7,3,Loss,0,-1
+2024-2025,2025-04-22,Man City,Aston Villa,Home,2,1,14,6,Win,3,1
+2024-2025,2025-04-23,Arsenal,Crystal Palace,Home,2,2,12,6,Draw,1,0
+2024-2025,2025-04-23,Crystal Palace,Arsenal,Away,2,2,15,4,Draw,1,0
+2024-2025,2025-04-26,Brighton,West Ham,Home,3,2,16,9,Win,3,1
+2024-2025,2025-04-26,Chelsea,Everton,Home,1,0,10,7,Win,3,1
+2024-2025,2025-04-26,Everton,Chelsea,Away,0,1,6,3,Loss,0,-1
+2024-2025,2025-04-26,Fulham,Southampton,Away,2,1,26,5,Win,3,1
+2024-2025,2025-04-26,Ipswich,Newcastle,Away,0,3,4,0,Loss,0,-3
+2024-2025,2025-04-26,Leicester,Wolves,Away,0,3,8,2,Loss,0,-3
+2024-2025,2025-04-26,Newcastle,Ipswich,Home,3,0,25,5,Win,3,3
+2024-2025,2025-04-26,Southampton,Fulham,Home,1,2,7,3,Loss,0,-1
+2024-2025,2025-04-26,West Ham,Brighton,Away,2,3,12,4,Loss,0,-1
+2024-2025,2025-04-26,Wolves,Leicester,Home,3,0,20,6,Win,3,3
+2024-2025,2025-04-27,Bournemouth,Man United,Home,1,1,8,1,Draw,1,0
+2024-2025,2025-04-27,Liverpool,Tottenham,Home,5,1,25,8,Win,3,4
+2024-2025,2025-04-27,Man United,Bournemouth,Away,1,1,25,6,Draw,1,0
+2024-2025,2025-04-27,Tottenham,Liverpool,Away,1,5,8,3,Loss,0,-4
+2024-2025,2025-05-01,Brentford,Nott'm Forest,Away,2,0,11,3,Win,3,2
+2024-2025,2025-05-01,Nott'm Forest,Brentford,Home,0,2,14,5,Loss,0,-2
+2024-2025,2025-05-02,Man City,Wolves,Home,1,0,9,2,Win,3,1
+2024-2025,2025-05-02,Wolves,Man City,Away,0,1,6,1,Loss,0,-1
+2024-2025,2025-05-03,Arsenal,Bournemouth,Home,1,2,13,4,Loss,0,-1
+2024-2025,2025-05-03,Aston Villa,Fulham,Home,1,0,10,3,Win,3,1
+2024-2025,2025-05-03,Bournemouth,Arsenal,Away,2,1,9,2,Win,3,1
+2024-2025,2025-05-03,Everton,Ipswich,Home,2,2,8,3,Draw,1,0
+2024-2025,2025-05-03,Fulham,Aston Villa,Away,0,1,11,3,Loss,0,-1
+2024-2025,2025-05-03,Ipswich,Everton,Away,2,2,12,5,Draw,1,0
+2024-2025,2025-05-03,Leicester,Southampton,Home,2,0,14,4,Win,3,2
+2024-2025,2025-05-03,Southampton,Leicester,Away,0,2,8,2,Loss,0,-2
+2024-2025,2025-05-04,Brentford,Man United,Home,4,3,12,6,Win,3,1
+2024-2025,2025-05-04,Brighton,Newcastle,Home,1,1,5,2,Draw,1,0
+2024-2025,2025-05-04,Chelsea,Liverpool,Home,3,1,17,7,Win,3,2
+2024-2025,2025-05-04,Liverpool,Chelsea,Away,1,3,11,2,Loss,0,-2
+2024-2025,2025-05-04,Man United,Brentford,Away,3,4,14,5,Loss,0,-1
+2024-2025,2025-05-04,Newcastle,Brighton,Away,1,1,13,5,Draw,1,0
+2024-2025,2025-05-04,Tottenham,West Ham,Away,1,1,7,2,Draw,1,0
+2024-2025,2025-05-04,West Ham,Tottenham,Home,1,1,11,2,Draw,1,0
+2024-2025,2025-05-05,Crystal Palace,Nott'm Forest,Home,1,1,20,3,Draw,1,0
+2024-2025,2025-05-05,Nott'm Forest,Crystal Palace,Away,1,1,12,4,Draw,1,0
+2024-2025,2025-05-10,Aston Villa,Bournemouth,Away,1,0,6,3,Win,3,1
+2024-2025,2025-05-10,Bournemouth,Aston Villa,Home,0,1,10,4,Loss,0,-1
+2024-2025,2025-05-10,Brentford,Ipswich,Away,1,0,15,5,Win,3,1
+2024-2025,2025-05-10,Brighton,Wolves,Away,2,0,7,2,Win,3,2
+2024-2025,2025-05-10,Everton,Fulham,Away,3,1,11,7,Win,3,2
+2024-2025,2025-05-10,Fulham,Everton,Home,1,3,18,6,Loss,0,-2
+2024-2025,2025-05-10,Ipswich,Brentford,Home,0,1,11,4,Loss,0,-1
+2024-2025,2025-05-10,Man City,Southampton,Away,0,0,26,5,Draw,1,0
+2024-2025,2025-05-10,Southampton,Man City,Home,0,0,2,0,Draw,1,0
+2024-2025,2025-05-10,Wolves,Brighton,Home,0,2,10,3,Loss,0,-2
+2024-2025,2025-05-11,Arsenal,Liverpool,Away,2,2,15,7,Draw,1,0
+2024-2025,2025-05-11,Chelsea,Newcastle,Away,0,2,10,3,Loss,0,-2
+2024-2025,2025-05-11,Crystal Palace,Tottenham,Away,2,0,23,10,Win,3,2
+2024-2025,2025-05-11,Leicester,Nott'm Forest,Away,2,2,10,6,Draw,1,0
+2024-2025,2025-05-11,Liverpool,Arsenal,Home,2,2,14,5,Draw,1,0
+2024-2025,2025-05-11,Man United,West Ham,Home,0,2,20,5,Loss,0,-2
+2024-2025,2025-05-11,Newcastle,Chelsea,Home,2,0,15,6,Win,3,2
+2024-2025,2025-05-11,Nott'm Forest,Leicester,Home,2,2,15,4,Draw,1,0
+2024-2025,2025-05-11,Tottenham,Crystal Palace,Home,0,2,8,1,Loss,0,-2
+2024-2025,2025-05-11,West Ham,Man United,Away,2,0,9,4,Win,3,2
+2024-2025,2025-05-16,Aston Villa,Tottenham,Home,2,0,18,7,Win,3,2
+2024-2025,2025-05-16,Chelsea,Man United,Home,1,0,11,3,Win,3,1
+2024-2025,2025-05-16,Man United,Chelsea,Away,0,1,4,1,Loss,0,-1
+2024-2025,2025-05-16,Tottenham,Aston Villa,Away,0,2,3,1,Loss,0,-2
+2024-2025,2025-05-18,Arsenal,Newcastle,Home,1,0,12,4,Win,3,1
+2024-2025,2025-05-18,Brentford,Fulham,Home,2,3,11,6,Loss,0,-1
+2024-2025,2025-05-18,Everton,Southampton,Home,2,0,13,5,Win,3,2
+2024-2025,2025-05-18,Fulham,Brentford,Away,3,2,16,7,Win,3,1
+2024-2025,2025-05-18,Ipswich,Leicester,Away,0,2,20,2,Loss,0,-2
+2024-2025,2025-05-18,Leicester,Ipswich,Home,2,0,9,3,Win,3,2
+2024-2025,2025-05-18,Newcastle,Arsenal,Away,0,1,14,5,Loss,0,-1
+2024-2025,2025-05-18,Nott'm Forest,West Ham,Away,2,1,10,5,Win,3,1
+2024-2025,2025-05-18,Southampton,Everton,Away,0,2,6,2,Loss,0,-2
+2024-2025,2025-05-18,West Ham,Nott'm Forest,Home,1,2,16,5,Loss,0,-1
+2024-2025,2025-05-19,Brighton,Liverpool,Home,3,2,25,12,Win,3,1
+2024-2025,2025-05-19,Liverpool,Brighton,Away,2,3,18,5,Loss,0,-1
+2024-2025,2025-05-20,Bournemouth,Man City,Away,1,3,8,2,Loss,0,-2
+2024-2025,2025-05-20,Crystal Palace,Wolves,Home,4,2,14,10,Win,3,2
+2024-2025,2025-05-20,Man City,Bournemouth,Home,3,1,12,5,Win,3,2
+2024-2025,2025-05-20,Wolves,Crystal Palace,Away,2,4,12,3,Loss,0,-2
+2024-2025,2025-05-25,Arsenal,Southampton,Away,2,1,23,8,Win,3,1
+2024-2025,2025-05-25,Aston Villa,Man United,Away,0,2,6,1,Loss,0,-2
+2024-2025,2025-05-25,Bournemouth,Leicester,Home,2,0,20,7,Win,3,2
+2024-2025,2025-05-25,Brentford,Wolves,Away,1,1,13,7,Draw,1,0
+2024-2025,2025-05-25,Brighton,Tottenham,Away,4,1,23,8,Win,3,3
+2024-2025,2025-05-25,Chelsea,Nott'm Forest,Away,1,0,6,2,Win,3,1
+2024-2025,2025-05-25,Crystal Palace,Liverpool,Away,1,1,8,5,Draw,1,0
+2024-2025,2025-05-25,Everton,Newcastle,Away,1,0,14,6,Win,3,1
+2024-2025,2025-05-25,Fulham,Man City,Home,0,2,13,3,Loss,0,-2
+2024-2025,2025-05-25,Ipswich,West Ham,Home,1,3,14,4,Loss,0,-2
+2024-2025,2025-05-25,Leicester,Bournemouth,Away,0,2,3,0,Loss,0,-2
+2024-2025,2025-05-25,Liverpool,Crystal Palace,Home,1,1,14,3,Draw,1,0
+2024-2025,2025-05-25,Man City,Fulham,Away,2,0,20,5,Win,3,2
+2024-2025,2025-05-25,Man United,Aston Villa,Home,2,0,25,10,Win,3,2
+2024-2025,2025-05-25,Newcastle,Everton,Home,0,1,17,6,Loss,0,-1
+2024-2025,2025-05-25,Nott'm Forest,Chelsea,Home,0,1,10,2,Loss,0,-1
+2024-2025,2025-05-25,Southampton,Arsenal,Home,1,2,7,2,Loss,0,-1
+2024-2025,2025-05-25,Tottenham,Brighton,Home,1,4,4,2,Loss,0,-3
+2024-2025,2025-05-25,West Ham,Ipswich,Away,3,1,10,6,Win,3,2
+2024-2025,2025-05-25,Wolves,Brentford,Home,1,1,18,6,Draw,1,0
+2025-2026,2025-08-15,Bournemouth,Liverpool,Away,2,4,10,3,Loss,0,-2
+2025-2026,2025-08-15,Liverpool,Bournemouth,Home,4,2,19,10,Win,3,2
+2025-2026,2025-08-16,Aston Villa,Newcastle,Home,0,0,3,3,Draw,1,0
+2025-2026,2025-08-16,Brighton,Fulham,Home,1,1,10,4,Draw,1,0
+2025-2026,2025-08-16,Burnley,Tottenham,Away,0,3,14,4,Loss,0,-3
+2025-2026,2025-08-16,Fulham,Brighton,Away,1,1,7,2,Draw,1,0
+2025-2026,2025-08-16,Man City,Wolves,Away,4,0,15,4,Win,3,4
+2025-2026,2025-08-16,Newcastle,Aston Villa,Away,0,0,16,3,Draw,1,0
+2025-2026,2025-08-16,Sunderland,West Ham,Home,3,0,10,5,Win,3,3
+2025-2026,2025-08-16,Tottenham,Burnley,Home,3,0,16,6,Win,3,3
+2025-2026,2025-08-16,West Ham,Sunderland,Away,0,3,12,4,Loss,0,-3
+2025-2026,2025-08-16,Wolves,Man City,Home,0,4,9,3,Loss,0,-4
+2025-2026,2025-08-17,Arsenal,Man United,Away,1,0,9,3,Win,3,1
+2025-2026,2025-08-17,Brentford,Nott'm Forest,Away,1,3,10,3,Loss,0,-2
+2025-2026,2025-08-17,Chelsea,Crystal Palace,Home,0,0,19,3,Draw,1,0
+2025-2026,2025-08-17,Crystal Palace,Chelsea,Away,0,0,12,4,Draw,1,0
+2025-2026,2025-08-17,Man United,Arsenal,Home,0,1,22,7,Loss,0,-1
+2025-2026,2025-08-17,Nott'm Forest,Brentford,Home,3,1,11,5,Win,3,2
+2025-2026,2025-08-18,Everton,Leeds,Away,0,1,7,1,Loss,0,-1
+2025-2026,2025-08-18,Leeds,Everton,Home,1,0,21,3,Win,3,1
+2025-2026,2025-08-22,Chelsea,West Ham,Away,5,1,12,7,Win,3,4
+2025-2026,2025-08-22,West Ham,Chelsea,Home,1,5,12,4,Loss,0,-4
+2025-2026,2025-08-23,Arsenal,Leeds,Home,5,0,18,5,Win,3,5
+2025-2026,2025-08-23,Aston Villa,Brentford,Away,0,1,17,2,Loss,0,-1
+2025-2026,2025-08-23,Bournemouth,Wolves,Home,1,0,14,4,Win,3,1
+2025-2026,2025-08-23,Brentford,Aston Villa,Home,1,0,9,2,Win,3,1
+2025-2026,2025-08-23,Burnley,Sunderland,Home,2,0,7,2,Win,3,2
+2025-2026,2025-08-23,Leeds,Arsenal,Away,0,5,3,1,Loss,0,-5
+2025-2026,2025-08-23,Man City,Tottenham,Home,0,2,10,4,Loss,0,-2
+2025-2026,2025-08-23,Sunderland,Burnley,Away,0,2,9,1,Loss,0,-2
+2025-2026,2025-08-23,Tottenham,Man City,Away,2,0,12,5,Win,3,2
+2025-2026,2025-08-23,Wolves,Bournemouth,Away,0,1,6,1,Loss,0,-1
+2025-2026,2025-08-24,Brighton,Everton,Away,0,2,13,4,Loss,0,-2
+2025-2026,2025-08-24,Crystal Palace,Nott'm Forest,Home,1,1,8,4,Draw,1,0
+2025-2026,2025-08-24,Everton,Brighton,Home,2,0,11,3,Win,3,2
+2025-2026,2025-08-24,Fulham,Man United,Home,1,1,13,4,Draw,1,0
+2025-2026,2025-08-24,Man United,Fulham,Away,1,1,10,3,Draw,1,0
+2025-2026,2025-08-24,Nott'm Forest,Crystal Palace,Away,1,1,9,1,Draw,1,0
+2025-2026,2025-08-25,Liverpool,Newcastle,Away,3,2,5,4,Win,3,1
+2025-2026,2025-08-25,Newcastle,Liverpool,Home,2,3,10,3,Loss,0,-1
+2025-2026,2025-08-30,Bournemouth,Tottenham,Away,1,0,20,6,Win,3,1
+2025-2026,2025-08-30,Brentford,Sunderland,Away,1,2,7,4,Loss,0,-1
+2025-2026,2025-08-30,Burnley,Man United,Away,2,3,6,3,Loss,0,-1
+2025-2026,2025-08-30,Chelsea,Fulham,Home,2,0,13,6,Win,3,2
+2025-2026,2025-08-30,Everton,Wolves,Away,3,2,10,4,Win,3,1
+2025-2026,2025-08-30,Fulham,Chelsea,Away,0,2,11,3,Loss,0,-2
+2025-2026,2025-08-30,Leeds,Newcastle,Home,0,0,10,1,Draw,1,0
+2025-2026,2025-08-30,Man United,Burnley,Home,3,2,26,6,Win,3,1
+2025-2026,2025-08-30,Newcastle,Leeds,Away,0,0,8,2,Draw,1,0
+2025-2026,2025-08-30,Sunderland,Brentford,Home,2,1,12,3,Win,3,1
+2025-2026,2025-08-30,Tottenham,Bournemouth,Home,0,1,5,1,Loss,0,-1
+2025-2026,2025-08-30,Wolves,Everton,Home,2,3,12,4,Loss,0,-1
+2025-2026,2025-08-31,Arsenal,Liverpool,Away,0,1,11,1,Loss,0,-1
+2025-2026,2025-08-31,Aston Villa,Crystal Palace,Home,0,3,13,4,Loss,0,-3
+2025-2026,2025-08-31,Brighton,Man City,Home,2,1,12,7,Win,3,1
+2025-2026,2025-08-31,Crystal Palace,Aston Villa,Away,3,0,6,4,Win,3,3
+2025-2026,2025-08-31,Liverpool,Arsenal,Home,1,0,9,3,Win,3,1
+2025-2026,2025-08-31,Man City,Brighton,Away,1,2,12,3,Loss,0,-1
+2025-2026,2025-08-31,Nott'm Forest,West Ham,Home,0,3,11,3,Loss,0,-3
+2025-2026,2025-08-31,West Ham,Nott'm Forest,Away,3,0,12,8,Win,3,3
+2025-2026,2025-09-13,Arsenal,Nott'm Forest,Home,3,0,16,5,Win,3,3
+2025-2026,2025-09-13,Aston Villa,Everton,Away,0,0,7,1,Draw,1,0
+2025-2026,2025-09-13,Bournemouth,Brighton,Home,2,1,13,5,Win,3,1
+2025-2026,2025-09-13,Brentford,Chelsea,Home,2,2,7,4,Draw,1,0
+2025-2026,2025-09-13,Brighton,Bournemouth,Away,1,2,6,2,Loss,0,-1
+2025-2026,2025-09-13,Chelsea,Brentford,Away,2,2,16,6,Draw,1,0
+2025-2026,2025-09-13,Crystal Palace,Sunderland,Home,0,0,14,6,Draw,1,0
+2025-2026,2025-09-13,Everton,Aston Villa,Home,0,0,20,2,Draw,1,0
+2025-2026,2025-09-13,Fulham,Leeds,Home,1,0,5,3,Win,3,1
+2025-2026,2025-09-13,Leeds,Fulham,Away,0,1,10,3,Loss,0,-1
+2025-2026,2025-09-13,Newcastle,Wolves,Home,1,0,16,4,Win,3,1
+2025-2026,2025-09-13,Nott'm Forest,Arsenal,Away,0,3,5,1,Loss,0,-3
+2025-2026,2025-09-13,Sunderland,Crystal Palace,Away,0,0,6,0,Draw,1,0
+2025-2026,2025-09-13,Tottenham,West Ham,Away,3,0,14,5,Win,3,3
+2025-2026,2025-09-13,West Ham,Tottenham,Home,0,3,7,4,Loss,0,-3
+2025-2026,2025-09-13,Wolves,Newcastle,Away,0,1,8,3,Loss,0,-1
+2025-2026,2025-09-14,Burnley,Liverpool,Home,0,1,3,0,Loss,0,-1
+2025-2026,2025-09-14,Liverpool,Burnley,Away,1,0,27,4,Win,3,1
+2025-2026,2025-09-14,Man City,Man United,Home,3,0,13,6,Win,3,3
+2025-2026,2025-09-14,Man United,Man City,Away,0,3,12,2,Loss,0,-3
+2025-2026,2025-09-20,Brentford,Fulham,Away,1,3,8,3,Loss,0,-2
+2025-2026,2025-09-20,Brighton,Tottenham,Home,2,2,12,4,Draw,1,0
+2025-2026,2025-09-20,Burnley,Nott'm Forest,Home,1,1,12,5,Draw,1,0
+2025-2026,2025-09-20,Chelsea,Man United,Away,1,2,5,1,Loss,0,-1
+2025-2026,2025-09-20,Crystal Palace,West Ham,Away,2,1,18,3,Win,3,1
+2025-2026,2025-09-20,Everton,Liverpool,Away,1,2,9,2,Loss,0,-1
+2025-2026,2025-09-20,Fulham,Brentford,Home,3,1,14,3,Win,3,2
+2025-2026,2025-09-20,Leeds,Wolves,Away,3,1,6,4,Win,3,2
+2025-2026,2025-09-20,Liverpool,Everton,Home,2,1,11,3,Win,3,1
+2025-2026,2025-09-20,Man United,Chelsea,Home,2,1,11,4,Win,3,1
+2025-2026,2025-09-20,Nott'm Forest,Burnley,Away,1,1,17,8,Draw,1,0
+2025-2026,2025-09-20,Tottenham,Brighton,Away,2,2,11,3,Draw,1,0
+2025-2026,2025-09-20,West Ham,Crystal Palace,Home,1,2,8,3,Loss,0,-1
+2025-2026,2025-09-20,Wolves,Leeds,Home,1,3,16,6,Loss,0,-2
+2025-2026,2025-09-21,Arsenal,Man City,Home,1,1,12,3,Draw,1,0
+2025-2026,2025-09-21,Aston Villa,Sunderland,Away,1,1,12,2,Draw,1,0
+2025-2026,2025-09-21,Bournemouth,Newcastle,Home,0,0,11,2,Draw,1,0
+2025-2026,2025-09-21,Man City,Arsenal,Away,1,1,5,3,Draw,1,0
+2025-2026,2025-09-21,Newcastle,Bournemouth,Away,0,0,4,1,Draw,1,0
+2025-2026,2025-09-21,Sunderland,Aston Villa,Home,1,1,14,4,Draw,1,0
+2025-2026,2025-09-27,Bournemouth,Leeds,Away,2,2,12,5,Draw,1,0
+2025-2026,2025-09-27,Brentford,Man United,Home,3,1,10,8,Win,3,2
+2025-2026,2025-09-27,Brighton,Chelsea,Away,3,1,12,3,Win,3,2
+2025-2026,2025-09-27,Burnley,Man City,Away,1,5,9,2,Loss,0,-4
+2025-2026,2025-09-27,Chelsea,Brighton,Home,1,3,13,3,Loss,0,-2
+2025-2026,2025-09-27,Crystal Palace,Liverpool,Home,2,1,16,7,Win,3,1
+2025-2026,2025-09-27,Leeds,Bournemouth,Home,2,2,19,8,Draw,1,0
+2025-2026,2025-09-27,Liverpool,Crystal Palace,Away,1,2,20,4,Loss,0,-1
+2025-2026,2025-09-27,Man City,Burnley,Home,5,1,21,8,Win,3,4
+2025-2026,2025-09-27,Man United,Brentford,Away,1,3,14,6,Loss,0,-2
+2025-2026,2025-09-27,Nott'm Forest,Sunderland,Home,0,1,22,6,Loss,0,-1
+2025-2026,2025-09-27,Sunderland,Nott'm Forest,Away,1,0,11,3,Win,3,1
+2025-2026,2025-09-27,Tottenham,Wolves,Home,1,1,10,3,Draw,1,0
+2025-2026,2025-09-27,Wolves,Tottenham,Away,1,1,9,3,Draw,1,0
+2025-2026,2025-09-28,Arsenal,Newcastle,Away,2,1,20,7,Win,3,1
+2025-2026,2025-09-28,Aston Villa,Fulham,Home,3,1,9,4,Win,3,2
+2025-2026,2025-09-28,Fulham,Aston Villa,Away,1,3,11,4,Loss,0,-2
+2025-2026,2025-09-28,Newcastle,Arsenal,Home,1,2,8,3,Loss,0,-1
+2025-2026,2025-09-29,Everton,West Ham,Home,1,1,12,6,Draw,1,0
+2025-2026,2025-09-29,West Ham,Everton,Away,1,1,14,3,Draw,1,0
+2025-2026,2025-10-03,Bournemouth,Fulham,Home,3,1,11,6,Win,3,2
+2025-2026,2025-10-03,Fulham,Bournemouth,Away,1,3,12,4,Loss,0,-2
+2025-2026,2025-10-04,Arsenal,West Ham,Home,2,0,21,5,Win,3,2
+2025-2026,2025-10-04,Chelsea,Liverpool,Home,2,1,12,6,Win,3,1
+2025-2026,2025-10-04,Leeds,Tottenham,Home,1,2,16,4,Loss,0,-1
+2025-2026,2025-10-04,Liverpool,Chelsea,Away,1,2,12,2,Loss,0,-1
+2025-2026,2025-10-04,Man United,Sunderland,Home,2,0,15,6,Win,3,2
+2025-2026,2025-10-04,Sunderland,Man United,Away,0,2,8,3,Loss,0,-2
+2025-2026,2025-10-04,Tottenham,Leeds,Away,2,1,9,3,Win,3,1
+2025-2026,2025-10-04,West Ham,Arsenal,Away,0,2,4,0,Loss,0,-2
+2025-2026,2025-10-05,Aston Villa,Burnley,Home,2,1,15,7,Win,3,1
+2025-2026,2025-10-05,Brentford,Man City,Home,0,1,6,1,Loss,0,-1
+2025-2026,2025-10-05,Brighton,Wolves,Away,1,1,17,6,Draw,1,0
+2025-2026,2025-10-05,Burnley,Aston Villa,Away,1,2,5,2,Loss,0,-1
+2025-2026,2025-10-05,Crystal Palace,Everton,Away,1,2,15,8,Loss,0,-1
+2025-2026,2025-10-05,Everton,Crystal Palace,Home,2,1,14,7,Win,3,1
+2025-2026,2025-10-05,Man City,Brentford,Away,1,0,10,4,Win,3,1
+2025-2026,2025-10-05,Newcastle,Nott'm Forest,Home,2,0,18,9,Win,3,2
+2025-2026,2025-10-05,Nott'm Forest,Newcastle,Away,0,2,5,4,Loss,0,-2
+2025-2026,2025-10-05,Wolves,Brighton,Home,1,1,6,3,Draw,1,0
+2025-2026,2025-10-18,Arsenal,Fulham,Away,1,0,16,5,Win,3,1
+2025-2026,2025-10-18,Bournemouth,Crystal Palace,Away,3,3,8,5,Draw,1,0
+2025-2026,2025-10-18,Brighton,Newcastle,Home,2,1,13,5,Win,3,1
+2025-2026,2025-10-18,Burnley,Leeds,Home,2,0,4,3,Win,3,2
+2025-2026,2025-10-18,Chelsea,Nott'm Forest,Away,3,0,17,6,Win,3,3
+2025-2026,2025-10-18,Crystal Palace,Bournemouth,Home,3,3,20,7,Draw,1,0
+2025-2026,2025-10-18,Everton,Man City,Away,0,2,5,1,Loss,0,-2
+2025-2026,2025-10-18,Fulham,Arsenal,Home,0,1,9,0,Loss,0,-1
+2025-2026,2025-10-18,Leeds,Burnley,Away,0,2,19,4,Loss,0,-2
+2025-2026,2025-10-18,Man City,Everton,Home,2,0,19,7,Win,3,2
+2025-2026,2025-10-18,Newcastle,Brighton,Away,1,2,16,3,Loss,0,-1
+2025-2026,2025-10-18,Nott'm Forest,Chelsea,Home,0,3,12,2,Loss,0,-3
+2025-2026,2025-10-18,Sunderland,Wolves,Home,2,0,8,2,Win,3,2
+2025-2026,2025-10-18,Wolves,Sunderland,Away,0,2,16,3,Loss,0,-2
+2025-2026,2025-10-19,Aston Villa,Tottenham,Away,2,1,8,2,Win,3,1
+2025-2026,2025-10-19,Liverpool,Man United,Home,1,2,19,6,Loss,0,-1
+2025-2026,2025-10-19,Man United,Liverpool,Away,2,1,12,4,Win,3,1
+2025-2026,2025-10-19,Tottenham,Aston Villa,Home,1,2,9,3,Loss,0,-1
+2025-2026,2025-10-20,Brentford,West Ham,Away,2,0,22,7,Win,3,2
+2025-2026,2025-10-20,West Ham,Brentford,Home,0,2,7,1,Loss,0,-2
+2025-2026,2025-10-24,Leeds,West Ham,Home,2,1,13,5,Win,3,1
+2025-2026,2025-10-24,West Ham,Leeds,Away,1,2,9,3,Loss,0,-1
+2025-2026,2025-10-25,Brentford,Liverpool,Home,3,2,17,8,Win,3,1
+2025-2026,2025-10-25,Brighton,Man United,Away,2,4,17,5,Loss,0,-2
+2025-2026,2025-10-25,Chelsea,Sunderland,Home,1,2,16,7,Loss,0,-1
+2025-2026,2025-10-25,Fulham,Newcastle,Away,1,2,12,5,Loss,0,-1
+2025-2026,2025-10-25,Liverpool,Brentford,Away,2,3,18,5,Loss,0,-1
+2025-2026,2025-10-25,Man United,Brighton,Home,4,2,13,9,Win,3,2
+2025-2026,2025-10-25,Newcastle,Fulham,Home,2,1,18,7,Win,3,1
+2025-2026,2025-10-25,Sunderland,Chelsea,Away,2,1,10,4,Win,3,1
+2025-2026,2025-10-26,Arsenal,Crystal Palace,Home,1,0,10,3,Win,3,1
+2025-2026,2025-10-26,Aston Villa,Man City,Home,1,0,9,3,Win,3,1
+2025-2026,2025-10-26,Bournemouth,Nott'm Forest,Home,2,0,13,5,Win,3,2
+2025-2026,2025-10-26,Burnley,Wolves,Away,3,2,11,7,Win,3,1
+2025-2026,2025-10-26,Crystal Palace,Arsenal,Away,0,1,7,1,Loss,0,-1
+2025-2026,2025-10-26,Everton,Tottenham,Home,0,3,12,2,Loss,0,-3
+2025-2026,2025-10-26,Man City,Aston Villa,Away,0,1,18,4,Loss,0,-1
+2025-2026,2025-10-26,Nott'm Forest,Bournemouth,Away,0,2,8,4,Loss,0,-2
+2025-2026,2025-10-26,Tottenham,Everton,Away,3,0,7,4,Win,3,3
+2025-2026,2025-10-26,Wolves,Burnley,Home,2,3,15,7,Loss,0,-1
+2025-2026,2025-11-01,Arsenal,Burnley,Away,2,0,12,8,Win,3,2
+2025-2026,2025-11-01,Aston Villa,Liverpool,Away,0,2,10,3,Loss,0,-2
+2025-2026,2025-11-01,Brentford,Crystal Palace,Away,0,2,6,2,Loss,0,-2
+2025-2026,2025-11-01,Brighton,Leeds,Home,3,0,14,7,Win,3,3
+2025-2026,2025-11-01,Burnley,Arsenal,Home,0,2,3,0,Loss,0,-2
+2025-2026,2025-11-01,Chelsea,Tottenham,Away,1,0,15,9,Win,3,1
+2025-2026,2025-11-01,Crystal Palace,Brentford,Home,2,0,9,2,Win,3,2
+2025-2026,2025-11-01,Fulham,Wolves,Home,3,0,19,6,Win,3,3
+2025-2026,2025-11-01,Leeds,Brighton,Away,0,3,5,2,Loss,0,-3
+2025-2026,2025-11-01,Liverpool,Aston Villa,Home,2,0,16,4,Win,3,2
+2025-2026,2025-11-01,Man United,Nott'm Forest,Away,2,2,18,7,Draw,1,0
+2025-2026,2025-11-01,Nott'm Forest,Man United,Home,2,2,17,3,Draw,1,0
+2025-2026,2025-11-01,Tottenham,Chelsea,Home,0,1,3,1,Loss,0,-1
+2025-2026,2025-11-01,Wolves,Fulham,Away,0,3,5,2,Loss,0,-3
+2025-2026,2025-11-02,Bournemouth,Man City,Away,1,3,8,5,Loss,0,-2
+2025-2026,2025-11-02,Man City,Bournemouth,Home,3,1,15,8,Win,3,2
+2025-2026,2025-11-02,Newcastle,West Ham,Away,1,3,12,4,Loss,0,-2
+2025-2026,2025-11-02,West Ham,Newcastle,Home,3,1,15,9,Win,3,2
+2025-2026,2025-11-03,Everton,Sunderland,Away,1,1,8,2,Draw,1,0
+2025-2026,2025-11-03,Sunderland,Everton,Home,1,1,17,3,Draw,1,0
+2025-2026,2025-11-08,Arsenal,Sunderland,Away,2,2,17,7,Draw,1,0
+2025-2026,2025-11-08,Burnley,West Ham,Away,2,3,16,7,Loss,0,-1
+2025-2026,2025-11-08,Chelsea,Wolves,Home,3,0,20,8,Win,3,3
+2025-2026,2025-11-08,Everton,Fulham,Home,2,0,14,5,Win,3,2
+2025-2026,2025-11-08,Fulham,Everton,Away,0,2,8,4,Loss,0,-2
+2025-2026,2025-11-08,Man United,Tottenham,Away,2,2,5,2,Draw,1,0
+2025-2026,2025-11-08,Sunderland,Arsenal,Home,2,2,6,2,Draw,1,0
+2025-2026,2025-11-08,Tottenham,Man United,Home,2,2,10,4,Draw,1,0
+2025-2026,2025-11-08,West Ham,Burnley,Home,3,2,15,6,Win,3,1
+2025-2026,2025-11-08,Wolves,Chelsea,Away,0,3,3,0,Loss,0,-3
+2025-2026,2025-11-09,Aston Villa,Bournemouth,Home,4,0,16,8,Win,3,4
+2025-2026,2025-11-09,Bournemouth,Aston Villa,Away,0,4,13,4,Loss,0,-4
+2025-2026,2025-11-09,Brentford,Newcastle,Home,3,1,15,7,Win,3,2
+2025-2026,2025-11-09,Brighton,Crystal Palace,Away,0,0,7,3,Draw,1,0
+2025-2026,2025-11-09,Crystal Palace,Brighton,Home,0,0,10,2,Draw,1,0
+2025-2026,2025-11-09,Leeds,Nott'm Forest,Away,1,3,10,3,Loss,0,-2
+2025-2026,2025-11-09,Liverpool,Man City,Away,0,3,7,1,Loss,0,-3
+2025-2026,2025-11-09,Man City,Liverpool,Home,3,0,14,6,Win,3,3
+2025-2026,2025-11-09,Newcastle,Brentford,Away,1,3,5,1,Loss,0,-2
+2025-2026,2025-11-09,Nott'm Forest,Leeds,Home,3,1,14,6,Win,3,2
+2025-2026,2025-11-22,Bournemouth,West Ham,Home,2,2,28,10,Draw,1,0
+2025-2026,2025-11-22,Brentford,Brighton,Away,1,2,10,4,Loss,0,-1
+2025-2026,2025-11-22,Brighton,Brentford,Home,2,1,14,5,Win,3,1
+2025-2026,2025-11-22,Burnley,Chelsea,Home,0,2,8,2,Loss,0,-2
+2025-2026,2025-11-22,Chelsea,Burnley,Away,2,0,15,5,Win,3,2
+2025-2026,2025-11-22,Crystal Palace,Wolves,Away,2,0,10,4,Win,3,2
+2025-2026,2025-11-22,Fulham,Sunderland,Home,1,0,24,6,Win,3,1
+2025-2026,2025-11-22,Liverpool,Nott'm Forest,Home,0,3,21,4,Loss,0,-3
+2025-2026,2025-11-22,Man City,Newcastle,Away,1,2,17,4,Loss,0,-1
+2025-2026,2025-11-22,Newcastle,Man City,Home,2,1,9,5,Win,3,1
+2025-2026,2025-11-22,Nott'm Forest,Liverpool,Away,3,0,15,7,Win,3,3
+2025-2026,2025-11-22,Sunderland,Fulham,Away,0,1,4,2,Loss,0,-1
+2025-2026,2025-11-22,West Ham,Bournemouth,Away,2,2,5,2,Draw,1,0
+2025-2026,2025-11-22,Wolves,Crystal Palace,Home,0,2,8,1,Loss,0,-2
+2025-2026,2025-11-23,Arsenal,Tottenham,Home,4,1,17,8,Win,3,3
+2025-2026,2025-11-23,Aston Villa,Leeds,Away,2,1,14,3,Win,3,1
+2025-2026,2025-11-23,Leeds,Aston Villa,Home,1,2,14,5,Loss,0,-1
+2025-2026,2025-11-23,Tottenham,Arsenal,Away,1,4,3,2,Loss,0,-3
+2025-2026,2025-11-24,Everton,Man United,Away,1,0,3,1,Win,3,1
+2025-2026,2025-11-24,Man United,Everton,Home,0,1,25,6,Loss,0,-1
+2025-2026,2025-11-29,Bournemouth,Sunderland,Away,2,3,18,6,Loss,0,-1
+2025-2026,2025-11-29,Brentford,Burnley,Home,3,1,14,4,Win,3,2
+2025-2026,2025-11-29,Burnley,Brentford,Away,1,3,6,2,Loss,0,-2
+2025-2026,2025-11-29,Everton,Newcastle,Home,1,4,10,2,Loss,0,-3
+2025-2026,2025-11-29,Fulham,Tottenham,Away,2,1,7,3,Win,3,1
+2025-2026,2025-11-29,Leeds,Man City,Away,2,3,9,4,Loss,0,-1
+2025-2026,2025-11-29,Man City,Leeds,Home,3,2,18,9,Win,3,1
+2025-2026,2025-11-29,Newcastle,Everton,Away,4,1,13,8,Win,3,3
+2025-2026,2025-11-29,Sunderland,Bournemouth,Home,3,2,12,6,Win,3,1
+2025-2026,2025-11-29,Tottenham,Fulham,Home,1,2,14,2,Loss,0,-1
+2025-2026,2025-11-30,Arsenal,Chelsea,Away,1,1,8,4,Draw,1,0
+2025-2026,2025-11-30,Aston Villa,Wolves,Home,1,0,16,6,Win,3,1
+2025-2026,2025-11-30,Brighton,Nott'm Forest,Away,2,0,17,6,Win,3,2
+2025-2026,2025-11-30,Chelsea,Arsenal,Home,1,1,11,4,Draw,1,0
+2025-2026,2025-11-30,Crystal Palace,Man United,Home,1,2,14,3,Loss,0,-1
+2025-2026,2025-11-30,Liverpool,West Ham,Away,2,0,9,5,Win,3,2
+2025-2026,2025-11-30,Man United,Crystal Palace,Away,2,1,14,6,Win,3,1
+2025-2026,2025-11-30,Nott'm Forest,Brighton,Home,0,2,19,3,Loss,0,-2
+2025-2026,2025-11-30,West Ham,Liverpool,Home,0,2,7,0,Loss,0,-2
+2025-2026,2025-11-30,Wolves,Aston Villa,Away,0,1,9,4,Loss,0,-1
+2025-2026,2025-12-02,Bournemouth,Everton,Home,0,1,5,2,Loss,0,-1
+2025-2026,2025-12-02,Everton,Bournemouth,Away,1,0,13,3,Win,3,1
+2025-2026,2025-12-02,Fulham,Man City,Home,4,5,12,6,Loss,0,-1
+2025-2026,2025-12-02,Man City,Fulham,Away,5,4,11,4,Win,3,1
+2025-2026,2025-12-02,Newcastle,Tottenham,Home,2,2,19,7,Draw,1,0
+2025-2026,2025-12-02,Tottenham,Newcastle,Away,2,2,8,2,Draw,1,0
+2025-2026,2025-12-03,Arsenal,Brentford,Home,2,0,15,7,Win,3,2
+2025-2026,2025-12-03,Aston Villa,Brighton,Away,4,3,14,10,Win,3,1
+2025-2026,2025-12-03,Brentford,Arsenal,Away,0,2,6,1,Loss,0,-2
+2025-2026,2025-12-03,Brighton,Aston Villa,Home,3,4,16,7,Loss,0,-1
+2025-2026,2025-12-03,Burnley,Crystal Palace,Home,0,1,11,4,Loss,0,-1
+2025-2026,2025-12-03,Chelsea,Leeds,Away,1,3,14,2,Loss,0,-2
+2025-2026,2025-12-03,Crystal Palace,Burnley,Away,1,0,3,3,Win,3,1
+2025-2026,2025-12-03,Leeds,Chelsea,Home,3,1,17,5,Win,3,2
+2025-2026,2025-12-03,Liverpool,Sunderland,Home,1,1,23,4,Draw,1,0
+2025-2026,2025-12-03,Nott'm Forest,Wolves,Away,1,0,10,3,Win,3,1
+2025-2026,2025-12-03,Sunderland,Liverpool,Away,1,1,9,6,Draw,1,0
+2025-2026,2025-12-03,Wolves,Nott'm Forest,Home,0,1,5,1,Loss,0,-1
+2025-2026,2025-12-04,Man United,West Ham,Home,1,1,17,4,Draw,1,0
+2025-2026,2025-12-04,West Ham,Man United,Away,1,1,11,3,Draw,1,0
+2025-2026,2025-12-06,Arsenal,Aston Villa,Away,1,2,15,9,Loss,0,-1
+2025-2026,2025-12-06,Aston Villa,Arsenal,Home,2,1,15,6,Win,3,1
+2025-2026,2025-12-06,Bournemouth,Chelsea,Home,0,0,13,5,Draw,1,0
+2025-2026,2025-12-06,Brentford,Tottenham,Away,0,2,4,1,Loss,0,-2
+2025-2026,2025-12-06,Burnley,Newcastle,Away,1,2,9,3,Loss,0,-1
+2025-2026,2025-12-06,Chelsea,Bournemouth,Away,0,0,11,4,Draw,1,0
+2025-2026,2025-12-06,Everton,Nott'm Forest,Home,3,0,11,5,Win,3,3
+2025-2026,2025-12-06,Leeds,Liverpool,Home,3,3,12,5,Draw,1,0
+2025-2026,2025-12-06,Liverpool,Leeds,Away,3,3,16,7,Draw,1,0
+2025-2026,2025-12-06,Man City,Sunderland,Home,3,0,18,6,Win,3,3
+2025-2026,2025-12-06,Newcastle,Burnley,Home,2,1,17,7,Win,3,1
+2025-2026,2025-12-06,Nott'm Forest,Everton,Away,0,3,7,3,Loss,0,-3
+2025-2026,2025-12-06,Sunderland,Man City,Away,0,3,8,1,Loss,0,-3
+2025-2026,2025-12-06,Tottenham,Brentford,Home,2,0,15,7,Win,3,2
+2025-2026,2025-12-07,Brighton,West Ham,Home,1,1,22,4,Draw,1,0
+2025-2026,2025-12-07,Crystal Palace,Fulham,Away,2,1,11,5,Win,3,1
+2025-2026,2025-12-07,Fulham,Crystal Palace,Home,1,2,12,4,Loss,0,-1
+2025-2026,2025-12-07,West Ham,Brighton,Away,1,1,14,5,Draw,1,0
+2025-2026,2025-12-08,Man United,Wolves,Away,4,1,27,10,Win,3,3
+2025-2026,2025-12-08,Wolves,Man United,Home,1,4,8,2,Loss,0,-3
+2025-2026,2025-12-13,Arsenal,Wolves,Home,2,1,16,2,Win,3,1
+2025-2026,2025-12-13,Brighton,Liverpool,Away,0,2,14,1,Loss,0,-2
+2025-2026,2025-12-13,Burnley,Fulham,Home,2,3,16,8,Loss,0,-1
+2025-2026,2025-12-13,Chelsea,Everton,Home,2,0,17,5,Win,3,2
+2025-2026,2025-12-13,Everton,Chelsea,Away,0,2,11,2,Loss,0,-2
+2025-2026,2025-12-13,Fulham,Burnley,Away,3,2,6,4,Win,3,1
+2025-2026,2025-12-13,Liverpool,Brighton,Home,2,0,18,4,Win,3,2
+2025-2026,2025-12-13,Wolves,Arsenal,Away,1,2,3,2,Loss,0,-1
+2025-2026,2025-12-14,Aston Villa,West Ham,Away,3,2,7,4,Win,3,1
+2025-2026,2025-12-14,Brentford,Leeds,Home,1,1,7,2,Draw,1,0
+2025-2026,2025-12-14,Crystal Palace,Man City,Home,0,3,16,4,Loss,0,-3
+2025-2026,2025-12-14,Leeds,Brentford,Away,1,1,18,4,Draw,1,0
+2025-2026,2025-12-14,Man City,Crystal Palace,Away,3,0,7,6,Win,3,3
+2025-2026,2025-12-14,Newcastle,Sunderland,Away,0,1,6,2,Loss,0,-1
+2025-2026,2025-12-14,Nott'm Forest,Tottenham,Home,3,0,15,6,Win,3,3
+2025-2026,2025-12-14,Sunderland,Newcastle,Home,1,0,5,1,Win,3,1
+2025-2026,2025-12-14,Tottenham,Nott'm Forest,Away,0,3,6,1,Loss,0,-3
+2025-2026,2025-12-14,West Ham,Aston Villa,Home,2,3,10,3,Loss,0,-1
+2025-2026,2025-12-15,Bournemouth,Man United,Away,4,4,14,9,Draw,1,0
+2025-2026,2025-12-15,Man United,Bournemouth,Home,4,4,25,9,Draw,1,0
+2025-2026,2025-12-20,Arsenal,Everton,Away,1,0,13,2,Win,3,1
+2025-2026,2025-12-20,Bournemouth,Burnley,Home,1,1,16,1,Draw,1,0
+2025-2026,2025-12-20,Brentford,Wolves,Away,2,0,7,6,Win,3,2
+2025-2026,2025-12-20,Brighton,Sunderland,Home,0,0,16,4,Draw,1,0
+2025-2026,2025-12-20,Burnley,Bournemouth,Away,1,1,4,1,Draw,1,0
+2025-2026,2025-12-20,Chelsea,Newcastle,Away,2,2,13,4,Draw,1,0
+2025-2026,2025-12-20,Crystal Palace,Leeds,Away,1,4,9,3,Loss,0,-3
+2025-2026,2025-12-20,Everton,Arsenal,Home,0,1,5,1,Loss,0,-1
+2025-2026,2025-12-20,Leeds,Crystal Palace,Home,4,1,20,8,Win,3,3
+2025-2026,2025-12-20,Liverpool,Tottenham,Away,2,1,8,4,Win,3,1
+2025-2026,2025-12-20,Man City,West Ham,Home,3,0,17,8,Win,3,3
+2025-2026,2025-12-20,Newcastle,Chelsea,Home,2,2,11,5,Draw,1,0
+2025-2026,2025-12-20,Sunderland,Brighton,Away,0,0,14,6,Draw,1,0
+2025-2026,2025-12-20,Tottenham,Liverpool,Home,1,2,15,4,Loss,0,-1
+2025-2026,2025-12-20,West Ham,Man City,Away,0,3,7,3,Loss,0,-3
+2025-2026,2025-12-20,Wolves,Brentford,Home,0,2,9,2,Loss,0,-2
+2025-2026,2025-12-21,Aston Villa,Man United,Home,2,1,12,4,Win,3,1
+2025-2026,2025-12-21,Man United,Aston Villa,Away,1,2,15,6,Loss,0,-1
+2025-2026,2025-12-22,Fulham,Nott'm Forest,Home,1,0,11,1,Win,3,1
+2025-2026,2025-12-22,Nott'm Forest,Fulham,Away,0,1,12,2,Loss,0,-1
+2025-2026,2025-12-26,Man United,Newcastle,Home,1,0,10,4,Win,3,1
+2025-2026,2025-12-26,Newcastle,Man United,Away,0,1,16,3,Loss,0,-1
+2025-2026,2025-12-27,Arsenal,Brighton,Home,2,1,24,6,Win,3,1
+2025-2026,2025-12-27,Aston Villa,Chelsea,Away,2,1,11,8,Win,3,1
+2025-2026,2025-12-27,Bournemouth,Brentford,Away,1,4,20,10,Loss,0,-3
+2025-2026,2025-12-27,Brentford,Bournemouth,Home,4,1,15,7,Win,3,3
+2025-2026,2025-12-27,Brighton,Arsenal,Away,1,2,8,3,Loss,0,-1
+2025-2026,2025-12-27,Burnley,Everton,Home,0,0,16,0,Draw,1,0
+2025-2026,2025-12-27,Chelsea,Aston Villa,Home,1,2,14,3,Loss,0,-1
+2025-2026,2025-12-27,Everton,Burnley,Away,0,0,15,6,Draw,1,0
+2025-2026,2025-12-27,Fulham,West Ham,Away,1,0,15,4,Win,3,1
+2025-2026,2025-12-27,Liverpool,Wolves,Home,2,1,14,4,Win,3,1
+2025-2026,2025-12-27,Man City,Nott'm Forest,Away,2,1,16,5,Win,3,1
+2025-2026,2025-12-27,Nott'm Forest,Man City,Home,1,2,7,2,Loss,0,-1
+2025-2026,2025-12-27,West Ham,Fulham,Home,0,1,11,2,Loss,0,-1
+2025-2026,2025-12-27,Wolves,Liverpool,Away,1,2,9,4,Loss,0,-1
+2025-2026,2025-12-28,Crystal Palace,Tottenham,Home,0,1,15,2,Loss,0,-1
+2025-2026,2025-12-28,Leeds,Sunderland,Away,1,1,17,6,Draw,1,0
+2025-2026,2025-12-28,Sunderland,Leeds,Home,1,1,8,3,Draw,1,0
+2025-2026,2025-12-28,Tottenham,Crystal Palace,Away,1,0,8,4,Win,3,1
+2025-2026,2025-12-30,Arsenal,Aston Villa,Home,4,1,22,7,Win,3,3
+2025-2026,2025-12-30,Aston Villa,Arsenal,Away,1,4,11,3,Loss,0,-3
+2025-2026,2025-12-30,Bournemouth,Chelsea,Away,2,2,17,6,Draw,1,0
+2025-2026,2025-12-30,Brighton,West Ham,Away,2,2,16,6,Draw,1,0
+2025-2026,2025-12-30,Burnley,Newcastle,Home,1,3,15,4,Loss,0,-2
+2025-2026,2025-12-30,Chelsea,Bournemouth,Home,2,2,17,3,Draw,1,0
+2025-2026,2025-12-30,Everton,Nott'm Forest,Away,2,0,11,3,Win,3,2
+2025-2026,2025-12-30,Man United,Wolves,Home,1,1,15,6,Draw,1,0
+2025-2026,2025-12-30,Newcastle,Burnley,Away,3,1,20,9,Win,3,2
+2025-2026,2025-12-30,Nott'm Forest,Everton,Home,0,2,21,6,Loss,0,-2
+2025-2026,2025-12-30,West Ham,Brighton,Home,2,2,10,4,Draw,1,0
+2025-2026,2025-12-30,Wolves,Man United,Away,1,1,11,4,Draw,1,0
+2025-2026,2026-01-01,Brentford,Tottenham,Home,0,0,7,2,Draw,1,0
+2025-2026,2026-01-01,Crystal Palace,Fulham,Home,1,1,11,2,Draw,1,0
+2025-2026,2026-01-01,Fulham,Crystal Palace,Away,1,1,17,5,Draw,1,0
+2025-2026,2026-01-01,Leeds,Liverpool,Away,0,0,4,2,Draw,1,0
+2025-2026,2026-01-01,Liverpool,Leeds,Home,0,0,19,4,Draw,1,0
+2025-2026,2026-01-01,Man City,Sunderland,Away,0,0,14,4,Draw,1,0
+2025-2026,2026-01-01,Sunderland,Man City,Home,0,0,10,4,Draw,1,0
+2025-2026,2026-01-01,Tottenham,Brentford,Away,0,0,9,3,Draw,1,0
+2025-2026,2026-01-03,Arsenal,Bournemouth,Away,3,2,12,5,Win,3,1
+2025-2026,2026-01-03,Aston Villa,Nott'm Forest,Home,3,1,11,4,Win,3,2
+2025-2026,2026-01-03,Bournemouth,Arsenal,Home,2,3,15,3,Loss,0,-1
+2025-2026,2026-01-03,Brighton,Burnley,Home,2,0,15,4,Win,3,2
+2025-2026,2026-01-03,Burnley,Brighton,Away,0,2,5,3,Loss,0,-2
+2025-2026,2026-01-03,Nott'm Forest,Aston Villa,Away,1,3,10,5,Loss,0,-2
+2025-2026,2026-01-03,West Ham,Wolves,Away,0,3,6,0,Loss,0,-3
+2025-2026,2026-01-03,Wolves,West Ham,Home,3,0,11,8,Win,3,3
+2025-2026,2026-01-04,Brentford,Everton,Away,4,2,11,7,Win,3,2
+2025-2026,2026-01-04,Chelsea,Man City,Away,1,1,8,3,Draw,1,0
+2025-2026,2026-01-04,Crystal Palace,Newcastle,Away,0,2,11,1,Loss,0,-2
+2025-2026,2026-01-04,Everton,Brentford,Home,2,4,14,6,Loss,0,-2
+2025-2026,2026-01-04,Fulham,Liverpool,Home,2,2,8,2,Draw,1,0
+2025-2026,2026-01-04,Leeds,Man United,Home,1,1,11,3,Draw,1,0
+2025-2026,2026-01-04,Liverpool,Fulham,Away,2,2,10,2,Draw,1,0
+2025-2026,2026-01-04,Man City,Chelsea,Home,1,1,14,3,Draw,1,0
+2025-2026,2026-01-04,Man United,Leeds,Away,1,1,15,2,Draw,1,0
+2025-2026,2026-01-04,Newcastle,Crystal Palace,Home,2,0,12,7,Win,3,2
+2025-2026,2026-01-04,Sunderland,Tottenham,Away,1,1,10,3,Draw,1,0
+2025-2026,2026-01-04,Tottenham,Sunderland,Home,1,1,13,5,Draw,1,0
+2025-2026,2026-01-06,Nott'm Forest,West Ham,Away,2,1,13,5,Win,3,1
+2025-2026,2026-01-06,West Ham,Nott'm Forest,Home,1,2,14,3,Loss,0,-1
+2025-2026,2026-01-07,Aston Villa,Crystal Palace,Away,0,0,15,3,Draw,1,0
+2025-2026,2026-01-07,Bournemouth,Tottenham,Home,3,2,11,3,Win,3,1
+2025-2026,2026-01-07,Brentford,Sunderland,Home,3,0,18,6,Win,3,3
+2025-2026,2026-01-07,Brighton,Man City,Away,1,1,6,3,Draw,1,0
+2025-2026,2026-01-07,Burnley,Man United,Home,2,2,7,1,Draw,1,0
+2025-2026,2026-01-07,Chelsea,Fulham,Away,1,2,14,6,Loss,0,-1
+2025-2026,2026-01-07,Crystal Palace,Aston Villa,Home,0,0,11,5,Draw,1,0
+2025-2026,2026-01-07,Everton,Wolves,Home,1,1,13,2,Draw,1,0
+2025-2026,2026-01-07,Fulham,Chelsea,Home,2,1,16,5,Win,3,1
+2025-2026,2026-01-07,Leeds,Newcastle,Away,3,4,14,6,Loss,0,-1
+2025-2026,2026-01-07,Man City,Brighton,Home,1,1,22,6,Draw,1,0
+2025-2026,2026-01-07,Man United,Burnley,Away,2,2,30,10,Draw,1,0
+2025-2026,2026-01-07,Newcastle,Leeds,Home,4,3,18,8,Win,3,1
+2025-2026,2026-01-07,Sunderland,Brentford,Away,0,3,11,3,Loss,0,-3
+2025-2026,2026-01-07,Tottenham,Bournemouth,Away,2,3,16,4,Loss,0,-1
+2025-2026,2026-01-07,Wolves,Everton,Away,1,1,13,4,Draw,1,0
+2025-2026,2026-01-08,Arsenal,Liverpool,Home,0,0,9,4,Draw,1,0
+2025-2026,2026-01-08,Liverpool,Arsenal,Away,0,0,8,0,Draw,1,0
+2025-2026,2026-01-17,Arsenal,Nott'm Forest,Away,0,0,15,3,Draw,1,0
+2025-2026,2026-01-17,Brentford,Chelsea,Away,0,2,15,5,Loss,0,-2
+2025-2026,2026-01-17,Burnley,Liverpool,Away,1,1,7,1,Draw,1,0
+2025-2026,2026-01-17,Chelsea,Brentford,Home,2,0,6,2,Win,3,2
+2025-2026,2026-01-17,Crystal Palace,Sunderland,Away,1,2,6,2,Loss,0,-1
+2025-2026,2026-01-17,Fulham,Leeds,Away,0,1,8,1,Loss,0,-1
+2025-2026,2026-01-17,Leeds,Fulham,Home,1,0,14,5,Win,3,1
+2025-2026,2026-01-17,Liverpool,Burnley,Home,1,1,32,11,Draw,1,0
+2025-2026,2026-01-17,Man City,Man United,Away,0,2,7,1,Loss,0,-2
+2025-2026,2026-01-17,Man United,Man City,Home,2,0,11,7,Win,3,2
+2025-2026,2026-01-17,Nott'm Forest,Arsenal,Home,0,0,6,0,Draw,1,0
+2025-2026,2026-01-17,Sunderland,Crystal Palace,Home,2,1,13,7,Win,3,1
+2025-2026,2026-01-17,Tottenham,West Ham,Home,1,2,21,6,Loss,0,-1
+2025-2026,2026-01-17,West Ham,Tottenham,Away,2,1,17,4,Win,3,1
+2025-2026,2026-01-18,Aston Villa,Everton,Home,0,1,18,5,Loss,0,-1
+2025-2026,2026-01-18,Everton,Aston Villa,Away,1,0,9,3,Win,3,1
+2025-2026,2026-01-18,Newcastle,Wolves,Away,0,0,12,2,Draw,1,0
+2025-2026,2026-01-18,Wolves,Newcastle,Home,0,0,6,2,Draw,1,0
+2025-2026,2026-01-19,Bournemouth,Brighton,Away,1,1,11,2,Draw,1,0
+2025-2026,2026-01-19,Brighton,Bournemouth,Home,1,1,17,5,Draw,1,0
+2025-2026,2026-01-24,Bournemouth,Liverpool,Home,3,2,12,5,Win,3,1
+2025-2026,2026-01-24,Brighton,Fulham,Away,1,2,13,5,Loss,0,-1
+2025-2026,2026-01-24,Burnley,Tottenham,Home,2,2,9,4,Draw,1,0
+2025-2026,2026-01-24,Fulham,Brighton,Home,2,1,12,4,Win,3,1
+2025-2026,2026-01-24,Liverpool,Bournemouth,Away,2,3,14,4,Loss,0,-1
+2025-2026,2026-01-24,Man City,Wolves,Home,2,0,11,4,Win,3,2
+2025-2026,2026-01-24,Sunderland,West Ham,Away,1,3,7,2,Loss,0,-2
+2025-2026,2026-01-24,Tottenham,Burnley,Away,2,2,18,11,Draw,1,0
+2025-2026,2026-01-24,West Ham,Sunderland,Home,3,1,13,5,Win,3,2
+2025-2026,2026-01-24,Wolves,Man City,Away,0,2,11,1,Loss,0,-2
+2025-2026,2026-01-25,Arsenal,Man United,Home,2,3,15,4,Loss,0,-1
+2025-2026,2026-01-25,Aston Villa,Newcastle,Away,2,0,14,8,Win,3,2
+2025-2026,2026-01-25,Brentford,Nott'm Forest,Home,0,2,10,1,Loss,0,-2
+2025-2026,2026-01-25,Chelsea,Crystal Palace,Away,3,1,10,6,Win,3,2
+2025-2026,2026-01-25,Crystal Palace,Chelsea,Home,1,3,13,7,Loss,0,-2
+2025-2026,2026-01-25,Man United,Arsenal,Away,3,2,10,3,Win,3,1
+2025-2026,2026-01-25,Newcastle,Aston Villa,Home,0,2,15,4,Loss,0,-2
+2025-2026,2026-01-25,Nott'm Forest,Brentford,Away,2,0,7,2,Win,3,2
+2025-2026,2026-01-26,Everton,Leeds,Home,1,1,10,3,Draw,1,0
+2025-2026,2026-01-26,Leeds,Everton,Away,1,1,14,4,Draw,1,0
+2025-2026,2026-01-31,Arsenal,Leeds,Away,4,0,14,8,Win,3,4
+2025-2026,2026-01-31,Bournemouth,Wolves,Away,2,0,9,4,Win,3,2
+2025-2026,2026-01-31,Brighton,Everton,Home,1,1,11,2,Draw,1,0
+2025-2026,2026-01-31,Chelsea,West Ham,Home,3,2,14,6,Win,3,1
+2025-2026,2026-01-31,Everton,Brighton,Away,1,1,7,4,Draw,1,0
+2025-2026,2026-01-31,Leeds,Arsenal,Home,0,4,3,1,Loss,0,-4
+2025-2026,2026-01-31,Liverpool,Newcastle,Home,4,1,17,7,Win,3,3
+2025-2026,2026-01-31,Newcastle,Liverpool,Away,1,4,8,2,Loss,0,-3
+2025-2026,2026-01-31,West Ham,Chelsea,Away,2,3,11,6,Loss,0,-1
+2025-2026,2026-01-31,Wolves,Bournemouth,Home,0,2,17,7,Loss,0,-2
+2025-2026,2026-02-01,Aston Villa,Brentford,Home,0,1,27,5,Loss,0,-1
+2025-2026,2026-02-01,Brentford,Aston Villa,Away,1,0,6,2,Win,3,1
+2025-2026,2026-02-01,Crystal Palace,Nott'm Forest,Away,1,1,14,3,Draw,1,0
+2025-2026,2026-02-01,Fulham,Man United,Away,2,3,14,6,Loss,0,-1
+2025-2026,2026-02-01,Man City,Tottenham,Away,2,2,15,3,Draw,1,0
+2025-2026,2026-02-01,Man United,Fulham,Home,3,2,13,6,Win,3,1
+2025-2026,2026-02-01,Nott'm Forest,Crystal Palace,Home,1,1,9,1,Draw,1,0
+2025-2026,2026-02-01,Tottenham,Man City,Home,2,2,12,6,Draw,1,0
+2025-2026,2026-02-02,Burnley,Sunderland,Away,0,3,5,0,Loss,0,-3
+2025-2026,2026-02-02,Sunderland,Burnley,Home,3,0,14,5,Win,3,3
+2025-2026,2026-02-06,Leeds,Nott'm Forest,Home,3,1,14,5,Win,3,2
+2025-2026,2026-02-06,Nott'm Forest,Leeds,Away,1,3,16,6,Loss,0,-2
+2025-2026,2026-02-07,Arsenal,Sunderland,Home,3,0,16,5,Win,3,3
+2025-2026,2026-02-07,Aston Villa,Bournemouth,Away,1,1,7,4,Draw,1,0
+2025-2026,2026-02-07,Bournemouth,Aston Villa,Home,1,1,20,9,Draw,1,0
+2025-2026,2026-02-07,Brentford,Newcastle,Away,3,2,11,5,Win,3,1
+2025-2026,2026-02-07,Burnley,West Ham,Home,0,2,18,5,Loss,0,-2
+2025-2026,2026-02-07,Chelsea,Wolves,Away,3,1,15,6,Win,3,2
+2025-2026,2026-02-07,Everton,Fulham,Away,2,1,16,3,Win,3,1
+2025-2026,2026-02-07,Fulham,Everton,Home,1,2,13,3,Loss,0,-1
+2025-2026,2026-02-07,Man United,Tottenham,Home,2,0,23,10,Win,3,2
+2025-2026,2026-02-07,Newcastle,Brentford,Home,2,3,16,4,Loss,0,-1
+2025-2026,2026-02-07,Sunderland,Arsenal,Away,0,3,5,3,Loss,0,-3
+2025-2026,2026-02-07,Tottenham,Man United,Away,0,2,7,1,Loss,0,-2
+2025-2026,2026-02-07,West Ham,Burnley,Away,2,0,6,4,Win,3,2
+2025-2026,2026-02-07,Wolves,Chelsea,Home,1,3,11,3,Loss,0,-2
+2025-2026,2026-02-08,Brighton,Crystal Palace,Home,0,1,7,2,Loss,0,-1
+2025-2026,2026-02-08,Crystal Palace,Brighton,Away,1,0,7,4,Win,3,1
+2025-2026,2026-02-08,Liverpool,Man City,Home,1,2,15,4,Loss,0,-1
+2025-2026,2026-02-08,Man City,Liverpool,Away,2,1,17,7,Win,3,1
+2025-2026,2026-02-10,Bournemouth,Everton,Away,2,1,11,4,Win,3,1
+2025-2026,2026-02-10,Chelsea,Leeds,Home,2,2,19,4,Draw,1,0
+2025-2026,2026-02-10,Everton,Bournemouth,Home,1,2,16,6,Loss,0,-1
+2025-2026,2026-02-10,Leeds,Chelsea,Away,2,2,4,2,Draw,1,0
+2025-2026,2026-02-10,Man United,West Ham,Away,1,1,9,3,Draw,1,0
+2025-2026,2026-02-10,Newcastle,Tottenham,Away,2,1,21,5,Win,3,1
+2025-2026,2026-02-10,Tottenham,Newcastle,Home,1,2,16,2,Loss,0,-1
+2025-2026,2026-02-10,West Ham,Man United,Home,1,1,7,3,Draw,1,0
+2025-2026,2026-02-11,Aston Villa,Brighton,Home,1,0,15,1,Win,3,1
+2025-2026,2026-02-11,Brighton,Aston Villa,Away,0,1,9,3,Loss,0,-1
+2025-2026,2026-02-11,Burnley,Crystal Palace,Away,3,2,8,3,Win,3,1
+2025-2026,2026-02-11,Crystal Palace,Burnley,Home,2,3,21,3,Loss,0,-1
+2025-2026,2026-02-11,Fulham,Man City,Away,0,3,14,3,Loss,0,-3
+2025-2026,2026-02-11,Liverpool,Sunderland,Away,1,0,23,3,Win,3,1
+2025-2026,2026-02-11,Man City,Fulham,Home,3,0,13,5,Win,3,3
+2025-2026,2026-02-11,Nott'm Forest,Wolves,Home,0,0,35,10,Draw,1,0
+2025-2026,2026-02-11,Sunderland,Liverpool,Home,0,1,11,2,Loss,0,-1
+2025-2026,2026-02-11,Wolves,Nott'm Forest,Away,0,0,7,3,Draw,1,0
+2025-2026,2026-02-12,Arsenal,Brentford,Away,1,1,7,2,Draw,1,0
+2025-2026,2026-02-12,Brentford,Arsenal,Home,1,1,12,3,Draw,1,0
+2025-2026,2026-02-18,Arsenal,Wolves,Away,2,2,10,4,Draw,1,0
+2025-2026,2026-02-18,Wolves,Arsenal,Home,2,2,5,2,Draw,1,0
+2025-2026,2026-02-21,Aston Villa,Leeds,Home,1,1,16,4,Draw,1,0
+2025-2026,2026-02-21,Bournemouth,West Ham,Away,0,0,10,5,Draw,1,0
+2025-2026,2026-02-21,Brentford,Brighton,Home,0,2,13,3,Loss,0,-2
+2025-2026,2026-02-21,Brighton,Brentford,Away,2,0,11,7,Win,3,2
+2025-2026,2026-02-21,Burnley,Chelsea,Away,1,1,12,4,Draw,1,0
+2025-2026,2026-02-21,Chelsea,Burnley,Home,1,1,12,2,Draw,1,0
+2025-2026,2026-02-21,Leeds,Aston Villa,Away,1,1,14,4,Draw,1,0
+2025-2026,2026-02-21,Man City,Newcastle,Home,2,1,15,7,Win,3,1
+2025-2026,2026-02-21,Newcastle,Man City,Away,1,2,13,7,Loss,0,-1
+2025-2026,2026-02-21,West Ham,Bournemouth,Home,0,0,20,3,Draw,1,0
+2025-2026,2026-02-22,Arsenal,Tottenham,Away,4,1,20,7,Win,3,3
+2025-2026,2026-02-22,Crystal Palace,Wolves,Home,1,0,14,3,Win,3,1
+2025-2026,2026-02-22,Fulham,Sunderland,Away,3,1,12,4,Win,3,2
+2025-2026,2026-02-22,Liverpool,Nott'm Forest,Away,1,0,10,4,Win,3,1
+2025-2026,2026-02-22,Nott'm Forest,Liverpool,Home,0,1,18,2,Loss,0,-1
+2025-2026,2026-02-22,Sunderland,Fulham,Home,1,3,12,2,Loss,0,-2
+2025-2026,2026-02-22,Tottenham,Arsenal,Home,1,4,6,5,Loss,0,-3
+2025-2026,2026-02-22,Wolves,Crystal Palace,Away,0,1,12,7,Loss,0,-1
+2025-2026,2026-02-23,Everton,Man United,Home,0,1,12,4,Loss,0,-1
+2025-2026,2026-02-23,Man United,Everton,Away,1,0,11,3,Win,3,1
+2025-2026,2026-02-27,Aston Villa,Wolves,Away,0,2,14,5,Loss,0,-2
+2025-2026,2026-02-27,Wolves,Aston Villa,Home,2,0,9,2,Win,3,2
+2025-2026,2026-02-28,Bournemouth,Sunderland,Home,1,1,21,5,Draw,1,0
+2025-2026,2026-02-28,Brentford,Burnley,Away,4,3,16,7,Win,3,1
+2025-2026,2026-02-28,Burnley,Brentford,Home,3,4,12,3,Loss,0,-1
+2025-2026,2026-02-28,Everton,Newcastle,Away,3,2,9,5,Win,3,1
+2025-2026,2026-02-28,Leeds,Man City,Home,0,1,14,2,Loss,0,-1
+2025-2026,2026-02-28,Liverpool,West Ham,Home,5,2,18,7,Win,3,3
+2025-2026,2026-02-28,Man City,Leeds,Away,1,0,14,5,Win,3,1
+2025-2026,2026-02-28,Newcastle,Everton,Home,2,3,17,7,Loss,0,-1
+2025-2026,2026-02-28,Sunderland,Bournemouth,Away,1,1,8,4,Draw,1,0
+2025-2026,2026-02-28,West Ham,Liverpool,Away,2,5,11,4,Loss,0,-3
+2025-2026,2026-03-01,Arsenal,Chelsea,Home,2,1,12,5,Win,3,1
+2025-2026,2026-03-01,Brighton,Nott'm Forest,Home,2,1,14,7,Win,3,1
+2025-2026,2026-03-01,Chelsea,Arsenal,Away,1,2,9,3,Loss,0,-1
+2025-2026,2026-03-01,Crystal Palace,Man United,Away,1,2,8,3,Loss,0,-1
+2025-2026,2026-03-01,Fulham,Tottenham,Home,2,1,18,4,Win,3,1
+2025-2026,2026-03-01,Man United,Crystal Palace,Home,2,1,20,11,Win,3,1
+2025-2026,2026-03-01,Nott'm Forest,Brighton,Away,1,2,13,4,Loss,0,-1
+2025-2026,2026-03-01,Tottenham,Fulham,Away,1,2,13,1,Loss,0,-1
+2025-2026,2026-03-03,Bournemouth,Brentford,Home,0,0,13,2,Draw,1,0
+2025-2026,2026-03-03,Brentford,Bournemouth,Away,0,0,5,2,Draw,1,0
+2025-2026,2026-03-03,Burnley,Everton,Away,0,2,5,2,Loss,0,-2
+2025-2026,2026-03-03,Everton,Burnley,Home,2,0,14,5,Win,3,2
+2025-2026,2026-03-03,Leeds,Sunderland,Home,0,1,18,4,Loss,0,-1
+2025-2026,2026-03-03,Liverpool,Wolves,Away,1,2,19,7,Loss,0,-1
+2025-2026,2026-03-03,Sunderland,Leeds,Away,1,0,3,1,Win,3,1
+2025-2026,2026-03-03,Wolves,Liverpool,Home,2,1,4,3,Win,3,1
+2025-2026,2026-03-04,Arsenal,Brighton,Away,1,0,7,2,Win,3,1
+2025-2026,2026-03-04,Aston Villa,Chelsea,Home,1,4,9,4,Loss,0,-3
+2025-2026,2026-03-04,Brighton,Arsenal,Home,0,1,11,3,Loss,0,-1
+2025-2026,2026-03-04,Chelsea,Aston Villa,Away,4,1,15,8,Win,3,3
+2025-2026,2026-03-04,Fulham,West Ham,Home,0,1,13,5,Loss,0,-1
+2025-2026,2026-03-04,Man City,Nott'm Forest,Home,2,2,21,7,Draw,1,0
+2025-2026,2026-03-04,Man United,Newcastle,Away,1,2,14,5,Loss,0,-1
+2025-2026,2026-03-04,Newcastle,Man United,Home,2,1,12,5,Win,3,1
+2025-2026,2026-03-04,Nott'm Forest,Man City,Away,2,2,9,4,Draw,1,0
+2025-2026,2026-03-04,West Ham,Fulham,Away,1,0,9,3,Win,3,1
+2025-2026,2026-03-05,Crystal Palace,Tottenham,Away,3,1,9,4,Win,3,2
+2025-2026,2026-03-05,Tottenham,Crystal Palace,Home,1,3,12,4,Loss,0,-2
+2025-2026,2026-03-14,Arsenal,Everton,Home,2,0,25,7,Win,3,2
+2025-2026,2026-03-14,Bournemouth,Burnley,Away,0,0,22,3,Draw,1,0
+2025-2026,2026-03-14,Brighton,Sunderland,Away,1,0,12,4,Win,3,1
+2025-2026,2026-03-14,Burnley,Bournemouth,Home,0,0,15,2,Draw,1,0
+2025-2026,2026-03-14,Chelsea,Newcastle,Home,0,1,22,3,Loss,0,-1
+2025-2026,2026-03-14,Everton,Arsenal,Away,0,2,9,3,Loss,0,-2
+2025-2026,2026-03-14,Man City,West Ham,Away,1,1,24,6,Draw,1,0
+2025-2026,2026-03-14,Newcastle,Chelsea,Away,1,0,7,5,Win,3,1
+2025-2026,2026-03-14,Sunderland,Brighton,Home,0,1,14,4,Loss,0,-1
+2025-2026,2026-03-14,West Ham,Man City,Home,1,1,1,1,Draw,1,0
+2025-2026,2026-03-15,Aston Villa,Man United,Away,1,3,9,2,Loss,0,-2
+2025-2026,2026-03-15,Crystal Palace,Leeds,Home,0,0,12,0,Draw,1,0
+2025-2026,2026-03-15,Fulham,Nott'm Forest,Away,0,0,5,0,Draw,1,0
+2025-2026,2026-03-15,Leeds,Crystal Palace,Away,0,0,10,3,Draw,1,0
+2025-2026,2026-03-15,Liverpool,Tottenham,Home,1,1,17,4,Draw,1,0
+2025-2026,2026-03-15,Man United,Aston Villa,Home,3,1,16,6,Win,3,2
+2025-2026,2026-03-15,Nott'm Forest,Fulham,Home,0,0,11,2,Draw,1,0
+2025-2026,2026-03-15,Tottenham,Liverpool,Away,1,1,13,7,Draw,1,0
+2025-2026,2026-03-16,Brentford,Wolves,Home,2,2,10,3,Draw,1,0
+2025-2026,2026-03-16,Wolves,Brentford,Away,2,2,13,4,Draw,1,0
+2025-2026,2026-03-20,Bournemouth,Man United,Home,2,2,16,5,Draw,1,0
+2025-2026,2026-03-20,Man United,Bournemouth,Away,2,2,14,5,Draw,1,0
+2025-2026,2026-03-21,Brentford,Leeds,Away,0,0,6,2,Draw,1,0
+2025-2026,2026-03-21,Brighton,Liverpool,Home,2,1,16,7,Win,3,1
+2025-2026,2026-03-21,Burnley,Fulham,Away,1,3,9,5,Loss,0,-2
+2025-2026,2026-03-21,Chelsea,Everton,Away,0,3,12,4,Loss,0,-3
+2025-2026,2026-03-21,Everton,Chelsea,Home,3,0,10,9,Win,3,3
+2025-2026,2026-03-21,Fulham,Burnley,Home,3,1,22,6,Win,3,2
+2025-2026,2026-03-21,Leeds,Brentford,Home,0,0,14,4,Draw,1,0
+2025-2026,2026-03-21,Liverpool,Brighton,Away,1,2,12,5,Loss,0,-1
+2025-2026,2026-03-22,Aston Villa,West Ham,Home,2,0,23,7,Win,3,2
+2025-2026,2026-03-22,Newcastle,Sunderland,Home,1,2,16,4,Loss,0,-1
+2025-2026,2026-03-22,Nott'm Forest,Tottenham,Away,3,0,8,7,Win,3,3
+2025-2026,2026-03-22,Sunderland,Newcastle,Away,2,1,17,7,Win,3,1
+2025-2026,2026-03-22,Tottenham,Nott'm Forest,Home,0,3,14,3,Loss,0,-3
+2025-2026,2026-03-22,West Ham,Aston Villa,Away,0,2,9,1,Loss,0,-2
+2025-2026,2026-04-10,West Ham,Wolves,Home,4,0,18,7,Win,3,4
+2025-2026,2026-04-10,Wolves,West Ham,Away,0,4,14,3,Loss,0,-4
+2025-2026,2026-04-11,Arsenal,Bournemouth,Home,1,2,15,3,Loss,0,-1
+2025-2026,2026-04-11,Bournemouth,Arsenal,Away,2,1,8,3,Win,3,1
+2025-2026,2026-04-11,Brentford,Everton,Home,2,2,17,4,Draw,1,0
+2025-2026,2026-04-11,Brighton,Burnley,Away,2,0,13,6,Win,3,2
+2025-2026,2026-04-11,Burnley,Brighton,Home,0,2,10,5,Loss,0,-2
+2025-2026,2026-04-11,Everton,Brentford,Away,2,2,14,7,Draw,1,0
+2025-2026,2026-04-11,Fulham,Liverpool,Away,0,2,19,4,Loss,0,-2
+2025-2026,2026-04-11,Liverpool,Fulham,Home,2,0,18,5,Win,3,2
+2025-2026,2026-04-12,Aston Villa,Nott'm Forest,Away,1,1,12,5,Draw,1,0
+2025-2026,2026-04-12,Chelsea,Man City,Home,0,3,12,3,Loss,0,-3
+2025-2026,2026-04-12,Crystal Palace,Newcastle,Home,2,1,11,5,Win,3,1
+2025-2026,2026-04-12,Man City,Chelsea,Away,3,0,18,8,Win,3,3
+2025-2026,2026-04-12,Newcastle,Crystal Palace,Away,1,2,7,3,Loss,0,-1
+2025-2026,2026-04-12,Nott'm Forest,Aston Villa,Home,1,1,15,4,Draw,1,0
+2025-2026,2026-04-12,Sunderland,Tottenham,Home,1,0,13,2,Win,3,1
+2025-2026,2026-04-12,Tottenham,Sunderland,Away,0,1,11,7,Loss,0,-1
+2025-2026,2026-04-13,Leeds,Man United,Away,2,1,15,6,Win,3,1
+2025-2026,2026-04-13,Man United,Leeds,Home,1,2,20,9,Loss,0,-1
+2025-2026,2026-04-18,Bournemouth,Newcastle,Away,2,1,12,3,Win,3,1
+2025-2026,2026-04-18,Brentford,Fulham,Home,0,0,13,4,Draw,1,0
+2025-2026,2026-04-18,Brighton,Tottenham,Away,2,2,10,3,Draw,1,0
+2025-2026,2026-04-18,Chelsea,Man United,Home,0,1,21,3,Loss,0,-1
+2025-2026,2026-04-18,Fulham,Brentford,Away,0,0,11,0,Draw,1,0
+2025-2026,2026-04-18,Leeds,Wolves,Home,3,0,17,6,Win,3,3
+2025-2026,2026-04-18,Man United,Chelsea,Away,1,0,4,1,Win,3,1
+2025-2026,2026-04-18,Newcastle,Bournemouth,Home,1,2,12,3,Loss,0,-1
+2025-2026,2026-04-18,Tottenham,Brighton,Home,2,2,13,6,Draw,1,0
+2025-2026,2026-04-18,Wolves,Leeds,Away,0,3,7,2,Loss,0,-3
+2025-2026,2026-04-19,Arsenal,Man City,Away,1,2,9,3,Loss,0,-1
+2025-2026,2026-04-19,Aston Villa,Sunderland,Home,4,3,15,7,Win,3,1
+2025-2026,2026-04-19,Burnley,Nott'm Forest,Away,1,4,4,3,Loss,0,-3
+2025-2026,2026-04-19,Everton,Liverpool,Home,1,2,10,4,Loss,0,-1
+2025-2026,2026-04-19,Liverpool,Everton,Away,2,1,14,6,Win,3,1
+2025-2026,2026-04-19,Man City,Arsenal,Home,2,1,15,5,Win,3,1
+2025-2026,2026-04-19,Nott'm Forest,Burnley,Home,4,1,10,4,Win,3,3
+2025-2026,2026-04-19,Sunderland,Aston Villa,Away,3,4,10,7,Loss,0,-1
+2025-2026,2026-04-20,Crystal Palace,West Ham,Home,0,0,9,1,Draw,1,0
+2025-2026,2026-04-20,West Ham,Crystal Palace,Away,0,0,9,4,Draw,1,0
+2025-2026,2026-04-21,Brighton,Chelsea,Home,3,0,15,9,Win,3,3
+2025-2026,2026-04-21,Chelsea,Brighton,Away,0,3,6,0,Loss,0,-3
+2025-2026,2026-04-22,Bournemouth,Leeds,Home,2,2,17,7,Draw,1,0
+2025-2026,2026-04-22,Burnley,Man City,Home,0,1,9,1,Loss,0,-1
+2025-2026,2026-04-22,Leeds,Bournemouth,Away,2,2,10,3,Draw,1,0
+2025-2026,2026-04-22,Man City,Burnley,Away,1,0,28,9,Win,3,1
+2025-2026,2026-04-24,Nott'm Forest,Sunderland,Away,5,0,10,6,Win,3,5
+2025-2026,2026-04-24,Sunderland,Nott'm Forest,Home,0,5,14,4,Loss,0,-5
+2025-2026,2026-04-25,Arsenal,Newcastle,Home,1,0,11,4,Win,3,1
+2025-2026,2026-04-25,Aston Villa,Fulham,Away,0,1,10,1,Loss,0,-1
+2025-2026,2026-04-25,Crystal Palace,Liverpool,Away,1,3,14,7,Loss,0,-2
+2025-2026,2026-04-25,Everton,West Ham,Away,1,2,11,3,Loss,0,-1
+2025-2026,2026-04-25,Fulham,Aston Villa,Home,1,0,13,6,Win,3,1
+2025-2026,2026-04-25,Liverpool,Crystal Palace,Home,3,1,9,3,Win,3,2
+2025-2026,2026-04-25,Newcastle,Arsenal,Away,0,1,13,3,Loss,0,-1
+2025-2026,2026-04-25,Tottenham,Wolves,Away,1,0,11,2,Win,3,1
+2025-2026,2026-04-25,West Ham,Everton,Home,2,1,10,3,Win,3,1
+2025-2026,2026-04-25,Wolves,Tottenham,Home,0,1,11,2,Loss,0,-1
+2025-2026,2026-04-27,Brentford,Man United,Away,1,2,12,4,Loss,0,-1
+2025-2026,2026-04-27,Man United,Brentford,Home,2,1,11,6,Win,3,1
+2025-2026,2026-05-01,Burnley,Leeds,Away,1,3,9,3,Loss,0,-2
+2025-2026,2026-05-01,Leeds,Burnley,Home,3,1,18,8,Win,3,2
+2025-2026,2026-05-02,Arsenal,Fulham,Home,3,0,18,9,Win,3,3
+2025-2026,2026-05-02,Brentford,West Ham,Home,3,0,14,6,Win,3,3
+2025-2026,2026-05-02,Brighton,Newcastle,Away,1,3,13,4,Loss,0,-2
+2025-2026,2026-05-02,Fulham,Arsenal,Away,0,3,10,1,Loss,0,-3
+2025-2026,2026-05-02,Newcastle,Brighton,Home,3,1,13,6,Win,3,2
+2025-2026,2026-05-02,Sunderland,Wolves,Away,1,1,10,2,Draw,1,0
+2025-2026,2026-05-02,West Ham,Brentford,Away,0,3,13,4,Loss,0,-3
+2025-2026,2026-05-02,Wolves,Sunderland,Home,1,1,20,7,Draw,1,0
+2025-2026,2026-05-03,Aston Villa,Tottenham,Home,1,2,5,1,Loss,0,-1
+2025-2026,2026-05-03,Bournemouth,Crystal Palace,Home,3,0,16,5,Win,3,3
+2025-2026,2026-05-03,Crystal Palace,Bournemouth,Away,0,3,7,1,Loss,0,-3
+2025-2026,2026-05-03,Liverpool,Man United,Away,2,3,13,5,Loss,0,-1
+2025-2026,2026-05-03,Man United,Liverpool,Home,3,2,18,6,Win,3,1
+2025-2026,2026-05-03,Tottenham,Aston Villa,Away,2,1,10,5,Win,3,1
+2025-2026,2026-05-04,Chelsea,Nott'm Forest,Home,1,3,21,5,Loss,0,-2
+2025-2026,2026-05-04,Everton,Man City,Home,3,3,14,6,Draw,1,0
+2025-2026,2026-05-04,Man City,Everton,Away,3,3,21,4,Draw,1,0
+2025-2026,2026-05-04,Nott'm Forest,Chelsea,Away,3,1,6,4,Win,3,2
+2025-2026,2026-05-09,Bournemouth,Fulham,Away,1,0,10,5,Win,3,1
+2025-2026,2026-05-09,Brentford,Man City,Away,0,3,4,2,Loss,0,-3
+2025-2026,2026-05-09,Brighton,Wolves,Home,3,0,14,6,Win,3,3
+2025-2026,2026-05-09,Chelsea,Liverpool,Away,1,1,6,3,Draw,1,0
+2025-2026,2026-05-09,Fulham,Bournemouth,Home,0,1,14,2,Loss,0,-1
+2025-2026,2026-05-09,Liverpool,Chelsea,Home,1,1,8,3,Draw,1,0
+2025-2026,2026-05-09,Man City,Brentford,Home,3,0,25,10,Win,3,3
+2025-2026,2026-05-09,Man United,Sunderland,Away,0,0,11,1,Draw,1,0
+2025-2026,2026-05-09,Sunderland,Man United,Home,0,0,15,4,Draw,1,0
+2025-2026,2026-05-09,Wolves,Brighton,Away,0,3,5,1,Loss,0,-3
+2025-2026,2026-05-10,Arsenal,West Ham,Away,1,0,15,4,Win,3,1
+2025-2026,2026-05-10,Aston Villa,Burnley,Away,2,2,18,7,Draw,1,0
+2025-2026,2026-05-10,Burnley,Aston Villa,Home,2,2,15,6,Draw,1,0
+2025-2026,2026-05-10,Crystal Palace,Everton,Home,2,2,21,8,Draw,1,0
+2025-2026,2026-05-10,Everton,Crystal Palace,Away,2,2,13,6,Draw,1,0
+2025-2026,2026-05-10,Newcastle,Nott'm Forest,Away,1,1,16,6,Draw,1,0
+2025-2026,2026-05-10,Nott'm Forest,Newcastle,Home,1,1,17,6,Draw,1,0
+2025-2026,2026-05-10,West Ham,Arsenal,Home,0,1,9,3,Loss,0,-1
+2025-2026,2026-05-11,Leeds,Tottenham,Away,1,1,11,4,Draw,1,0
+2025-2026,2026-05-11,Tottenham,Leeds,Home,1,1,16,3,Draw,1,0
+2025-2026,2026-05-13,Crystal Palace,Man City,Away,0,3,6,2,Loss,0,-3
+2025-2026,2026-05-13,Man City,Crystal Palace,Home,3,0,15,4,Win,3,3
+2025-2026,2026-05-15,Aston Villa,Liverpool,Home,4,2,14,9,Win,3,2
+2025-2026,2026-05-15,Liverpool,Aston Villa,Away,2,4,16,5,Loss,0,-2
+2025-2026,2026-05-17,Brentford,Crystal Palace,Home,2,2,14,3,Draw,1,0
+2025-2026,2026-05-17,Brighton,Leeds,Away,0,1,19,8,Loss,0,-1
+2025-2026,2026-05-17,Crystal Palace,Brentford,Away,2,2,16,5,Draw,1,0
+2025-2026,2026-05-17,Everton,Sunderland,Home,1,3,10,4,Loss,0,-2
+2025-2026,2026-05-17,Fulham,Wolves,Away,1,1,13,5,Draw,1,0
+2025-2026,2026-05-17,Leeds,Brighton,Home,1,0,7,1,Win,3,1
+2025-2026,2026-05-17,Man United,Nott'm Forest,Home,3,2,29,8,Win,3,1
+2025-2026,2026-05-17,Newcastle,West Ham,Home,3,1,15,7,Win,3,2
+2025-2026,2026-05-17,Nott'm Forest,Man United,Away,2,3,11,4,Loss,0,-1
+2025-2026,2026-05-17,Sunderland,Everton,Away,3,1,7,3,Win,3,2
+2025-2026,2026-05-17,West Ham,Newcastle,Away,1,3,15,8,Loss,0,-2
+2025-2026,2026-05-17,Wolves,Fulham,Home,1,1,11,3,Draw,1,0
+2025-2026,2026-05-18,Arsenal,Burnley,Home,1,0,13,3,Win,3,1
+2025-2026,2026-05-18,Burnley,Arsenal,Away,0,1,5,0,Loss,0,-1
+2025-2026,2026-05-19,Bournemouth,Man City,Home,1,1,10,2,Draw,1,0
+2025-2026,2026-05-19,Chelsea,Tottenham,Home,2,1,9,4,Win,3,1
+2025-2026,2026-05-19,Man City,Bournemouth,Away,1,1,14,5,Draw,1,0
+2025-2026,2026-05-19,Tottenham,Chelsea,Away,1,2,9,3,Loss,0,-1
+2025-2026,2026-05-24,Arsenal,Crystal Palace,Away,2,1,17,7,Win,3,1
+2025-2026,2026-05-24,Aston Villa,Man City,Away,2,1,12,5,Win,3,1
+2025-2026,2026-05-24,Bournemouth,Nott'm Forest,Away,1,1,17,4,Draw,1,0
+2025-2026,2026-05-24,Brentford,Liverpool,Away,1,1,11,2,Draw,1,0
+2025-2026,2026-05-24,Brighton,Man United,Home,0,3,13,2,Loss,0,-3
+2025-2026,2026-05-24,Burnley,Wolves,Home,1,1,16,8,Draw,1,0
+2025-2026,2026-05-24,Chelsea,Sunderland,Away,1,2,10,1,Loss,0,-1
+2025-2026,2026-05-24,Crystal Palace,Arsenal,Home,1,2,8,3,Loss,0,-1
+2025-2026,2026-05-24,Everton,Tottenham,Away,0,1,8,3,Loss,0,-1
+2025-2026,2026-05-24,Fulham,Newcastle,Home,2,0,21,6,Win,3,2
+2025-2026,2026-05-24,Leeds,West Ham,Away,0,3,13,3,Loss,0,-3
+2025-2026,2026-05-24,Liverpool,Brentford,Home,1,1,24,8,Draw,1,0
+2025-2026,2026-05-24,Man City,Aston Villa,Home,1,2,16,3,Loss,0,-1
+2025-2026,2026-05-24,Man United,Brighton,Away,3,0,11,7,Win,3,3
+2025-2026,2026-05-24,Newcastle,Fulham,Away,0,2,7,2,Loss,0,-2
+2025-2026,2026-05-24,Nott'm Forest,Bournemouth,Home,1,1,15,5,Draw,1,0
+2025-2026,2026-05-24,Sunderland,Chelsea,Home,2,1,20,2,Win,3,1
+2025-2026,2026-05-24,Tottenham,Everton,Home,1,0,21,6,Win,3,1
+2025-2026,2026-05-24,West Ham,Leeds,Home,3,0,16,9,Win,3,3
+2025-2026,2026-05-24,Wolves,Burnley,Away,1,1,16,4,Draw,1,0
