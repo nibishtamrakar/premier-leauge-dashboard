@@ -40,6 +40,8 @@ stats["GoalDifference"] = stats["GoalsFor"] - stats["GoalsAgainst"]
 seasons = sorted(stats["Season"].astype(str).unique(), reverse=True)
 
 app = Dash(__name__)
+# Expose the Flask server for Vercel
+server = app.server
 app.title = "Premier League | Prototype Dashboard"
 
 PAGE = {"fontFamily": "Arial, sans-serif", "background": "#f4f7fb",
