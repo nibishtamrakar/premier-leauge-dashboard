@@ -39,10 +39,10 @@ stats = (matches.groupby(["Season", "Team"], as_index=False)
 stats["GoalDifference"] = stats["GoalsFor"] - stats["GoalsAgainst"]
 seasons = sorted(stats["Season"].astype(str).unique(), reverse=True)
 
-app = Dash(__name__)
-# Expose the Flask server for Vercel
-server = app.server
-app.title = "Premier League | Prototype Dashboard"
+dash_app = Dash(__name__)
+app = dash_app.server  # Vercel loads app:app as a Flask WSGI application
+server = app  # Optional alias for existing integrations
+dash_app.title = "Premier League | Prototype Dashboard"
 
 PAGE = {"fontFamily": "Arial, sans-serif", "background": "#f4f7fb",
         "minHeight": "100vh", "padding": "24px", "color": "#172b4d"}
@@ -60,7 +60,7 @@ def metric_card(label, value):
     ], style={**CARD, "flex": "1", "minWidth": "145px"})
 
 
-app.layout = html.Div([
+dash_app.layout = html.Div([
     html.H1("Premier League Performance Dashboard", style={"marginBottom": "4px"}),
     html.P("Compare points, attacking and defensive performance, and match outcomes.",
            style={"color": "#526276"}),
@@ -108,7 +108,7 @@ app.layout = html.Div([
 ], style=PAGE)
 
 
-@app.callback(Output("team-filter", "options"), Input("season-filter", "value"))
+@dash_app.callback(Output("team-filter", "options"), Input("season-filter", "value"))
 def teams_for_season(season):
     names = sorted(stats.loc[stats["Season"] == season, "Team"].tolist())
     return [{"label": t, "value": t} for t in names]
@@ -116,7 +116,7 @@ def teams_for_season(season):
 
 # The dropdown is the ONLY source of selected-team state. Chart clicks change it.
 # When the season changes, an old team's selection is cleared automatically.
-@app.callback(
+@dash_app.callback(
     Output("team-filter", "value"),
     Input("points-chart", "clickData"),
     Input("goals-chart", "clickData"),
@@ -140,7 +140,7 @@ def select_from_chart(bar_click, scatter_click, season, reset_clicks, previous):
     return team if team in valid else previous
 
 
-@app.callback(
+@dash_app.callback(
     Output("points-chart", "figure"),
     Output("goals-chart", "figure"),
     Output("outcomes-chart", "figure"),
@@ -283,5 +283,5 @@ def update_dashboard(season, selected_team):
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    dash_app.run(debug=True)
     
