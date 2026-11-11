@@ -8,8 +8,8 @@ An interactive dashboard built with **Python, Pandas, Plotly, and Dash** to expl
 
 ## Live demo and source
 
-- **Live dashboard:** [Add your working Vercel deployment URL here]
-- **GitHub repository:** [Add your repository URL here]
+- **Live dashboard:** [[Link to Deployed Dashboard](https://premier-leauge-dashboard.vercel.app/)]
+- **GitHub repository:** [Github Link](https://github.com/nibishtamrakar/premier-leauge-dashboard)
 
 Only add a live URL after opening it and confirming that the dashboard loads correctly.
 
