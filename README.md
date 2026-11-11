@@ -97,19 +97,6 @@ python .\app.py
 
 Open **http://127.0.0.1:8050/** in your browser. Stop the server with **Ctrl+C**.
 
-The `requirements.txt` file should include `pandas`, `plotly`, and `dash` (plus any other packages imported by the project).
-
-## Deploy on Vercel
-
-This project's `app.py` exposes the underlying Flask WSGI application as `app`, so Vercel can import `app:app`, while `python app.py` runs the local Dash development server.
-
-1. Push the project, `requirements.txt`, and **`data/premier_league_teams.csv`** to GitHub. Do **not** commit `venv/`.
-2. In [Vercel](https://vercel.com/new), import the GitHub repository; select the project root as the root directory.
-3. Deploy, then test the resulting URL (including selecting a bar and a scatter bubble).
-4. If the deployment shows a `500` error, review **Vercel → Project → Logs** for the Python traceback. Confirm that the repository contains the CSV and exports a Flask application as `app`.
-
-A working hosted link is preferable, but the prototype rubric also accepts a repository with setup instructions.
-
 ## Project files
 
 ```text
@@ -127,16 +114,6 @@ premier-league-dashboard/
     └── team_selection.png          # Add before submission
 ```
 
-## Prototype rubric alignment
-
-| Criterion | Evidence |
-| --- | --- |
-| **1. Data loaded and prepared (4 pts)** | Real, multi-season Premier League CSV data; cleaning and aggregation described above. |
-| **2. Three distinct views (4 pts)** | Points bar chart, goals/wins bubble scatterplot, and outcome donut; each addresses a research question. |
-| **3. Four or more dimensions encoded (4 pts)** | Team, points, goals scored, goals conceded, wins, outcomes, and season, with channels justified above. |
-| **4. Basic interaction and linking (4 pts)** | Cross-chart team selection, season filter, reset, and detailed hover tooltips. |
-| **5. Peer feedback (4 pts)** | Live demonstration and separate feedback log (maximum half a page), completed after the in-class session. |
-
 ### Prototype verification checklist
 
 - [ ] Dashboard starts locally and renders three views using the real dataset.
@@ -145,27 +122,19 @@ premier-league-dashboard/
 - [ ] Scatter click selects a team and updates the other views.
 - [ ] Donut categories have distinct colors, labels, and counts on hover.
 - [ ] Live Vercel URL loads, **or** repository instructions work on a clean local setup.
-- [ ] One or two screenshots are committed and linked below.
-- [ ] In-class live demo is completed and peer feedback log is submitted.
 
 ## Screenshots
-
-Add screenshots after testing the application:
 
 - **Dashboard overview:** `screenshots/dashboard_overview.png` — three charts, filters, and summary cards.
 - **Selected-team interaction:** `screenshots/team_selection.png` — selected club at the front of the bar chart, highlighted in the scatterplot, and reflected in the donut chart.
 
-<!-- Uncomment after adding the actual screenshots:
 ![Premier League dashboard overview](screenshots/dashboard_overview.png)
 ![Coordinated team selection](screenshots/team_selection.png)
--->
 
-## Peer feedback and next steps
-
-For the in-class session, ask peers to (1) identify the highest-point team for a season, (2) select a team and interpret its outcomes, and (3) use the scatterplot to select another team and observe linked changes. Document **who gave feedback, issues observed, and planned fixes** in a separate log of no more than **half a page**. Do not report feedback until testing has happened.
+## Next Steps
 
 Potential final-project improvements include full linked brushing, tighter responsive layout, expanded keyboard/accessibility testing, and revisions based on actual peer observations.
 
 ## Attribution
 
-Match data: [Football-Data.co.uk](https://www.football-data.co.uk/englandm.php). Dashboard implementation: Python, Pandas, Plotly, and Dash. The data is used for an educational visualization project.
+Match data: [Football-Data.co.uk](https://www.football-data.co.uk/englandm.php). Dashboard implementation: Python, Pandas, Plotly, and Dash. 
