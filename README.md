@@ -15,13 +15,13 @@ Only add a live URL after opening it and confirming that the dashboard loads cor
 
 ## Research questions and views
 
-| View | Research question | What it displays |
-| --- | --- | --- |
-| **1. Team Points Comparison** (bar chart) | Which teams earned the most points in a selected season? | Teams versus total league points. Selecting a team moves its bar to the first position and highlights it; the other teams retain their relative points ranking. |
-| **2. Goals Scored vs. Conceded** (bubble scatter plot) | How does attacking and defensive performance relate to match wins? | X = goals scored, Y = goals conceded, bubble area = number of wins. Selected team = blue diamond with dark outline; other teams = gray circles. |
-| **3. Match Outcomes** (donut chart) | What proportions of a team's matches end in wins, draws, or losses? | Win, draw, and loss counts and percentages for the selected team, or aggregated **team-match outcomes** when no team is selected. |
+| View                                                   | Research question                                                   | What it displays                                                                                                                                                |
+| ------------------------------------------------------ | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Team Points Comparison** (bar chart)              | Which teams earned the most points in a selected season?            | Teams versus total league points. Selecting a team moves its bar to the first position and highlights it; the other teams retain their relative points ranking. |
+| **2. Goals Scored vs. Conceded** (bubble scatter plot) | How does attacking and defensive performance relate to match wins?  | X = goals scored, Y = goals conceded, bubble area = number of wins. Selected team = blue diamond with dark outline; other teams = gray circles.                 |
+| **3. Match Outcomes** (donut chart)                    | What proportions of a team's matches end in wins, draws, or losses? | Win, draw, and loss counts and percentages for the selected team, or aggregated **team-match outcomes** when no team is selected.                               |
 
-**Note on aggregation:** The team-level data has two records per Premier League match (one per club). With *All teams* selected, the donut counts outcomes from both teams' perspectives, not unique matches. In that state, every draw contributes two draw outcomes, and a decisive match contributes one win and one loss.
+**Note on aggregation:** The team-level data has two records per Premier League match (one per club). With _All teams_ selected, the donut counts outcomes from both teams' perspectives, not unique matches. In that state, every draw contributes two draw outcomes, and a decisive match contributes one win and one loss.
 
 ## Dataset
 
@@ -48,15 +48,15 @@ The dashboard reads **`data/premier_league_teams.csv`** and further aggregates i
 
 ### Data dimensions and visual encodings
 
-| Dimension | Type | Encoding | Rationale |
-| --- | --- | --- | --- |
-| Team | Nominal | Text labels / category position | Makes clubs identifiable without assigning numerical meaning. |
-| League points | Quantitative | Bar length and common vertical scale | Supports accurate magnitude comparisons. |
-| Goals scored | Quantitative | Scatterplot horizontal position | Supports precise comparison along a shared axis. |
-| Goals conceded | Quantitative | Scatterplot vertical position | Allows direct comparison against attacking output. |
-| Wins | Quantitative | Scatterplot **marker area** | Adds a third measure to the plot; hover provides exact values. |
-| Match outcome | Nominal | Donut segment color **plus text label** | Differentiates categories without relying on color alone. |
-| Season | Ordered temporal category | Dropdown filter | Enables meaningful comparison by season without mixing season totals. |
+| Dimension      | Type                      | Encoding                                | Rationale                                                             |
+| -------------- | ------------------------- | --------------------------------------- | --------------------------------------------------------------------- |
+| Team           | Nominal                   | Text labels / category position         | Makes clubs identifiable without assigning numerical meaning.         |
+| League points  | Quantitative              | Bar length and common vertical scale    | Supports accurate magnitude comparisons.                              |
+| Goals scored   | Quantitative              | Scatterplot horizontal position         | Supports precise comparison along a shared axis.                      |
+| Goals conceded | Quantitative              | Scatterplot vertical position           | Allows direct comparison against attacking output.                    |
+| Wins           | Quantitative              | Scatterplot **marker area**             | Adds a third measure to the plot; hover provides exact values.        |
+| Match outcome  | Nominal                   | Donut segment color **plus text label** | Differentiates categories without relying on color alone.             |
+| Season         | Ordered temporal category | Dropdown filter                         | Enables meaningful comparison by season without mixing season totals. |
 
 **Accessibility choices:** The scatterplot uses blue (`#0072B2`) and gray (`#AEB8C4`) plus **diamond versus circle shape** and outline to identify the selected team. The donut uses blue for wins (`#0072B2`), amber for draws (`#E69F00`), and reddish purple for losses (`#CC79A7`), with direct labels, percentages, and hover values. These colors are based on the Okabe–Ito color-blind-conscious palette. The selected team moves to the first position in the points chart as an interaction cue; note that this intentionally overrides strict league order for that one bar.
 
@@ -137,4 +137,4 @@ Potential final-project improvements include full linked brushing, tighter respo
 
 ## Attribution
 
-Match data: [Football-Data.co.uk](https://www.football-data.co.uk/englandm.php). Dashboard implementation: Python, Pandas, Plotly, and Dash. 
+Match data: [Football-Data.co.uk](https://www.football-data.co.uk/englandm.php). Dashboard implementation: Python, Pandas, Plotly, and Dash.

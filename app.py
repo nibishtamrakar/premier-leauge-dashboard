@@ -49,7 +49,7 @@ stats = (
 stats["GoalDifference"] = stats["GoalsFor"] - stats["GoalsAgainst"]
 seasons = sorted(stats["Season"].unique(), reverse=True)
 
-# Vermillion is exclusively a focus highlight, never an outcome category.
+
 SELECTION = "#D55E00"
 NEUTRAL = "#8293A6"
 DARK = "#213246"
@@ -62,6 +62,7 @@ GRAPH_CONFIG = {
     "scrollZoom": False,
     "displaylogo": False,
     "doubleClick": False,
+    "displayModeBar": False,
     "modeBarButtonsToRemove": ["toImage", "lasso2d", "select2d", "zoom2d", "pan2d", "autoScale2d", "resetScale2d"],
 }
 
@@ -98,6 +99,7 @@ def common_layout(fig):
         hoverlabel=dict(bgcolor="white", font_size=12, font_color=DARK),
         transition=dict(duration=0),
         uirevision="layout-fixed",
+        clickmode="event",
     )
     return fig
 
@@ -105,10 +107,13 @@ def common_layout(fig):
 def goals_bubble_figure(table, chosen, season):
     """2D bubble chart: goals scored vs conceded, bubble area = wins."""
     fig = go.Figure()
+    # Show a small number of meaningful labels so newcomers can orient
+    # themselves without having to hover over every bubble. These labels
+    # identify the highest-scoring team, strongest defense, and most wins.
     labels = {
         table.loc[table["GoalsFor"].idxmax(), "Team"],
         table.loc[table["GoalsAgainst"].idxmin(), "Team"],
-        table.loc[table["Points"].idxmax(), "Team"],
+        table.loc[table["Wins"].idxmax(), "Team"],
     }
     if chosen:
         labels.add(chosen)
@@ -127,8 +132,8 @@ def goals_bubble_figure(table, chosen, season):
             mode="markers+text",
             name=name,
             text=[team if team in labels else "" for team in frame["Team"]],
-            textposition="top center",
-            textfont=dict(size=11, color=DARK),
+            textposition="top center" if not selected else "bottom center",
+            textfont=dict(size=11 if not selected else 12, color=DARK),
             customdata=custom,
             marker=dict(
                 size=frame["Wins"].clip(lower=1).tolist(),
@@ -160,6 +165,7 @@ def goals_bubble_figure(table, chosen, season):
         legend=dict(orientation="h", x=0.02, y=1.12),
         dragmode=False,
         uirevision=f"goals-{season}",
+        height=280,
     )
     fig.update_xaxes(title="Goals scored", fixedrange=True, gridcolor="#E9EEF4", zeroline=False)
     fig.update_yaxes(title="Goals conceded", fixedrange=True, gridcolor="#E9EEF4", zeroline=False)
@@ -286,7 +292,7 @@ dash_app.layout = html.Div(className="dashboard-page", children=[
             ]),
             html.Section(className="panel comparison-card", children=[
                 html.H2("2. Win / draw / loss by club"),
-                html.P("Each row shows the share of a club's matches resulting in each outcome."),
+                html.P("Each club's bar totals 100%: blue = wins, amber = draws, purple = losses. Hover for exact counts; click any segment to select its club."),
                 html.Div(className="chart-scroll", children=[
                     dcc.Graph(id="outcomes-chart", className="comparison-graph", config=GRAPH_CONFIG),
                 ]),
@@ -297,7 +303,16 @@ dash_app.layout = html.Div(className="dashboard-page", children=[
             html.Div(className="panel-heading", children=[
                 html.Div([
                     html.H2("3. Goals scored vs. goals conceded"),
-                    html.P("X = goals scored · Y = goals conceded · bubble area = wins. Click a bubble to select a team."),
+                    html.P("How to read: farther right = more goals scored; higher up = more goals conceded. Larger bubbles = more wins. Hover for the club name and exact statistics; click any bubble to highlight that club across the dashboard."),
+                    html.Div(className="bubble-guide", children=[
+                        html.Span("Bubble size = wins:", className="guide-heading"),
+                        html.Span(className="bubble-example bubble-small", **{"aria-hidden": "true"}),
+                        html.Span("fewer wins"),
+                        html.Span(className="bubble-example bubble-large", **{"aria-hidden": "true"}),
+                        html.Span("more wins"),
+                        html.Span(className="selection-example", **{"aria-hidden": "true"}),
+                        html.Span("orange diamond = selected club"),
+                    ]),
                 ]),
             ]),
             dcc.Graph(id="goals-chart", className="graph-bubble", config=GRAPH_CONFIG),
